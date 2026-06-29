@@ -1,3 +1,6 @@
 [gd_resource type="Theme" format=3 uid="uid://dqv85r4q864p8"]
 
+[ext_resource type="FontFile" uid="uid://cgfp82kmvy1al" path="res://Fonts/editundo.ttf" id="1_3n56c"]
+
 [resource]
+default_font = ExtResource("1_3n56c")

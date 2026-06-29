@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://xejlkwn4u7y5"
+path="res://.godot/imported/sfx_bump.ogg-9c0a8f1965f37fd59565a9c22d513b1f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sounds/sfx_bump.ogg"
+dest_files=["res://.godot/imported/sfx_bump.ogg-9c0a8f1965f37fd59565a9c22d513b1f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

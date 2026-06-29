@@ -16,6 +16,16 @@
 [ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
 [ext_resource type="PackedScene" uid="uid://wkbomnvimjv5" path="res://Scenes/title_screen_overlay.tscn" id="15_yfvjg"]
 [ext_resource type="Environment" uid="uid://dbprro1tvfr1v" path="res://Resources/TitleScreenEvironment.tres" id="16_a3osx"]
+[ext_resource type="ArrayMesh" uid="uid://cuck6kcorbf3v" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large.obj" id="17_2fksa"]
+[ext_resource type="ArrayMesh" uid="uid://dck8ohr63iof7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-long.obj" id="18_e5hio"]
+[ext_resource type="ArrayMesh" uid="uid://ds0ni0tthtgd2" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large-tall.obj" id="19_qncco"]
+[ext_resource type="ArrayMesh" uid="uid://b7n2jf66mqvsv" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-edge.obj" id="20_3yrt6"]
+[ext_resource type="ArrayMesh" uid="uid://dy7bwtryp6mol" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-corner-overhang-low.obj" id="21_g2bic"]
+[ext_resource type="ArrayMesh" uid="uid://bdufjdr464ueu" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-low-narrow.obj" id="22_g1cfl"]
+[ext_resource type="ArrayMesh" uid="uid://bv5hk7xyce6p3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow.obj" id="23_lihk3"]
+[ext_resource type="ArrayMesh" uid="uid://bf6aqjirtr8ui" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow.obj" id="24_cpk1o"]
+[ext_resource type="ArrayMesh" uid="uid://bdi88pjk478f4" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow-small.obj" id="25_fpwa2"]
+[ext_resource type="ArrayMesh" uid="uid://siog51mrhp48" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/ladder.obj" id="26_3wpcu"]
 
 [node name="Title_screen_experimental_3D" type="Node3D" unique_id=2139015582]
 
@@ -120,6 +130,94 @@ mesh = ExtResource("14_qncco")
 [node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
 environment = ExtResource("16_a3osx")
 
-[node name="BlockGrassLarge2" type="MeshInstance3D" parent="." unique_id=1597184535]
-transform = Transform3D(2.8113568, 0, 0, 0, 1.5322207, 0, 0, 0, 2.3538322, 5.8622184, -2.728572, 3.6879306)
-mesh = ExtResource("1_2obyt")
+[node name="BlockSnowLarge" type="MeshInstance3D" parent="." unique_id=1792619848]
+transform = Transform3D(5.020667, 0, 0, 0, 3.2350218, 0, 0, 0, 5.337479, -12.935797, -4.194628, -4.764847)
+mesh = ExtResource("17_2fksa")
+
+[node name="BlockSnowLarge2" type="MeshInstance3D" parent="." unique_id=1043467472]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.055761, -0.9930711, -2.8799996)
+mesh = ExtResource("17_2fksa")
+
+[node name="BlockSnowLong" type="MeshInstance3D" parent="." unique_id=436066682]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.581736, -1.4235113, -3.5075898)
+mesh = ExtResource("18_e5hio")
+
+[node name="BlockSnowLargeTall" type="MeshInstance3D" parent="." unique_id=1403673717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.552341, -1.327621, -4.460691)
+mesh = ExtResource("19_qncco")
+
+[node name="BlockSnowEdge" type="MeshInstance3D" parent="." unique_id=8482523]
+transform = Transform3D(0.06352431, 0, 0.9979803, 0, 1, 0, -0.9979803, 0, 0.06352431, -13.292393, -0.5780735, -4.797077)
+mesh = ExtResource("20_3yrt6")
+
+[node name="BlockSnowCornerOverhangLow" type="MeshInstance3D" parent="." unique_id=176918715]
+transform = Transform3D(0.012079142, 0, -0.99992704, 0, 1, 0, 0.99992704, 0, 0.012079142, -10.353395, -0.21871984, -5.9490714)
+mesh = ExtResource("21_g2bic")
+
+[node name="BlockSnowLowNarrow" type="MeshInstance3D" parent="." unique_id=181473211]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.065264, -1.020942, -5.376062)
+mesh = ExtResource("22_g1cfl")
+
+[node name="BlockSnow" type="MeshInstance3D" parent="." unique_id=1601572409]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.431147, -1.1483867, -5.8533306)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnowLarge3" type="MeshInstance3D" parent="." unique_id=1160849337]
+transform = Transform3D(1.1110059, 0, 0, 0, 1.2427948, 0, 0, 0, 1.1372485, -10.795067, -0.9297029, -7.3175187)
+mesh = ExtResource("17_2fksa")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="." unique_id=1300591262]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -16.223396, -1.0089858, -0.4154129)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow" unique_id=1551993609]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.07566452, -0.12810838, -1.0944891)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow" unique_id=10600209]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7791004, -0.12810838, -1.0944891)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow" unique_id=801163762]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4516697, 0.3811642, 1.1159151)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow2" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow" unique_id=14335339]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.21674538, -0.12810838, -2.242652)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow/TreePineSnow2" unique_id=1454383740]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4516697, 0.3811642, 1.1159151)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnowSmall" type="MeshInstance3D" parent="." unique_id=1545173558]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.770107, -0.94323707, -0.9596612)
+mesh = ExtResource("25_fpwa2")
+
+[node name="TreePineSnowSmall" type="MeshInstance3D" parent="TreePineSnowSmall" unique_id=1133430535]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0737152, -0.027386546, 1.0494815)
+mesh = ExtResource("25_fpwa2")
+
+[node name="Rocks2" type="MeshInstance3D" parent="." unique_id=227078319]
+transform = Transform3D(0.8833333, 0, 0.46874535, 0, 1, 0, -0.46874535, 0, 0.8833333, -14.070873, -0.9667139, -2.0477839)
+mesh = ExtResource("9_1b0er")
+
+[node name="Ladder" type="MeshInstance3D" parent="." unique_id=604382792]
+transform = Transform3D(-0.046815727, 0, 0.9989036, 0, 1, 0, -0.9989036, 0, -0.046815727, -9.650581, -0.9127753, -6.80029)
+mesh = ExtResource("26_3wpcu")
+
+[node name="TreePineSnow2" type="MeshInstance3D" parent="." unique_id=833365767]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -16.52849, -0.9292904, -3.2668989)
+mesh = ExtResource("24_cpk1o")
+
+[node name="BlockSnow2" type="MeshInstance3D" parent="." unique_id=849649331]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.457439, -1.3116779, -2.2395868)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnow3" type="MeshInstance3D" parent="." unique_id=774279454]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.798243, -0.9623735, -2.9860086)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnow4" type="MeshInstance3D" parent="." unique_id=471329164]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.62991, -1.5981777, -1.7149563)
+mesh = ExtResource("23_lihk3")

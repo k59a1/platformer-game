@@ -15,7 +15,7 @@ run/main_scene="uid://wkbomnvimjv5"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 boot_splash/stretch_mode=0
 boot_splash/use_filter=false
-boot_splash/image="/home/pixeleyesd/stardance/PixelOS/ContactsApp.png"
+boot_splash/image="uid://cbbpkwbsfyvqi"
 config/icon="res://icon.svg"
 
 [display]

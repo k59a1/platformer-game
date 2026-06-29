@@ -15,8 +15,13 @@
 [ext_resource type="ArrayMesh" uid="uid://djhp333sku65h" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj" id="13_e5hio"]
 [ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
 [ext_resource type="PackedScene" uid="uid://wkbomnvimjv5" path="res://Scenes/title_screen_overlay.tscn" id="15_yfvjg"]
+[ext_resource type="Environment" uid="uid://dbprro1tvfr1v" path="res://Resources/TitleScreenEvironment.tres" id="16_a3osx"]
 
 [node name="Title_screen_experimental_3D" type="Node3D" unique_id=2139015582]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1569207826]
+transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, 0, 0, 0)
+shadow_enabled = true
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
 transform = Transform3D(0.7009093, -0.3539266, 0.6192432, 0, 0.8681988, 0.4962165, -0.7132504, -0.34780276, 0.6085287, 7.1840105, 6.0519023, 7.950076)
@@ -112,5 +117,5 @@ mesh = ExtResource("14_qncco")
 
 [node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
 
-[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=755046422]
-transform = Transform3D(1, 0, 0, 0, -0.3468449, 0.9379225, 0, -0.9379225, -0.3468449, -1.142201, 11.715757, -3.6841884)
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
+environment = ExtResource("16_a3osx")

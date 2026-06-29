@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3r5mtjpd5uug"
-path="res://.godot/imported/mouse_walk_b.svg-9fdee2d81ec43f93b68bb39c42ba1206.ctex"
+path="res://.godot/imported/mouse_walk_b.svg-4a3453c89dc739fec88e8be54c364bef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/mouse_walk_b.svg"
-dest_files=["res://.godot/imported/mouse_walk_b.svg-9fdee2d81ec43f93b68bb39c42ba1206.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/mouse_walk_b.svg"
+dest_files=["res://.godot/imported/mouse_walk_b.svg-4a3453c89dc739fec88e8be54c364bef.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bmdjwaqkll20p"
-path="res://.godot/imported/block-snow-low-hexagon.obj-901bead23ac84c97869eed3f77e71f46.mesh"
+path="res://.godot/imported/block-snow-low-hexagon.obj-577b24478f013c133a2ef180aac6cea0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-low-hexagon.obj-901bead23ac84c97869eed3f77e71f46.mesh"]
+files=["res://.godot/imported/block-snow-low-hexagon.obj-577b24478f013c133a2ef180aac6cea0.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-low-hexagon.obj"
-dest_files=["res://.godot/imported/block-snow-low-hexagon.obj-901bead23ac84c97869eed3f77e71f46.mesh", "res://.godot/imported/block-snow-low-hexagon.obj-901bead23ac84c97869eed3f77e71f46.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-low-hexagon.obj"
+dest_files=["res://.godot/imported/block-snow-low-hexagon.obj-577b24478f013c133a2ef180aac6cea0.mesh", "res://.godot/imported/block-snow-low-hexagon.obj-577b24478f013c133a2ef180aac6cea0.mesh"]
 
 [params]
 

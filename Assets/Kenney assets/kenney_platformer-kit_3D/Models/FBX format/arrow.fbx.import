@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yghhfqvcic1b"
-path="res://.godot/imported/arrow.fbx-1e064b9d3c2d9d5c76061b322479e74b.scn"
+path="res://.godot/imported/arrow.fbx-5112d8165379b4ccc23ca4ffe5a18d0d.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/arrow.fbx"
-dest_files=["res://.godot/imported/arrow.fbx-1e064b9d3c2d9d5c76061b322479e74b.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/arrow.fbx"
+dest_files=["res://.godot/imported/arrow.fbx-5112d8165379b4ccc23ca4ffe5a18d0d.scn"]
 
 [params]
 

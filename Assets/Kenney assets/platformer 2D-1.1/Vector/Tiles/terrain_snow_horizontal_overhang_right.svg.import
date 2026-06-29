@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2dyuwsesdi8p"
-path="res://.godot/imported/terrain_snow_horizontal_overhang_right.svg-488aaaf400e01ed7f8d740de01bb5ff6.ctex"
+path="res://.godot/imported/terrain_snow_horizontal_overhang_right.svg-f21c1cfbd4788dc1eb83f7f4abf3a8a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_horizontal_overhang_right.svg"
-dest_files=["res://.godot/imported/terrain_snow_horizontal_overhang_right.svg-488aaaf400e01ed7f8d740de01bb5ff6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_horizontal_overhang_right.svg"
+dest_files=["res://.godot/imported/terrain_snow_horizontal_overhang_right.svg-f21c1cfbd4788dc1eb83f7f4abf3a8a0.ctex"]
 
 [params]
 

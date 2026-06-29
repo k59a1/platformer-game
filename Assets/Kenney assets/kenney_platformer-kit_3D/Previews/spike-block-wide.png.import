@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbp7127anjoj1"
-path="res://.godot/imported/spike-block-wide.png-8504fcb213ac4ac58696600e4be11185.ctex"
+path="res://.godot/imported/spike-block-wide.png-f62d934b13008919c41b59561c6d2259.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/spike-block-wide.png"
-dest_files=["res://.godot/imported/spike-block-wide.png-8504fcb213ac4ac58696600e4be11185.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/spike-block-wide.png"
+dest_files=["res://.godot/imported/spike-block-wide.png-f62d934b13008919c41b59561c6d2259.ctex"]
 
 [params]
 

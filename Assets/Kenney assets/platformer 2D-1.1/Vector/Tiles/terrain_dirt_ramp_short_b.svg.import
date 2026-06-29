@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6nf3vga1jh2a"
-path="res://.godot/imported/terrain_dirt_ramp_short_b.svg-d60026019f89022116475fa177a37637.ctex"
+path="res://.godot/imported/terrain_dirt_ramp_short_b.svg-400e5e1c95c94bbc666d19984aa583fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_ramp_short_b.svg"
-dest_files=["res://.godot/imported/terrain_dirt_ramp_short_b.svg-d60026019f89022116475fa177a37637.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_ramp_short_b.svg"
+dest_files=["res://.godot/imported/terrain_dirt_ramp_short_b.svg-400e5e1c95c94bbc666d19984aa583fe.ctex"]
 
 [params]
 

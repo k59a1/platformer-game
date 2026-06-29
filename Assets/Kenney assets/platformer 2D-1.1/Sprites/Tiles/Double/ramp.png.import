@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc810g8sfg28l"
-path="res://.godot/imported/ramp.png-1911bb5443c899f2139d85aa464dac16.ctex"
+path="res://.godot/imported/ramp.png-71c175e7b954410e8f39055949e3484e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/ramp.png"
-dest_files=["res://.godot/imported/ramp.png-1911bb5443c899f2139d85aa464dac16.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/ramp.png"
+dest_files=["res://.godot/imported/ramp.png-71c175e7b954410e8f39055949e3484e.ctex"]
 
 [params]
 

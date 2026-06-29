@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmciqiiyfvnek"
-path="res://.godot/imported/background_fade_trees.png-fe82274360a2bc02a289e8c1b3e4de7a.ctex"
+path="res://.godot/imported/background_fade_trees.png-9b67e92a23f688567d33ce7fef19a2d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_fade_trees.png"
-dest_files=["res://.godot/imported/background_fade_trees.png-fe82274360a2bc02a289e8c1b3e4de7a.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_fade_trees.png"
+dest_files=["res://.godot/imported/background_fade_trees.png-9b67e92a23f688567d33ce7fef19a2d1.ctex"]
 
 [params]
 

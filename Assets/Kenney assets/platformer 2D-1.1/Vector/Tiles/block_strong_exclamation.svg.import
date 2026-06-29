@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4nsu7slk44jc"
-path="res://.godot/imported/block_strong_exclamation.svg-3d8cb7a23fd3f98ddfd264f0f6417bbd.ctex"
+path="res://.godot/imported/block_strong_exclamation.svg-cc0acdc4de6cc298c3dd61de174aaea4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/block_strong_exclamation.svg"
-dest_files=["res://.godot/imported/block_strong_exclamation.svg-3d8cb7a23fd3f98ddfd264f0f6417bbd.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/block_strong_exclamation.svg"
+dest_files=["res://.godot/imported/block_strong_exclamation.svg-cc0acdc4de6cc298c3dd61de174aaea4.ctex"]
 
 [params]
 

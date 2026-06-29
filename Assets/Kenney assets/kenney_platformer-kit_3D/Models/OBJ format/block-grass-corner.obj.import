@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dqf57s6vr55e8"
-path="res://.godot/imported/block-grass-corner.obj-5d3971aba8d35c2e29ec355682f963d0.mesh"
+path="res://.godot/imported/block-grass-corner.obj-16f78ac1e6f7e4d5d964415e4f5d74cd.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-corner.obj-5d3971aba8d35c2e29ec355682f963d0.mesh"]
+files=["res://.godot/imported/block-grass-corner.obj-16f78ac1e6f7e4d5d964415e4f5d74cd.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-corner.obj"
-dest_files=["res://.godot/imported/block-grass-corner.obj-5d3971aba8d35c2e29ec355682f963d0.mesh", "res://.godot/imported/block-grass-corner.obj-5d3971aba8d35c2e29ec355682f963d0.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-corner.obj"
+dest_files=["res://.godot/imported/block-grass-corner.obj-16f78ac1e6f7e4d5d964415e4f5d74cd.mesh", "res://.godot/imported/block-grass-corner.obj-16f78ac1e6f7e4d5d964415e4f5d74cd.mesh"]
 
 [params]
 

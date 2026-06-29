@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk8rejdxwhacl"
-path="res://.godot/imported/conveyor.png-edfb04a1734e329fbab3f1a8e7b8bf62.ctex"
+path="res://.godot/imported/conveyor.png-f4016987f0a94230b75e3591ffbc9b93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/conveyor.png"
-dest_files=["res://.godot/imported/conveyor.png-edfb04a1734e329fbab3f1a8e7b8bf62.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/conveyor.png"
+dest_files=["res://.godot/imported/conveyor.png-f4016987f0a94230b75e3591ffbc9b93.ctex"]
 
 [params]
 

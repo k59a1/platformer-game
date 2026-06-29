@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://diyhywg8oram3"
-path="res://.godot/imported/hedge-corner.fbx-5a2db7f98d40c4c53cec09050047f0a3.scn"
+path="res://.godot/imported/hedge-corner.fbx-4241eaeefdd7a71cd03d5931f56476f1.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/hedge-corner.fbx"
-dest_files=["res://.godot/imported/hedge-corner.fbx-5a2db7f98d40c4c53cec09050047f0a3.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/hedge-corner.fbx"
+dest_files=["res://.godot/imported/hedge-corner.fbx-4241eaeefdd7a71cd03d5931f56476f1.scn"]
 
 [params]
 

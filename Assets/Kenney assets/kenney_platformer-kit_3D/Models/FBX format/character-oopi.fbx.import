@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://87uq5noowq21"
-path="res://.godot/imported/character-oopi.fbx-a8694f9214fc18f92a0d7869aee43343.scn"
+path="res://.godot/imported/character-oopi.fbx-1cf89637af028b7e9a4af24d9f17a269.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/character-oopi.fbx"
-dest_files=["res://.godot/imported/character-oopi.fbx-a8694f9214fc18f92a0d7869aee43343.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/character-oopi.fbx"
+dest_files=["res://.godot/imported/character-oopi.fbx-1cf89637af028b7e9a4af24d9f17a269.scn"]
 
 [params]
 

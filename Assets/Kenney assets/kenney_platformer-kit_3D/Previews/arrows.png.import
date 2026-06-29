@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4k1trjp4vhy2"
-path="res://.godot/imported/arrows.png-3f8b556f222726eb71c645bc8d2f742e.ctex"
+path="res://.godot/imported/arrows.png-84d234542c4692a95307911d440494a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/arrows.png"
-dest_files=["res://.godot/imported/arrows.png-3f8b556f222726eb71c645bc8d2f742e.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/arrows.png"
+dest_files=["res://.godot/imported/arrows.png-84d234542c4692a95307911d440494a5.ctex"]
 
 [params]
 

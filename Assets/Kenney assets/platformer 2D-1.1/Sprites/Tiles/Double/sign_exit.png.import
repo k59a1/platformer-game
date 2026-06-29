@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnkofifp7xa7x"
-path="res://.godot/imported/sign_exit.png-c50fc67af42d165c62934351c9a412b1.ctex"
+path="res://.godot/imported/sign_exit.png-4ee356c14ce16404e874292127484017.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/sign_exit.png"
-dest_files=["res://.godot/imported/sign_exit.png-c50fc67af42d165c62934351c9a412b1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/sign_exit.png"
+dest_files=["res://.godot/imported/sign_exit.png-4ee356c14ce16404e874292127484017.ctex"]
 
 [params]
 

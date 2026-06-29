@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgnmrgsf06e3s"
-path="res://.godot/imported/flowers-tall.fbx-c7f0b6cdc367e76fa2d547e139f89423.scn"
+path="res://.godot/imported/flowers-tall.fbx-0a3113910b0ce82592e0534318dd77c2.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/flowers-tall.fbx"
-dest_files=["res://.godot/imported/flowers-tall.fbx-c7f0b6cdc367e76fa2d547e139f89423.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/flowers-tall.fbx"
+dest_files=["res://.godot/imported/flowers-tall.fbx-0a3113910b0ce82592e0534318dd77c2.scn"]
 
 [params]
 

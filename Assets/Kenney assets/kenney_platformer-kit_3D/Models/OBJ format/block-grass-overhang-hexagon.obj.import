@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cj18ddc8gsfmk"
-path="res://.godot/imported/block-grass-overhang-hexagon.obj-726c7e66c114f4853d04c4ce22a78f11.mesh"
+path="res://.godot/imported/block-grass-overhang-hexagon.obj-bd837a5ae85530ebff32395f4b873743.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-overhang-hexagon.obj-726c7e66c114f4853d04c4ce22a78f11.mesh"]
+files=["res://.godot/imported/block-grass-overhang-hexagon.obj-bd837a5ae85530ebff32395f4b873743.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-hexagon.obj"
-dest_files=["res://.godot/imported/block-grass-overhang-hexagon.obj-726c7e66c114f4853d04c4ce22a78f11.mesh", "res://.godot/imported/block-grass-overhang-hexagon.obj-726c7e66c114f4853d04c4ce22a78f11.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-hexagon.obj"
+dest_files=["res://.godot/imported/block-grass-overhang-hexagon.obj-bd837a5ae85530ebff32395f4b873743.mesh", "res://.godot/imported/block-grass-overhang-hexagon.obj-bd837a5ae85530ebff32395f4b873743.mesh"]
 
 [params]
 

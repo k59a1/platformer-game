@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4viilblae5ae"
-path="res://.godot/imported/door_open_top.png-633f4ac644fc2db9025a612a4a34e2c6.ctex"
+path="res://.godot/imported/door_open_top.png-45e623533b569ff69e3af58d4727bd4d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/door_open_top.png"
-dest_files=["res://.godot/imported/door_open_top.png-633f4ac644fc2db9025a612a4a34e2c6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/door_open_top.png"
+dest_files=["res://.godot/imported/door_open_top.png-45e623533b569ff69e3af58d4727bd4d.ctex"]
 
 [params]
 

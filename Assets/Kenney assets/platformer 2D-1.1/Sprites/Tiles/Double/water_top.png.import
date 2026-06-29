@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch1l4p80fxtw3"
-path="res://.godot/imported/water_top.png-17ed05fd01da9149633823a190dc390e.ctex"
+path="res://.godot/imported/water_top.png-42a28df2f5f5fdd712136e0e291c0d72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/water_top.png"
-dest_files=["res://.godot/imported/water_top.png-17ed05fd01da9149633823a190dc390e.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/water_top.png"
+dest_files=["res://.godot/imported/water_top.png-42a28df2f5f5fdd712136e0e291c0d72.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cjd3yvk2i2wil"
-path="res://.godot/imported/block-snow-large-slope-narrow.obj-17475e2703943205c3efeb1da693435f.mesh"
+path="res://.godot/imported/block-snow-large-slope-narrow.obj-793fad9d7c014de7ac810cb3261b4cae.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-large-slope-narrow.obj-17475e2703943205c3efeb1da693435f.mesh"]
+files=["res://.godot/imported/block-snow-large-slope-narrow.obj-793fad9d7c014de7ac810cb3261b4cae.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large-slope-narrow.obj"
-dest_files=["res://.godot/imported/block-snow-large-slope-narrow.obj-17475e2703943205c3efeb1da693435f.mesh", "res://.godot/imported/block-snow-large-slope-narrow.obj-17475e2703943205c3efeb1da693435f.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large-slope-narrow.obj"
+dest_files=["res://.godot/imported/block-snow-large-slope-narrow.obj-793fad9d7c014de7ac810cb3261b4cae.mesh", "res://.godot/imported/block-snow-large-slope-narrow.obj-793fad9d7c014de7ac810cb3261b4cae.mesh"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bwl8ciyykns4q"
-path="res://.godot/imported/block-grass-large-tall.obj-bc565f9e4b45cb50e65bd9187763e0f8.mesh"
+path="res://.godot/imported/block-grass-large-tall.obj-24938f54922ec355fa6fcda8a1b40c1b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-large-tall.obj-bc565f9e4b45cb50e65bd9187763e0f8.mesh"]
+files=["res://.godot/imported/block-grass-large-tall.obj-24938f54922ec355fa6fcda8a1b40c1b.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj"
-dest_files=["res://.godot/imported/block-grass-large-tall.obj-bc565f9e4b45cb50e65bd9187763e0f8.mesh", "res://.godot/imported/block-grass-large-tall.obj-bc565f9e4b45cb50e65bd9187763e0f8.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj"
+dest_files=["res://.godot/imported/block-grass-large-tall.obj-24938f54922ec355fa6fcda8a1b40c1b.mesh", "res://.godot/imported/block-grass-large-tall.obj-24938f54922ec355fa6fcda8a1b40c1b.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oq0mglyj77rg"
-path="res://.godot/imported/lock_blue.svg-74d12db617d5d25dde2ea2a9a676f8a9.ctex"
+path="res://.godot/imported/lock_blue.svg-64e1ec260722b4eb962da2a289bdd575.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/lock_blue.svg"
-dest_files=["res://.godot/imported/lock_blue.svg-74d12db617d5d25dde2ea2a9a676f8a9.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/lock_blue.svg"
+dest_files=["res://.godot/imported/lock_blue.svg-64e1ec260722b4eb962da2a289bdd575.ctex"]
 
 [params]
 

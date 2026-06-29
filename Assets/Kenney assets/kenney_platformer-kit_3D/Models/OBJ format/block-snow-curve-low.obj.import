@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://8mxnhg7sjrrt"
-path="res://.godot/imported/block-snow-curve-low.obj-ada64123842bf7933cffe04b40726cfe.mesh"
+path="res://.godot/imported/block-snow-curve-low.obj-2ad71ddb6afe20b96760c9b5e76d8a75.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-curve-low.obj-ada64123842bf7933cffe04b40726cfe.mesh"]
+files=["res://.godot/imported/block-snow-curve-low.obj-2ad71ddb6afe20b96760c9b5e76d8a75.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-curve-low.obj"
-dest_files=["res://.godot/imported/block-snow-curve-low.obj-ada64123842bf7933cffe04b40726cfe.mesh", "res://.godot/imported/block-snow-curve-low.obj-ada64123842bf7933cffe04b40726cfe.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-curve-low.obj"
+dest_files=["res://.godot/imported/block-snow-curve-low.obj-2ad71ddb6afe20b96760c9b5e76d8a75.mesh", "res://.godot/imported/block-snow-curve-low.obj-2ad71ddb6afe20b96760c9b5e76d8a75.mesh"]
 
 [params]
 

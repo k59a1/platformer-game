@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c17jk1dagihma"
-path="res://.godot/imported/fence-rope.png-4b20f917bb4ce303b4fb6022ab65a5d0.ctex"
+path="res://.godot/imported/fence-rope.png-2c2b72219df07d740c5faeed38f41c1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/fence-rope.png"
-dest_files=["res://.godot/imported/fence-rope.png-4b20f917bb4ce303b4fb6022ab65a5d0.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/fence-rope.png"
+dest_files=["res://.godot/imported/fence-rope.png-2c2b72219df07d740c5faeed38f41c1d.ctex"]
 
 [params]
 

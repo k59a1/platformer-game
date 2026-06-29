@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bumlb37ot1xth"
-path="res://.godot/imported/door-open.fbx-98dc378caa4478480f02b2f380044be4.scn"
+path="res://.godot/imported/door-open.fbx-a80eb2960de399d245a8056d0394453b.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/door-open.fbx"
-dest_files=["res://.godot/imported/door-open.fbx-98dc378caa4478480f02b2f380044be4.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/door-open.fbx"
+dest_files=["res://.godot/imported/door-open.fbx-a80eb2960de399d245a8056d0394453b.scn"]
 
 [params]
 

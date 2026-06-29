@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byhitokhgmn3x"
-path="res://.godot/imported/character_purple_walk_b.svg-f38a776d8d853361f0469ab2494230e7.ctex"
+path="res://.godot/imported/character_purple_walk_b.svg-c45505bdf5b157ccfbfa94ed31bbde01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_purple_walk_b.svg"
-dest_files=["res://.godot/imported/character_purple_walk_b.svg-f38a776d8d853361f0469ab2494230e7.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_purple_walk_b.svg"
+dest_files=["res://.godot/imported/character_purple_walk_b.svg-c45505bdf5b157ccfbfa94ed31bbde01.ctex"]
 
 [params]
 

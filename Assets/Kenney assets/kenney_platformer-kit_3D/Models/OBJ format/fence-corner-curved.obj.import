@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://35451xg6dtt0"
-path="res://.godot/imported/fence-corner-curved.obj-5fc7047f97517df0738984be7e0ed29a.mesh"
+path="res://.godot/imported/fence-corner-curved.obj-63925da046d98d1111e5c8bb2e24a114.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-corner-curved.obj-5fc7047f97517df0738984be7e0ed29a.mesh"]
+files=["res://.godot/imported/fence-corner-curved.obj-63925da046d98d1111e5c8bb2e24a114.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/fence-corner-curved.obj"
-dest_files=["res://.godot/imported/fence-corner-curved.obj-5fc7047f97517df0738984be7e0ed29a.mesh", "res://.godot/imported/fence-corner-curved.obj-5fc7047f97517df0738984be7e0ed29a.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/fence-corner-curved.obj"
+dest_files=["res://.godot/imported/fence-corner-curved.obj-63925da046d98d1111e5c8bb2e24a114.mesh", "res://.godot/imported/fence-corner-curved.obj-63925da046d98d1111e5c8bb2e24a114.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwvqj083qq060"
-path="res://.godot/imported/bush.png-cfb02b10d87be0337016c5a9d31e961d.ctex"
+path="res://.godot/imported/bush.png-30ca28e4a4b29b36e7e8fc137f5c6583.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/bush.png"
-dest_files=["res://.godot/imported/bush.png-cfb02b10d87be0337016c5a9d31e961d.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/bush.png"
+dest_files=["res://.godot/imported/bush.png-30ca28e4a4b29b36e7e8fc137f5c6583.ctex"]
 
 [params]
 

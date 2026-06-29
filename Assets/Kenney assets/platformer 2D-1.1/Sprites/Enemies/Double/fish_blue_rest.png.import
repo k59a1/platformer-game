@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqqnyw2qhmma4"
-path="res://.godot/imported/fish_blue_rest.png-6638921bcf731c98ff208e485e907607.ctex"
+path="res://.godot/imported/fish_blue_rest.png-013b04857d9daaebe548d068a4e1caa7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/fish_blue_rest.png"
-dest_files=["res://.godot/imported/fish_blue_rest.png-6638921bcf731c98ff208e485e907607.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/fish_blue_rest.png"
+dest_files=["res://.godot/imported/fish_blue_rest.png-013b04857d9daaebe548d068a4e1caa7.ctex"]
 
 [params]
 

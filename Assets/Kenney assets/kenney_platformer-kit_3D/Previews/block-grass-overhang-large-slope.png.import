@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxfxvi658uw8q"
-path="res://.godot/imported/block-grass-overhang-large-slope.png-ab784a22f3e0f23be5fc9bfffe467422.ctex"
+path="res://.godot/imported/block-grass-overhang-large-slope.png-b1fb9a2d20ebe7e36cf821596324e893.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-grass-overhang-large-slope.png"
-dest_files=["res://.godot/imported/block-grass-overhang-large-slope.png-ab784a22f3e0f23be5fc9bfffe467422.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-grass-overhang-large-slope.png"
+dest_files=["res://.godot/imported/block-grass-overhang-large-slope.png-b1fb9a2d20ebe7e36cf821596324e893.ctex"]
 
 [params]
 

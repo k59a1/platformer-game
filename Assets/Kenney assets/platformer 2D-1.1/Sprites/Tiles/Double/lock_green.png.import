@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg3wrblxgtovw"
-path="res://.godot/imported/lock_green.png-e50d8abf7557e5b8909fbe7dcc921f10.ctex"
+path="res://.godot/imported/lock_green.png-1bbdc2822227a6b1e35c1ae81b83deeb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/lock_green.png"
-dest_files=["res://.godot/imported/lock_green.png-e50d8abf7557e5b8909fbe7dcc921f10.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/lock_green.png"
+dest_files=["res://.godot/imported/lock_green.png-1bbdc2822227a6b1e35c1ae81b83deeb.ctex"]
 
 [params]
 

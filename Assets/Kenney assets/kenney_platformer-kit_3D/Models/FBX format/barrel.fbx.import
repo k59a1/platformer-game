@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://p6ltiyd8q8m8"
-path="res://.godot/imported/barrel.fbx-e5e3ead47f0ad9df5c656bae1ed62318.scn"
+path="res://.godot/imported/barrel.fbx-a9b3d75105aa3f9fe4baa9b592a039c0.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/barrel.fbx"
-dest_files=["res://.godot/imported/barrel.fbx-e5e3ead47f0ad9df5c656bae1ed62318.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/barrel.fbx"
+dest_files=["res://.godot/imported/barrel.fbx-a9b3d75105aa3f9fe4baa9b592a039c0.scn"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b7n2jf66mqvsv"
-path="res://.godot/imported/block-snow-edge.obj-13c5055b0978a0434a60cbecdb30bd83.mesh"
+path="res://.godot/imported/block-snow-edge.obj-d218d601c7ee59f3af74f472551d1ff9.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-edge.obj-13c5055b0978a0434a60cbecdb30bd83.mesh"]
+files=["res://.godot/imported/block-snow-edge.obj-d218d601c7ee59f3af74f472551d1ff9.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-edge.obj"
-dest_files=["res://.godot/imported/block-snow-edge.obj-13c5055b0978a0434a60cbecdb30bd83.mesh", "res://.godot/imported/block-snow-edge.obj-13c5055b0978a0434a60cbecdb30bd83.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-edge.obj"
+dest_files=["res://.godot/imported/block-snow-edge.obj-d218d601c7ee59f3af74f472551d1ff9.mesh", "res://.godot/imported/block-snow-edge.obj-d218d601c7ee59f3af74f472551d1ff9.mesh"]
 
 [params]
 

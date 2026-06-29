@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddi5xkagaxhwp"
-path="res://.godot/imported/frog_idle.png-30bd95b784ab556176d4cc82c7f00610.ctex"
+path="res://.godot/imported/frog_idle.png-946efb3352ff776713a6fd509ef37962.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/frog_idle.png"
-dest_files=["res://.godot/imported/frog_idle.png-30bd95b784ab556176d4cc82c7f00610.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/frog_idle.png"
+dest_files=["res://.godot/imported/frog_idle.png-946efb3352ff776713a6fd509ef37962.ctex"]
 
 [params]
 

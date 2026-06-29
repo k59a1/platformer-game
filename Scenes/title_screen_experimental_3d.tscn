@@ -1,19 +1,19 @@
 [gd_scene format=3 uid="uid://bueqbdy5sw3a"]
 
-[ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
-[ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
-[ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
-[ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]
-[ext_resource type="ArrayMesh" uid="uid://d18nxxomcgnyi" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/flowers.obj" id="5_1p4im"]
-[ext_resource type="ArrayMesh" uid="uid://by487tybcs2g3" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/grass.obj" id="6_2yil5"]
-[ext_resource type="ArrayMesh" uid="uid://fnbo8djvbfv5" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/tree.obj" id="7_5oysr"]
-[ext_resource type="ArrayMesh" uid="uid://dhup3itn8ycw3" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/stones.obj" id="8_yktca"]
-[ext_resource type="ArrayMesh" uid="uid://d00lu01ua7wm2" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/rocks.obj" id="9_1b0er"]
-[ext_resource type="ArrayMesh" uid="uid://c6xhxhcjy8cec" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/platform-overhang.obj" id="10_mw5b5"]
-[ext_resource type="ArrayMesh" uid="uid://bi6cwti2tfgs6" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-narrow.obj" id="11_retqj"]
-[ext_resource type="ArrayMesh" uid="uid://sv2uoj2i0oet" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-low.obj" id="12_m2hh3"]
-[ext_resource type="ArrayMesh" uid="uid://djhp333sku65h" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj" id="13_e5hio"]
-[ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
+[ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
+[ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
+[ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
+[ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]
+[ext_resource type="ArrayMesh" uid="uid://d18nxxomcgnyi" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers.obj" id="5_1p4im"]
+[ext_resource type="ArrayMesh" uid="uid://by487tybcs2g3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/grass.obj" id="6_2yil5"]
+[ext_resource type="ArrayMesh" uid="uid://fnbo8djvbfv5" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree.obj" id="7_5oysr"]
+[ext_resource type="ArrayMesh" uid="uid://dhup3itn8ycw3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/stones.obj" id="8_yktca"]
+[ext_resource type="ArrayMesh" uid="uid://d00lu01ua7wm2" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/rocks.obj" id="9_1b0er"]
+[ext_resource type="ArrayMesh" uid="uid://c6xhxhcjy8cec" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/platform-overhang.obj" id="10_mw5b5"]
+[ext_resource type="ArrayMesh" uid="uid://bi6cwti2tfgs6" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-narrow.obj" id="11_retqj"]
+[ext_resource type="ArrayMesh" uid="uid://sv2uoj2i0oet" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-low.obj" id="12_m2hh3"]
+[ext_resource type="ArrayMesh" uid="uid://djhp333sku65h" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj" id="13_e5hio"]
+[ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
 [ext_resource type="PackedScene" uid="uid://wkbomnvimjv5" path="res://Scenes/title_screen_overlay.tscn" id="15_yfvjg"]
 [ext_resource type="Environment" uid="uid://dbprro1tvfr1v" path="res://Resources/TitleScreenEvironment.tres" id="16_a3osx"]
 
@@ -119,3 +119,7 @@ mesh = ExtResource("14_qncco")
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
 environment = ExtResource("16_a3osx")
+
+[node name="BlockGrassLarge2" type="MeshInstance3D" parent="." unique_id=1597184535]
+transform = Transform3D(2.8113568, 0, 0, 0, 1.5322207, 0, 0, 0, 2.3538322, 5.8622184, -2.728572, 3.6879306)
+mesh = ExtResource("1_2obyt")

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://28ke7ayi262g"
-path="res://.godot/imported/character_pink_idle.svg-2a8cecd51a6181644bda37c581feb2b1.ctex"
+path="res://.godot/imported/character_pink_idle.svg-5fbe01468bd94222e8b89c0c7ce357da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_pink_idle.svg"
-dest_files=["res://.godot/imported/character_pink_idle.svg-2a8cecd51a6181644bda37c581feb2b1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_pink_idle.svg"
+dest_files=["res://.godot/imported/character_pink_idle.svg-5fbe01468bd94222e8b89c0c7ce357da.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bslmhxt8mbq7v"
-path="res://.godot/imported/plant.fbx-662597a8ff3d94d61ee10c765a2dfa39.scn"
+path="res://.godot/imported/plant.fbx-b33a9f98643c6e59ecf0aeb375568282.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/plant.fbx"
-dest_files=["res://.godot/imported/plant.fbx-662597a8ff3d94d61ee10c765a2dfa39.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/plant.fbx"
+dest_files=["res://.godot/imported/plant.fbx-b33a9f98643c6e59ecf0aeb375568282.scn"]
 
 [params]
 

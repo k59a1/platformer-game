@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmvt5l6mabu57"
-path="res://.godot/imported/character_purple_climb_b.png-f1fab33fa0b50b874165ca3dbb56fd1c.ctex"
+path="res://.godot/imported/character_purple_climb_b.png-32f39434f0efd55848f9fa04435bb177.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Characters/Double/character_purple_climb_b.png"
-dest_files=["res://.godot/imported/character_purple_climb_b.png-f1fab33fa0b50b874165ca3dbb56fd1c.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Double/character_purple_climb_b.png"
+dest_files=["res://.godot/imported/character_purple_climb_b.png-32f39434f0efd55848f9fa04435bb177.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duuwuoxba32k5"
-path="res://.godot/imported/bomb_active.png-6c2b4a9589e24946b91a66e5097feedc.ctex"
+path="res://.godot/imported/bomb_active.png-e68d82875838913fad56369d8f3345c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/bomb_active.png"
-dest_files=["res://.godot/imported/bomb_active.png-6c2b4a9589e24946b91a66e5097feedc.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/bomb_active.png"
+dest_files=["res://.godot/imported/bomb_active.png-e68d82875838913fad56369d8f3345c8.ctex"]
 
 [params]
 

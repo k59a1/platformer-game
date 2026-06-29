@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6xvkd5xuwjmw"
-path="res://.godot/imported/block_coin.png-1bd5be0bdbe1cd2322078e27b396d318.ctex"
+path="res://.godot/imported/block_coin.png-097f195c6715d469215cf6e271d912d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/block_coin.png"
-dest_files=["res://.godot/imported/block_coin.png-1bd5be0bdbe1cd2322078e27b396d318.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/block_coin.png"
+dest_files=["res://.godot/imported/block_coin.png-097f195c6715d469215cf6e271d912d0.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cu0exrrdcyunh"
-path="res://.godot/imported/jewel.glb-0be6c317bc3e97c011620ea9ec49aa70.scn"
+path="res://.godot/imported/jewel.glb-4c4a8ef92f12b32e72b43e762a4daa3d.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/jewel.glb"
-dest_files=["res://.godot/imported/jewel.glb-0be6c317bc3e97c011620ea9ec49aa70.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/jewel.glb"
+dest_files=["res://.godot/imported/jewel.glb-4c4a8ef92f12b32e72b43e762a4daa3d.scn"]
 
 [params]
 

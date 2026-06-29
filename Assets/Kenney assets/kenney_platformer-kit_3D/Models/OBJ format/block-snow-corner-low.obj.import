@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cyxh0io7v4dak"
-path="res://.godot/imported/block-snow-corner-low.obj-af2e670f00cee012979e81380d75f1c7.mesh"
+path="res://.godot/imported/block-snow-corner-low.obj-549e8e7da845edde4082cfe4bbf75b66.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-corner-low.obj-af2e670f00cee012979e81380d75f1c7.mesh"]
+files=["res://.godot/imported/block-snow-corner-low.obj-549e8e7da845edde4082cfe4bbf75b66.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-corner-low.obj"
-dest_files=["res://.godot/imported/block-snow-corner-low.obj-af2e670f00cee012979e81380d75f1c7.mesh", "res://.godot/imported/block-snow-corner-low.obj-af2e670f00cee012979e81380d75f1c7.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-corner-low.obj"
+dest_files=["res://.godot/imported/block-snow-corner-low.obj-549e8e7da845edde4082cfe4bbf75b66.mesh", "res://.godot/imported/block-snow-corner-low.obj-549e8e7da845edde4082cfe4bbf75b66.mesh"]
 
 [params]
 

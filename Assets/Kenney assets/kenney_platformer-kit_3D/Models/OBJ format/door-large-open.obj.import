@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://brhje51crll0i"
-path="res://.godot/imported/door-large-open.obj-93b53de9b8dabf86fb479a898c1d81ae.mesh"
+path="res://.godot/imported/door-large-open.obj-63eb19b1b1000fc6b1fcb788c508ed7b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/door-large-open.obj-93b53de9b8dabf86fb479a898c1d81ae.mesh"]
+files=["res://.godot/imported/door-large-open.obj-63eb19b1b1000fc6b1fcb788c508ed7b.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/door-large-open.obj"
-dest_files=["res://.godot/imported/door-large-open.obj-93b53de9b8dabf86fb479a898c1d81ae.mesh", "res://.godot/imported/door-large-open.obj-93b53de9b8dabf86fb479a898c1d81ae.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/door-large-open.obj"
+dest_files=["res://.godot/imported/door-large-open.obj-63eb19b1b1000fc6b1fcb788c508ed7b.mesh", "res://.godot/imported/door-large-open.obj-63eb19b1b1000fc6b1fcb788c508ed7b.mesh"]
 
 [params]
 

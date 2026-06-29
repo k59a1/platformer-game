@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brs087jggd4n"
+path="res://.godot/imported/plant_flatShort.obj-66debd6d41e49eb173db36293e4cd2ec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plant_flatShort.obj-66debd6d41e49eb173db36293e4cd2ec.mesh"]
+
+source_file="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/plant_flatShort.obj"
+dest_files=["res://.godot/imported/plant_flatShort.obj-66debd6d41e49eb173db36293e4cd2ec.mesh", "res://.godot/imported/plant_flatShort.obj-66debd6d41e49eb173db36293e4cd2ec.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

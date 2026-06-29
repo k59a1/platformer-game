@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dapm5dgc8ayby"
-path="res://.godot/imported/hud_player_helmet_green.svg-c01b79968ac3edd368ea746e16e2d023.ctex"
+path="res://.godot/imported/hud_player_helmet_green.svg-3a575d78b2fd96343af1415c88e43270.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/hud_player_helmet_green.svg"
-dest_files=["res://.godot/imported/hud_player_helmet_green.svg-c01b79968ac3edd368ea746e16e2d023.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/hud_player_helmet_green.svg"
+dest_files=["res://.godot/imported/hud_player_helmet_green.svg-3a575d78b2fd96343af1415c88e43270.ctex"]
 
 [params]
 

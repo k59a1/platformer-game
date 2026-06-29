@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qb6x52ij4rh7"
-path="res://.godot/imported/character_yellow_idle.svg-be2892c0afeb99ae1683b7fb1551cb7f.ctex"
+path="res://.godot/imported/character_yellow_idle.svg-ff57df006ad28b9838b593eb547afbb0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_yellow_idle.svg"
-dest_files=["res://.godot/imported/character_yellow_idle.svg-be2892c0afeb99ae1683b7fb1551cb7f.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_yellow_idle.svg"
+dest_files=["res://.godot/imported/character_yellow_idle.svg-ff57df006ad28b9838b593eb547afbb0.ctex"]
 
 [params]
 

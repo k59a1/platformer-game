@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkengqef5edgk"
-path="res://.godot/imported/mushrooms.png-9498c068b7393226e0a67f4ca1c62f27.ctex"
+path="res://.godot/imported/mushrooms.png-8b2c593ca0098f9314f7f7c03cc4d990.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/mushrooms.png"
-dest_files=["res://.godot/imported/mushrooms.png-9498c068b7393226e0a67f4ca1c62f27.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/mushrooms.png"
+dest_files=["res://.godot/imported/mushrooms.png-8b2c593ca0098f9314f7f7c03cc4d990.ctex"]
 
 [params]
 

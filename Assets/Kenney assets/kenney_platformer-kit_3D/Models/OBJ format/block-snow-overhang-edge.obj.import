@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bbsrmbmnwwk12"
-path="res://.godot/imported/block-snow-overhang-edge.obj-5462dfe3cb792a345e8985b9b800c9ef.mesh"
+path="res://.godot/imported/block-snow-overhang-edge.obj-5eec2d260c9d96c85d941a50a516cf14.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-overhang-edge.obj-5462dfe3cb792a345e8985b9b800c9ef.mesh"]
+files=["res://.godot/imported/block-snow-overhang-edge.obj-5eec2d260c9d96c85d941a50a516cf14.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-overhang-edge.obj"
-dest_files=["res://.godot/imported/block-snow-overhang-edge.obj-5462dfe3cb792a345e8985b9b800c9ef.mesh", "res://.godot/imported/block-snow-overhang-edge.obj-5462dfe3cb792a345e8985b9b800c9ef.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-overhang-edge.obj"
+dest_files=["res://.godot/imported/block-snow-overhang-edge.obj-5eec2d260c9d96c85d941a50a516cf14.mesh", "res://.godot/imported/block-snow-overhang-edge.obj-5eec2d260c9d96c85d941a50a516cf14.mesh"]
 
 [params]
 

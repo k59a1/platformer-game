@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnnnkgd4yuqxs"
-path="res://.godot/imported/terrain_sand_horizontal_overhang_left.svg-51d025c80dd0f30489d44eff41b05471.ctex"
+path="res://.godot/imported/terrain_sand_horizontal_overhang_left.svg-617a17c6481707b2be0b3653d59cb822.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_sand_horizontal_overhang_left.svg"
-dest_files=["res://.godot/imported/terrain_sand_horizontal_overhang_left.svg-51d025c80dd0f30489d44eff41b05471.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_sand_horizontal_overhang_left.svg"
+dest_files=["res://.godot/imported/terrain_sand_horizontal_overhang_left.svg-617a17c6481707b2be0b3653d59cb822.ctex"]
 
 [params]
 

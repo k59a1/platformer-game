@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ou0yt436xv7g"
-path="res://.godot/imported/saw_rest.png-dbf054b4ff178cf16da4213997896d8a.ctex"
+path="res://.godot/imported/saw_rest.png-3906f78f99f3270254c574f48ff3333a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Default/saw_rest.png"
-dest_files=["res://.godot/imported/saw_rest.png-dbf054b4ff178cf16da4213997896d8a.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Default/saw_rest.png"
+dest_files=["res://.godot/imported/saw_rest.png-3906f78f99f3270254c574f48ff3333a.ctex"]
 
 [params]
 

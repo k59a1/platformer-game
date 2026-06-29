@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bf6aqjirtr8ui"
-path="res://.godot/imported/tree-pine-snow.obj-1f970acb3e0933bca1ff2da99fdcbcde.mesh"
+path="res://.godot/imported/tree-pine-snow.obj-8b44330546be32c2e00403d5b04d68e6.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree-pine-snow.obj-1f970acb3e0933bca1ff2da99fdcbcde.mesh"]
+files=["res://.godot/imported/tree-pine-snow.obj-8b44330546be32c2e00403d5b04d68e6.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow.obj"
-dest_files=["res://.godot/imported/tree-pine-snow.obj-1f970acb3e0933bca1ff2da99fdcbcde.mesh", "res://.godot/imported/tree-pine-snow.obj-1f970acb3e0933bca1ff2da99fdcbcde.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow.obj"
+dest_files=["res://.godot/imported/tree-pine-snow.obj-8b44330546be32c2e00403d5b04d68e6.mesh", "res://.godot/imported/tree-pine-snow.obj-8b44330546be32c2e00403d5b04d68e6.mesh"]
 
 [params]
 

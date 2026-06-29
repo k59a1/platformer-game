@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c0dc464mcjduu"
-path="res://.godot/imported/block-grass-corner-overhang.obj-be52a0eb731b0776a5f39881fdbeb8f5.mesh"
+path="res://.godot/imported/block-grass-corner-overhang.obj-527775b1d508b95aa342747a5009a699.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-corner-overhang.obj-be52a0eb731b0776a5f39881fdbeb8f5.mesh"]
+files=["res://.godot/imported/block-grass-corner-overhang.obj-527775b1d508b95aa342747a5009a699.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-corner-overhang.obj"
-dest_files=["res://.godot/imported/block-grass-corner-overhang.obj-be52a0eb731b0776a5f39881fdbeb8f5.mesh", "res://.godot/imported/block-grass-corner-overhang.obj-be52a0eb731b0776a5f39881fdbeb8f5.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-corner-overhang.obj"
+dest_files=["res://.godot/imported/block-grass-corner-overhang.obj-527775b1d508b95aa342747a5009a699.mesh", "res://.godot/imported/block-grass-corner-overhang.obj-527775b1d508b95aa342747a5009a699.mesh"]
 
 [params]
 

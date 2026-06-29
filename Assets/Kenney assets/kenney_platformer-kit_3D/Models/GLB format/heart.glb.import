@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blbn0pqu2m1h5"
-path="res://.godot/imported/heart.glb-794a1bbcbfe394dde1c056c60cb6b8aa.scn"
+path="res://.godot/imported/heart.glb-831439f0f3b7fd8e667c3eba823b22c0.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/heart.glb"
-dest_files=["res://.godot/imported/heart.glb-794a1bbcbfe394dde1c056c60cb6b8aa.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/heart.glb"
+dest_files=["res://.godot/imported/heart.glb-831439f0f3b7fd8e667c3eba823b22c0.scn"]
 
 [params]
 

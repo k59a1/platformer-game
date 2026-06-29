@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2y1tk2ykpa8s"
-path="res://.godot/imported/brick_brown_diagonal.png-5136e6e48689d163bf2194277b9ac013.ctex"
+path="res://.godot/imported/brick_brown_diagonal.png-e8ee188d087fd7cb04a72854e6d9879c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/brick_brown_diagonal.png"
-dest_files=["res://.godot/imported/brick_brown_diagonal.png-5136e6e48689d163bf2194277b9ac013.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/brick_brown_diagonal.png"
+dest_files=["res://.godot/imported/brick_brown_diagonal.png-e8ee188d087fd7cb04a72854e6d9879c.ctex"]
 
 [params]
 

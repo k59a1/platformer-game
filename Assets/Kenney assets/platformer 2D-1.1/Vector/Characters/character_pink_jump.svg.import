@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cltqmg03pumvw"
-path="res://.godot/imported/character_pink_jump.svg-5d34476163c348a63b2053fa380036eb.ctex"
+path="res://.godot/imported/character_pink_jump.svg-933d10fc8fe3040938a5981329fbeeaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_pink_jump.svg"
-dest_files=["res://.godot/imported/character_pink_jump.svg-5d34476163c348a63b2053fa380036eb.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_pink_jump.svg"
+dest_files=["res://.godot/imported/character_pink_jump.svg-933d10fc8fe3040938a5981329fbeeaf.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bip0ds7jfftml"
-path="res://.godot/imported/terrain_snow_ramp_long_b.svg-091a5e1dc21fa2f03832064f0f489674.ctex"
+path="res://.godot/imported/terrain_snow_ramp_long_b.svg-85cddd11c04248c0cf02584e3588e882.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_ramp_long_b.svg"
-dest_files=["res://.godot/imported/terrain_snow_ramp_long_b.svg-091a5e1dc21fa2f03832064f0f489674.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_ramp_long_b.svg"
+dest_files=["res://.godot/imported/terrain_snow_ramp_long_b.svg-85cddd11c04248c0cf02584e3588e882.ctex"]
 
 [params]
 

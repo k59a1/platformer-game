@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://crmjk2grrtcm"
-path="res://.godot/imported/block-snow-large.glb-aa8420207815be996f33915ccbf62b76.scn"
+path="res://.godot/imported/block-snow-large.glb-00eba38dce2ac847288a13387716fa84.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/block-snow-large.glb"
-dest_files=["res://.godot/imported/block-snow-large.glb-aa8420207815be996f33915ccbf62b76.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/block-snow-large.glb"
+dest_files=["res://.godot/imported/block-snow-large.glb-00eba38dce2ac847288a13387716fa84.scn"]
 
 [params]
 

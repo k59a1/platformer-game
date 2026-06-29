@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bltnx3vuk5mpq"
-path="res://.godot/imported/brick_grey_diagonal.png-d22aad394bf2498c5aaa320df53006aa.ctex"
+path="res://.godot/imported/brick_grey_diagonal.png-1b25128d2a1144a558f0b44dc7d40d0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/brick_grey_diagonal.png"
-dest_files=["res://.godot/imported/brick_grey_diagonal.png-d22aad394bf2498c5aaa320df53006aa.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/brick_grey_diagonal.png"
+dest_files=["res://.godot/imported/brick_grey_diagonal.png-1b25128d2a1144a558f0b44dc7d40d0f.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://djhp333sku65h"
-path="res://.godot/imported/block-grass-narrow.obj-5c7eb6e4c942c3fc34a5c35ba16c4fec.mesh"
+path="res://.godot/imported/block-grass-narrow.obj-fcdb86a66c426a54cfa8a3f60399c59c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-narrow.obj-5c7eb6e4c942c3fc34a5c35ba16c4fec.mesh"]
+files=["res://.godot/imported/block-grass-narrow.obj-fcdb86a66c426a54cfa8a3f60399c59c.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj"
-dest_files=["res://.godot/imported/block-grass-narrow.obj-5c7eb6e4c942c3fc34a5c35ba16c4fec.mesh", "res://.godot/imported/block-grass-narrow.obj-5c7eb6e4c942c3fc34a5c35ba16c4fec.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj"
+dest_files=["res://.godot/imported/block-grass-narrow.obj-fcdb86a66c426a54cfa8a3f60399c59c.mesh", "res://.godot/imported/block-grass-narrow.obj-fcdb86a66c426a54cfa8a3f60399c59c.mesh"]
 
 [params]
 

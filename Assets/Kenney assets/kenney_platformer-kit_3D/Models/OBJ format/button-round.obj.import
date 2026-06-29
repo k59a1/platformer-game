@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://lje2clhlnom5"
-path="res://.godot/imported/button-round.obj-daed9454ea382352bb0d3ed967e1c2f6.mesh"
+path="res://.godot/imported/button-round.obj-a0ed22c38ca53e6be4d27d753093d0fa.mesh"
 
 [deps]
 
-files=["res://.godot/imported/button-round.obj-daed9454ea382352bb0d3ed967e1c2f6.mesh"]
+files=["res://.godot/imported/button-round.obj-a0ed22c38ca53e6be4d27d753093d0fa.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/button-round.obj"
-dest_files=["res://.godot/imported/button-round.obj-daed9454ea382352bb0d3ed967e1c2f6.mesh", "res://.godot/imported/button-round.obj-daed9454ea382352bb0d3ed967e1c2f6.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/button-round.obj"
+dest_files=["res://.godot/imported/button-round.obj-a0ed22c38ca53e6be4d27d753093d0fa.mesh", "res://.godot/imported/button-round.obj-a0ed22c38ca53e6be4d27d753093d0fa.mesh"]
 
 [params]
 

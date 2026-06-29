@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c762ddgt24x4d"
-path="res://.godot/imported/hedge.glb-2725e3444dc33519bbfb65993d3804b3.scn"
+path="res://.godot/imported/hedge.glb-a6ed6089d19034a3364a1cb467cbd074.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/hedge.glb"
-dest_files=["res://.godot/imported/hedge.glb-2725e3444dc33519bbfb65993d3804b3.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/hedge.glb"
+dest_files=["res://.godot/imported/hedge.glb-a6ed6089d19034a3364a1cb467cbd074.scn"]
 
 [params]
 

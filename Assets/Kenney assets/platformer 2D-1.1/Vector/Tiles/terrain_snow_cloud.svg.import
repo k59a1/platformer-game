@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pxttkdbfroul"
-path="res://.godot/imported/terrain_snow_cloud.svg-0c81febd43756959fe4932adfd644276.ctex"
+path="res://.godot/imported/terrain_snow_cloud.svg-ef3d8f52c6b7514561a462ee12b3d96c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_cloud.svg"
-dest_files=["res://.godot/imported/terrain_snow_cloud.svg-0c81febd43756959fe4932adfd644276.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_snow_cloud.svg"
+dest_files=["res://.godot/imported/terrain_snow_cloud.svg-ef3d8f52c6b7514561a462ee12b3d96c.ctex"]
 
 [params]
 

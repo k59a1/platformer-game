@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6ixm0dhyqt1s"
-path="res://.godot/imported/slime_fire_walk_b.svg-ac21244e7e923066f21851d1c83502f4.ctex"
+path="res://.godot/imported/slime_fire_walk_b.svg-e2cefb84ec6075264aed8defbff197ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/slime_fire_walk_b.svg"
-dest_files=["res://.godot/imported/slime_fire_walk_b.svg-ac21244e7e923066f21851d1c83502f4.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/slime_fire_walk_b.svg"
+dest_files=["res://.godot/imported/slime_fire_walk_b.svg-e2cefb84ec6075264aed8defbff197ff.ctex"]
 
 [params]
 

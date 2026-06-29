@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rct5y27ndlp8"
-path="res://.godot/imported/worm_ring_move_a.svg-fbdd9c0ef2735f536c97a77414490f76.ctex"
+path="res://.godot/imported/worm_ring_move_a.svg-2ccdb962a0335e26b6607b3c8f006bd3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/worm_ring_move_a.svg"
-dest_files=["res://.godot/imported/worm_ring_move_a.svg-fbdd9c0ef2735f536c97a77414490f76.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/worm_ring_move_a.svg"
+dest_files=["res://.godot/imported/worm_ring_move_a.svg-2ccdb962a0335e26b6607b3c8f006bd3.ctex"]
 
 [params]
 

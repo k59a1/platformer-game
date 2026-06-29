@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chj270hjcs3o4"
-path="res://.godot/imported/hud_coin.svg-931fb8434b59a6ff739d126f768b7315.ctex"
+path="res://.godot/imported/hud_coin.svg-7f4cf70f77e885167480894e88841f34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/hud_coin.svg"
-dest_files=["res://.godot/imported/hud_coin.svg-931fb8434b59a6ff739d126f768b7315.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/hud_coin.svg"
+dest_files=["res://.godot/imported/hud_coin.svg-7f4cf70f77e885167480894e88841f34.ctex"]
 
 [params]
 

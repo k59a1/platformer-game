@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dejrraciaajnv"
-path="res://.godot/imported/background_color_trees.png-9bdadca5e9aa86e5d9bc1fdf5ecd625f.ctex"
+path="res://.godot/imported/background_color_trees.png-60a4b78ef8f0d7a9930afc43ecbd5650.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_trees.png"
-dest_files=["res://.godot/imported/background_color_trees.png-9bdadca5e9aa86e5d9bc1fdf5ecd625f.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_trees.png"
+dest_files=["res://.godot/imported/background_color_trees.png-60a4b78ef8f0d7a9930afc43ecbd5650.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3tnfq0ar2t54"
-path="res://.godot/imported/gem_blue.svg-b2a90ab85967c312af6daba851986960.ctex"
+path="res://.godot/imported/gem_blue.svg-54ab4b2e9d18be58c03b0460b63a8282.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/gem_blue.svg"
-dest_files=["res://.godot/imported/gem_blue.svg-b2a90ab85967c312af6daba851986960.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/gem_blue.svg"
+dest_files=["res://.godot/imported/gem_blue.svg-54ab4b2e9d18be58c03b0460b63a8282.ctex"]
 
 [params]
 

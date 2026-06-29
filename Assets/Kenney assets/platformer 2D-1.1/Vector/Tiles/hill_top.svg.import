@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqs4rb4oj4xdd"
-path="res://.godot/imported/hill_top.svg-12c89562ee81a1aa7ecba822fcd52a4c.ctex"
+path="res://.godot/imported/hill_top.svg-035bfada92b4ce34d5bf54e73f644210.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/hill_top.svg"
-dest_files=["res://.godot/imported/hill_top.svg-12c89562ee81a1aa7ecba822fcd52a4c.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/hill_top.svg"
+dest_files=["res://.godot/imported/hill_top.svg-035bfada92b4ce34d5bf54e73f644210.ctex"]
 
 [params]
 

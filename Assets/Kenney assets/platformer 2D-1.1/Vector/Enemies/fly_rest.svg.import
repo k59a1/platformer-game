@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvrybckh1xg0t"
-path="res://.godot/imported/fly_rest.svg-d2ce88f40205b2b6af973473cd0dd70c.ctex"
+path="res://.godot/imported/fly_rest.svg-4d11cf2b968bf69c1e290b7b389b45f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/fly_rest.svg"
-dest_files=["res://.godot/imported/fly_rest.svg-d2ce88f40205b2b6af973473cd0dd70c.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/fly_rest.svg"
+dest_files=["res://.godot/imported/fly_rest.svg-4d11cf2b968bf69c1e290b7b389b45f9.ctex"]
 
 [params]
 

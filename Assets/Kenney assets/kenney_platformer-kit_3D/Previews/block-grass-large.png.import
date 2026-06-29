@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doao7sk7r57b1"
-path="res://.godot/imported/block-grass-large.png-b33f8fc34c5c2a6541fd59f52477ade0.ctex"
+path="res://.godot/imported/block-grass-large.png-9ac80f4dd457353d5c03c2ad3a08e27d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-grass-large.png"
-dest_files=["res://.godot/imported/block-grass-large.png-b33f8fc34c5c2a6541fd59f52477ade0.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-grass-large.png"
+dest_files=["res://.godot/imported/block-grass-large.png-9ac80f4dd457353d5c03c2ad3a08e27d.ctex"]
 
 [params]
 

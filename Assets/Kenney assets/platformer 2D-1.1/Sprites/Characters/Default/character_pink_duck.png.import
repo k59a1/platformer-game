@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ywed6ee7soyb"
-path="res://.godot/imported/character_pink_duck.png-6aa193dbb0c74beca594fe55691d6a96.ctex"
+path="res://.godot/imported/character_pink_duck.png-8e1b3f72135a7ea25f2296aa798966e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Characters/Default/character_pink_duck.png"
-dest_files=["res://.godot/imported/character_pink_duck.png-6aa193dbb0c74beca594fe55691d6a96.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Default/character_pink_duck.png"
+dest_files=["res://.godot/imported/character_pink_duck.png-8e1b3f72135a7ea25f2296aa798966e5.ctex"]
 
 [params]
 

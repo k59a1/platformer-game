@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b7bfjktrgf2ua"
-path="res://.godot/imported/chest.obj-576b6c06239ff49eec414df5e23cd262.mesh"
+path="res://.godot/imported/chest.obj-c6b38579cb10173aaab13d9b1c67e42b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/chest.obj-576b6c06239ff49eec414df5e23cd262.mesh"]
+files=["res://.godot/imported/chest.obj-c6b38579cb10173aaab13d9b1c67e42b.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/chest.obj"
-dest_files=["res://.godot/imported/chest.obj-576b6c06239ff49eec414df5e23cd262.mesh", "res://.godot/imported/chest.obj-576b6c06239ff49eec414df5e23cd262.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/chest.obj"
+dest_files=["res://.godot/imported/chest.obj-c6b38579cb10173aaab13d9b1c67e42b.mesh", "res://.godot/imported/chest.obj-c6b38579cb10173aaab13d9b1c67e42b.mesh"]
 
 [params]
 

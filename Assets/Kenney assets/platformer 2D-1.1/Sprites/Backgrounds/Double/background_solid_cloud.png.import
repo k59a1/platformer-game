@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq6m5ukesmn15"
-path="res://.godot/imported/background_solid_cloud.png-5c5f01a48865176341657eefc07a6590.ctex"
+path="res://.godot/imported/background_solid_cloud.png-71d6dbbeafc73df9a79c6c8fa60c35fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Double/background_solid_cloud.png"
-dest_files=["res://.godot/imported/background_solid_cloud.png-5c5f01a48865176341657eefc07a6590.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Double/background_solid_cloud.png"
+dest_files=["res://.godot/imported/background_solid_cloud.png-71d6dbbeafc73df9a79c6c8fa60c35fc.ctex"]
 
 [params]
 

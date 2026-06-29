@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwr6ujuyso8iw"
-path="res://.godot/imported/block_empty_warning.png-9af608ebf1696bf6844e891f4ee71259.ctex"
+path="res://.godot/imported/block_empty_warning.png-cfab3433df0b15d1adde9b7e352bf72b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/block_empty_warning.png"
-dest_files=["res://.godot/imported/block_empty_warning.png-9af608ebf1696bf6844e891f4ee71259.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/block_empty_warning.png"
+dest_files=["res://.godot/imported/block_empty_warning.png-cfab3433df0b15d1adde9b7e352bf72b.ctex"]
 
 [params]
 

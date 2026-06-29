@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm0harkq4ps4k"
-path="res://.godot/imported/background_fade_desert.png-1c4373ec09c67422f004dfa12ec8775a.ctex"
+path="res://.godot/imported/background_fade_desert.png-c8c5a1a5d3be3413bfa4075369c4dce4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Double/background_fade_desert.png"
-dest_files=["res://.godot/imported/background_fade_desert.png-1c4373ec09c67422f004dfa12ec8775a.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Double/background_fade_desert.png"
+dest_files=["res://.godot/imported/background_fade_desert.png-c8c5a1a5d3be3413bfa4075369c4dce4.ctex"]
 
 [params]
 

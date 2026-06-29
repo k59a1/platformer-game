@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ckpuk24t313d3"
-path="res://.godot/imported/rocks.fbx-e2d537f26686ba1571221e1a731b6f7f.scn"
+path="res://.godot/imported/rocks.fbx-f271e8fdb63cf8f3c020a7160e974cd3.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/rocks.fbx"
-dest_files=["res://.godot/imported/rocks.fbx-e2d537f26686ba1571221e1a731b6f7f.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/rocks.fbx"
+dest_files=["res://.godot/imported/rocks.fbx-f271e8fdb63cf8f3c020a7160e974cd3.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2fgnw43fasy1"
-path="res://.godot/imported/hud_player_helmet_purple.png-05bb3eae0029adc3655a9f27a958b21b.ctex"
+path="res://.godot/imported/hud_player_helmet_purple.png-b4a55f31a1ae528de170de3df82e8064.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/hud_player_helmet_purple.png"
-dest_files=["res://.godot/imported/hud_player_helmet_purple.png-05bb3eae0029adc3655a9f27a958b21b.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/hud_player_helmet_purple.png"
+dest_files=["res://.godot/imported/hud_player_helmet_purple.png-b4a55f31a1ae528de170de3df82e8064.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cimvgpteon3oa"
-path="res://.godot/imported/terrain_purple_horizontal_overhang_left.png-0441076bb42326c2c2da45145552a577.ctex"
+path="res://.godot/imported/terrain_purple_horizontal_overhang_left.png-62319f17504e6eca70812261f01beb24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_purple_horizontal_overhang_left.png"
-dest_files=["res://.godot/imported/terrain_purple_horizontal_overhang_left.png-0441076bb42326c2c2da45145552a577.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_purple_horizontal_overhang_left.png"
+dest_files=["res://.godot/imported/terrain_purple_horizontal_overhang_left.png-62319f17504e6eca70812261f01beb24.ctex"]
 
 [params]
 

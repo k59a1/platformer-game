@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5jef8jc25nm8"
-path="res://.godot/imported/terrain_stone_block_top_right.png-c6ab571806273f01bee2c1cd3fa80e6a.ctex"
+path="res://.godot/imported/terrain_stone_block_top_right.png-41f39095d11607640cb0462fac55d405.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_stone_block_top_right.png"
-dest_files=["res://.godot/imported/terrain_stone_block_top_right.png-c6ab571806273f01bee2c1cd3fa80e6a.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_stone_block_top_right.png"
+dest_files=["res://.godot/imported/terrain_stone_block_top_right.png-41f39095d11607640cb0462fac55d405.ctex"]
 
 [params]
 

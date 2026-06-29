@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0872mnp44m6g"
-path="res://.godot/imported/block-grass-corner-overhang-low.glb-654ac9185a9becc120db741baf7d7244.scn"
+path="res://.godot/imported/block-grass-corner-overhang-low.glb-05405f087aeb593e9a8791467886fadc.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/block-grass-corner-overhang-low.glb"
-dest_files=["res://.godot/imported/block-grass-corner-overhang-low.glb-654ac9185a9becc120db741baf7d7244.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/block-grass-corner-overhang-low.glb"
+dest_files=["res://.godot/imported/block-grass-corner-overhang-low.glb-05405f087aeb593e9a8791467886fadc.scn"]
 
 [params]
 

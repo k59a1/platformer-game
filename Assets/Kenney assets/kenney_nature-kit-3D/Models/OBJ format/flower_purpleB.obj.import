@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bs51fewenbr1r"
+path="res://.godot/imported/flower_purpleB.obj-717ef9f2c25152ba907834adfada218f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flower_purpleB.obj-717ef9f2c25152ba907834adfada218f.mesh"]
+
+source_file="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/flower_purpleB.obj"
+dest_files=["res://.godot/imported/flower_purpleB.obj-717ef9f2c25152ba907834adfada218f.mesh", "res://.godot/imported/flower_purpleB.obj-717ef9f2c25152ba907834adfada218f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

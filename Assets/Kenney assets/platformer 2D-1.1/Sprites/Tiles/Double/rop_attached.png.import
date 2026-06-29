@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jhyc8sdcjtvp"
-path="res://.godot/imported/rop_attached.png-0c9911983b30b4dea252b1cf9e872e00.ctex"
+path="res://.godot/imported/rop_attached.png-a210618b37b0bd88be59a8bc0acd43d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/rop_attached.png"
-dest_files=["res://.godot/imported/rop_attached.png-0c9911983b30b4dea252b1cf9e872e00.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/rop_attached.png"
+dest_files=["res://.godot/imported/rop_attached.png-a210618b37b0bd88be59a8bc0acd43d2.ctex"]
 
 [params]
 

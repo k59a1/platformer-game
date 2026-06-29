@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba5neg4s5i6lj"
-path="res://.godot/imported/lava_top_low.png-ef63f18b35db29d18b8e1a5259ba1af3.ctex"
+path="res://.godot/imported/lava_top_low.png-401f38925ad0c07b0519fd43faa5ea66.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/lava_top_low.png"
-dest_files=["res://.godot/imported/lava_top_low.png-ef63f18b35db29d18b8e1a5259ba1af3.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/lava_top_low.png"
+dest_files=["res://.godot/imported/lava_top_low.png-401f38925ad0c07b0519fd43faa5ea66.ctex"]
 
 [params]
 

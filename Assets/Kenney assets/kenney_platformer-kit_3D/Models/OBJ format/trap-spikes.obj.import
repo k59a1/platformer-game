@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c14gmcelbpvj8"
-path="res://.godot/imported/trap-spikes.obj-3c9423ee54852a4b93be7686b6e4149b.mesh"
+path="res://.godot/imported/trap-spikes.obj-761cb7bf01745bdb38e2cda365a8948d.mesh"
 
 [deps]
 
-files=["res://.godot/imported/trap-spikes.obj-3c9423ee54852a4b93be7686b6e4149b.mesh"]
+files=["res://.godot/imported/trap-spikes.obj-761cb7bf01745bdb38e2cda365a8948d.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/trap-spikes.obj"
-dest_files=["res://.godot/imported/trap-spikes.obj-3c9423ee54852a4b93be7686b6e4149b.mesh", "res://.godot/imported/trap-spikes.obj-3c9423ee54852a4b93be7686b6e4149b.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/trap-spikes.obj"
+dest_files=["res://.godot/imported/trap-spikes.obj-761cb7bf01745bdb38e2cda365a8948d.mesh", "res://.godot/imported/trap-spikes.obj-761cb7bf01745bdb38e2cda365a8948d.mesh"]
 
 [params]
 

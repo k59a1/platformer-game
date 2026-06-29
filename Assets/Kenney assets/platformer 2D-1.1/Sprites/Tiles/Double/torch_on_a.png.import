@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdobtw1tcd6ga"
-path="res://.godot/imported/torch_on_a.png-1baa855700a29c51ade70ac84c90298a.ctex"
+path="res://.godot/imported/torch_on_a.png-cbd28f68eefd50a0b87f77d8d10f86ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/torch_on_a.png"
-dest_files=["res://.godot/imported/torch_on_a.png-1baa855700a29c51ade70ac84c90298a.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/torch_on_a.png"
+dest_files=["res://.godot/imported/torch_on_a.png-cbd28f68eefd50a0b87f77d8d10f86ba.ctex"]
 
 [params]
 

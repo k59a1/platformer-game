@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3qdbbh2taxf8"
-path="res://.godot/imported/fence-low-corner-curved.glb-6a019723a1e9dc150614dd8fcfd875ea.scn"
+path="res://.godot/imported/fence-low-corner-curved.glb-87afa06b09e2d1724a90a75d3e10b984.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/fence-low-corner-curved.glb"
-dest_files=["res://.godot/imported/fence-low-corner-curved.glb-6a019723a1e9dc150614dd8fcfd875ea.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/fence-low-corner-curved.glb"
+dest_files=["res://.godot/imported/fence-low-corner-curved.glb-87afa06b09e2d1724a90a75d3e10b984.scn"]
 
 [params]
 

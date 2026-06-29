@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hpivgcfhmdig"
-path="res://.godot/imported/block_red.png-253eb83b839b3aacea0f15751343ef5b.ctex"
+path="res://.godot/imported/block_red.png-ef28522239c6087d91932edfe8b565fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/block_red.png"
-dest_files=["res://.godot/imported/block_red.png-253eb83b839b3aacea0f15751343ef5b.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/block_red.png"
+dest_files=["res://.godot/imported/block_red.png-ef28522239c6087d91932edfe8b565fa.ctex"]
 
 [params]
 

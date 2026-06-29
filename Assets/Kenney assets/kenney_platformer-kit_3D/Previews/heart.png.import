@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by03jeyj5nns7"
-path="res://.godot/imported/heart.png-3476bfe823c20d3f5733059cef1d7b16.ctex"
+path="res://.godot/imported/heart.png-48e0b6ffa23555881a49550666cc97ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/heart.png"
-dest_files=["res://.godot/imported/heart.png-3476bfe823c20d3f5733059cef1d7b16.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/heart.png"
+dest_files=["res://.godot/imported/heart.png-48e0b6ffa23555881a49550666cc97ac.ctex"]
 
 [params]
 

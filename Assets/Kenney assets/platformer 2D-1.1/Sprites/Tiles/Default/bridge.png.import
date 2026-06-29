@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f2sl2fiymo1q"
-path="res://.godot/imported/bridge.png-104e022fa6998c585b74fa8d00885b38.ctex"
+path="res://.godot/imported/bridge.png-391ee334976ddd3d6c7c2e2df606e2e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/bridge.png"
-dest_files=["res://.godot/imported/bridge.png-104e022fa6998c585b74fa8d00885b38.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/bridge.png"
+dest_files=["res://.godot/imported/bridge.png-391ee334976ddd3d6c7c2e2df606e2e8.ctex"]
 
 [params]
 

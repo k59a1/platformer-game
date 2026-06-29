@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck1jua5435vxf"
-path="res://.godot/imported/background_fade_mushrooms.png-447a599d61cc238786b114eea7236745.ctex"
+path="res://.godot/imported/background_fade_mushrooms.png-72306a5610fd506d2f75fb2c0cba5cbd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_fade_mushrooms.png"
-dest_files=["res://.godot/imported/background_fade_mushrooms.png-447a599d61cc238786b114eea7236745.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_fade_mushrooms.png"
+dest_files=["res://.godot/imported/background_fade_mushrooms.png-72306a5610fd506d2f75fb2c0cba5cbd.ctex"]
 
 [params]
 

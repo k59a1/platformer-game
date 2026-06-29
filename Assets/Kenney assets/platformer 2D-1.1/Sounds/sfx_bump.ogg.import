@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://xejlkwn4u7y5"
-path="res://.godot/imported/sfx_bump.ogg-9c0a8f1965f37fd59565a9c22d513b1f.oggvorbisstr"
+path="res://.godot/imported/sfx_bump.ogg-7f8dbfab1b9500bffe0142d2bd31f536.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sounds/sfx_bump.ogg"
-dest_files=["res://.godot/imported/sfx_bump.ogg-9c0a8f1965f37fd59565a9c22d513b1f.oggvorbisstr"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sounds/sfx_bump.ogg"
+dest_files=["res://.godot/imported/sfx_bump.ogg-7f8dbfab1b9500bffe0142d2bd31f536.oggvorbisstr"]
 
 [params]
 

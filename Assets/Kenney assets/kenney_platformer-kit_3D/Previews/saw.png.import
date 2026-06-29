@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by6b4qj2qh2g5"
-path="res://.godot/imported/saw.png-c91ed0dac1059c24de6ad314702b337b.ctex"
+path="res://.godot/imported/saw.png-b12264f7e34227bc027de03a08bdc76b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/saw.png"
-dest_files=["res://.godot/imported/saw.png-c91ed0dac1059c24de6ad314702b337b.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/saw.png"
+dest_files=["res://.godot/imported/saw.png-b12264f7e34227bc027de03a08bdc76b.ctex"]
 
 [params]
 

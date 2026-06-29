@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmev50r174bni"
-path="res://.godot/imported/terrain_stone_ramp_long_a.png-5faf9ca9518d06fa9c4110d4b4c34d17.ctex"
+path="res://.godot/imported/terrain_stone_ramp_long_a.png-38a5de199ef123b3263215c4906b1f69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_stone_ramp_long_a.png"
-dest_files=["res://.godot/imported/terrain_stone_ramp_long_a.png-5faf9ca9518d06fa9c4110d4b4c34d17.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_stone_ramp_long_a.png"
+dest_files=["res://.godot/imported/terrain_stone_ramp_long_a.png-38a5de199ef123b3263215c4906b1f69.ctex"]
 
 [params]
 

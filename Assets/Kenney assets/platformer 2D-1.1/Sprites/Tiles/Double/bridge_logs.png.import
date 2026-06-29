@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddmjgeytrucxf"
-path="res://.godot/imported/bridge_logs.png-351312becb367e145534d30a298e12be.ctex"
+path="res://.godot/imported/bridge_logs.png-66cd38f99274c3d32f8f2d7051f10732.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/bridge_logs.png"
-dest_files=["res://.godot/imported/bridge_logs.png-351312becb367e145534d30a298e12be.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/bridge_logs.png"
+dest_files=["res://.godot/imported/bridge_logs.png-66cd38f99274c3d32f8f2d7051f10732.ctex"]
 
 [params]
 

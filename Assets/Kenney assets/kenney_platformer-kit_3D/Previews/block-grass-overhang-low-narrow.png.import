@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v8oojrnbqoot"
-path="res://.godot/imported/block-grass-overhang-low-narrow.png-b5c2d20ecce216372b943faae54529a2.ctex"
+path="res://.godot/imported/block-grass-overhang-low-narrow.png-b2c18d19ccc994d13177533f45d9b322.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-grass-overhang-low-narrow.png"
-dest_files=["res://.godot/imported/block-grass-overhang-low-narrow.png-b5c2d20ecce216372b943faae54529a2.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-grass-overhang-low-narrow.png"
+dest_files=["res://.godot/imported/block-grass-overhang-low-narrow.png-b2c18d19ccc994d13177533f45d9b322.ctex"]
 
 [params]
 

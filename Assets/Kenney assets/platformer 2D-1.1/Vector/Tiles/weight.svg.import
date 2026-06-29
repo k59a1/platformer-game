@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bakpmce7g54a2"
-path="res://.godot/imported/weight.svg-4c85e535f7e63cc9c05fef4f1f16b4a5.ctex"
+path="res://.godot/imported/weight.svg-173bc73456f66505db1a31b1f7113b77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/weight.svg"
-dest_files=["res://.godot/imported/weight.svg-4c85e535f7e63cc9c05fef4f1f16b4a5.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/weight.svg"
+dest_files=["res://.godot/imported/weight.svg-173bc73456f66505db1a31b1f7113b77.ctex"]
 
 [params]
 

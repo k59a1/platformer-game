@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxpbbh3rs32wh"
-path="res://.godot/imported/frog_rest.svg-bb261e6136b354ec94fb16354ba7a840.ctex"
+path="res://.godot/imported/frog_rest.svg-dbfa9fa1f0c7f66bf7ba700d1ebeb3c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/frog_rest.svg"
-dest_files=["res://.godot/imported/frog_rest.svg-bb261e6136b354ec94fb16354ba7a840.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/frog_rest.svg"
+dest_files=["res://.godot/imported/frog_rest.svg-dbfa9fa1f0c7f66bf7ba700d1ebeb3c2.ctex"]
 
 [params]
 

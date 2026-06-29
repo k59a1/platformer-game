@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da66y5xjelpp7"
-path="res://.godot/imported/chain.svg-57b06a579d58ad3d66ea4c31f1485104.ctex"
+path="res://.godot/imported/chain.svg-ca82f3793ae9989024f9cfe03fe771da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/chain.svg"
-dest_files=["res://.godot/imported/chain.svg-57b06a579d58ad3d66ea4c31f1485104.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/chain.svg"
+dest_files=["res://.godot/imported/chain.svg-ca82f3793ae9989024f9cfe03fe771da.ctex"]
 
 [params]
 

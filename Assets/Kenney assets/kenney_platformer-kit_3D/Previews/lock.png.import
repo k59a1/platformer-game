@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boga7bli7wxks"
-path="res://.godot/imported/lock.png-834975bb228ae5c298d5c2c2ce8eae8a.ctex"
+path="res://.godot/imported/lock.png-abd3a442dcfad1e1c56e521207c4f474.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/lock.png"
-dest_files=["res://.godot/imported/lock.png-834975bb228ae5c298d5c2c2ce8eae8a.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/lock.png"
+dest_files=["res://.godot/imported/lock.png-abd3a442dcfad1e1c56e521207c4f474.ctex"]
 
 [params]
 

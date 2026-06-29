@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bucw5yby5autd"
-path="res://.godot/imported/bee_rest.svg-d5f62c2db0a4144308ff50a8703cfece.ctex"
+path="res://.godot/imported/bee_rest.svg-49e31d3b4ee338fd112fc81ed1653cb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/bee_rest.svg"
-dest_files=["res://.godot/imported/bee_rest.svg-d5f62c2db0a4144308ff50a8703cfece.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/bee_rest.svg"
+dest_files=["res://.godot/imported/bee_rest.svg-49e31d3b4ee338fd112fc81ed1653cb4.ctex"]
 
 [params]
 

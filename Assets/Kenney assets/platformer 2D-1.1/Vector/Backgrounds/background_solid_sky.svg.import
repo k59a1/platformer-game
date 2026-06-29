@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d14v1hv8u1f0m"
-path="res://.godot/imported/background_solid_sky.svg-09d2712c84ff82a022fe3e183f550a7e.ctex"
+path="res://.godot/imported/background_solid_sky.svg-d9f078c6fe506c8e7c3fd0cb99f838af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Backgrounds/background_solid_sky.svg"
-dest_files=["res://.godot/imported/background_solid_sky.svg-09d2712c84ff82a022fe3e183f550a7e.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Backgrounds/background_solid_sky.svg"
+dest_files=["res://.godot/imported/background_solid_sky.svg-d9f078c6fe506c8e7c3fd0cb99f838af.ctex"]
 
 [params]
 

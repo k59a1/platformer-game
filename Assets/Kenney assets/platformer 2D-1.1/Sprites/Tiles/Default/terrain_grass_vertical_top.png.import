@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr4812h6aub4v"
-path="res://.godot/imported/terrain_grass_vertical_top.png-523af07bf170b6b5f29be418459a28b5.ctex"
+path="res://.godot/imported/terrain_grass_vertical_top.png-237125b8091ea352a7abb7296c348207.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/terrain_grass_vertical_top.png"
-dest_files=["res://.godot/imported/terrain_grass_vertical_top.png-523af07bf170b6b5f29be418459a28b5.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/terrain_grass_vertical_top.png"
+dest_files=["res://.godot/imported/terrain_grass_vertical_top.png-237125b8091ea352a7abb7296c348207.ctex"]
 
 [params]
 

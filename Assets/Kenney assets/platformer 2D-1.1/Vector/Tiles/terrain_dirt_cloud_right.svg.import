@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://knb3jdg4mayt"
-path="res://.godot/imported/terrain_dirt_cloud_right.svg-ac04e6feba5926bbcb3ce7bb63eb8be3.ctex"
+path="res://.godot/imported/terrain_dirt_cloud_right.svg-86652da8bddcbe715e8f260cc7ab235a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_cloud_right.svg"
-dest_files=["res://.godot/imported/terrain_dirt_cloud_right.svg-ac04e6feba5926bbcb3ce7bb63eb8be3.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_cloud_right.svg"
+dest_files=["res://.godot/imported/terrain_dirt_cloud_right.svg-86652da8bddcbe715e8f260cc7ab235a.ctex"]
 
 [params]
 

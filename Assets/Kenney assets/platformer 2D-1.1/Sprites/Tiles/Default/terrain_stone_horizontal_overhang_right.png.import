@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb1a2xirb7oas"
-path="res://.godot/imported/terrain_stone_horizontal_overhang_right.png-2ad47c00b736e817d22d70eca42919ea.ctex"
+path="res://.godot/imported/terrain_stone_horizontal_overhang_right.png-20bef4ca90f333fba75855bc31880c9d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/terrain_stone_horizontal_overhang_right.png"
-dest_files=["res://.godot/imported/terrain_stone_horizontal_overhang_right.png-2ad47c00b736e817d22d70eca42919ea.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/terrain_stone_horizontal_overhang_right.png"
+dest_files=["res://.godot/imported/terrain_stone_horizontal_overhang_right.png-20bef4ca90f333fba75855bc31880c9d.ctex"]
 
 [params]
 

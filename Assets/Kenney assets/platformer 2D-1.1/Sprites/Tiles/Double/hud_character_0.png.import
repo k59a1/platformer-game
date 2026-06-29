@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bymebumpwcbwe"
-path="res://.godot/imported/hud_character_0.png-5a6d2d72c75bcb4c016f687bcbcb1cc1.ctex"
+path="res://.godot/imported/hud_character_0.png-924c3a4ef9d844d22a7806bc4edf7c72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/hud_character_0.png"
-dest_files=["res://.godot/imported/hud_character_0.png-5a6d2d72c75bcb4c016f687bcbcb1cc1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/hud_character_0.png"
+dest_files=["res://.godot/imported/hud_character_0.png-924c3a4ef9d844d22a7806bc4edf7c72.ctex"]
 
 [params]
 

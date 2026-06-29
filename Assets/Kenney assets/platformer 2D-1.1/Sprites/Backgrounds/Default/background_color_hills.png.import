@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt1pgj37qx8y6"
-path="res://.godot/imported/background_color_hills.png-2c388d4ddb7b30b5a89ca3f3515b6f19.ctex"
+path="res://.godot/imported/background_color_hills.png-9c6ed3ed300bbb19d8c6f38fe66005c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_hills.png"
-dest_files=["res://.godot/imported/background_color_hills.png-2c388d4ddb7b30b5a89ca3f3515b6f19.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_hills.png"
+dest_files=["res://.godot/imported/background_color_hills.png-9c6ed3ed300bbb19d8c6f38fe66005c7.ctex"]
 
 [params]
 

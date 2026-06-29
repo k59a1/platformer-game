@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bkkjmut0y5am6"
-path="res://.godot/imported/block-grass-edge.obj-c23969f653c30f479bfca097daa50567.mesh"
+path="res://.godot/imported/block-grass-edge.obj-38bbafa95c5b6754b5abf74896a576c1.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-edge.obj-c23969f653c30f479bfca097daa50567.mesh"]
+files=["res://.godot/imported/block-grass-edge.obj-38bbafa95c5b6754b5abf74896a576c1.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-edge.obj"
-dest_files=["res://.godot/imported/block-grass-edge.obj-c23969f653c30f479bfca097daa50567.mesh", "res://.godot/imported/block-grass-edge.obj-c23969f653c30f479bfca097daa50567.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-edge.obj"
+dest_files=["res://.godot/imported/block-grass-edge.obj-38bbafa95c5b6754b5abf74896a576c1.mesh", "res://.godot/imported/block-grass-edge.obj-38bbafa95c5b6754b5abf74896a576c1.mesh"]
 
 [params]
 

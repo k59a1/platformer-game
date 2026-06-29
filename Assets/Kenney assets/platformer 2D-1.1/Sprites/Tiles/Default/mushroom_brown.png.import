@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1m7v2e7j8o73"
-path="res://.godot/imported/mushroom_brown.png-a0bb55f92175367af840bf15efed5a2f.ctex"
+path="res://.godot/imported/mushroom_brown.png-f1ee70899eb238de05f74e6bee1b9381.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/mushroom_brown.png"
-dest_files=["res://.godot/imported/mushroom_brown.png-a0bb55f92175367af840bf15efed5a2f.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/mushroom_brown.png"
+dest_files=["res://.godot/imported/mushroom_brown.png-f1ee70899eb238de05f74e6bee1b9381.ctex"]
 
 [params]
 

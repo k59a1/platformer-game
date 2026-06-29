@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbd2bwdj5m84q"
-path="res://.godot/imported/terrain_purple_block_top_left.svg-db46b3d72864bc719a3b96f6fdabd9e8.ctex"
+path="res://.godot/imported/terrain_purple_block_top_left.svg-a59084ceb4fbec5a6e5a6419feef92cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_purple_block_top_left.svg"
-dest_files=["res://.godot/imported/terrain_purple_block_top_left.svg-db46b3d72864bc719a3b96f6fdabd9e8.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_purple_block_top_left.svg"
+dest_files=["res://.godot/imported/terrain_purple_block_top_left.svg-a59084ceb4fbec5a6e5a6419feef92cf.ctex"]
 
 [params]
 

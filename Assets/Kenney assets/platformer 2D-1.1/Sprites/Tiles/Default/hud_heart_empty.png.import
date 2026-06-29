@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbjn63kfdm0u5"
-path="res://.godot/imported/hud_heart_empty.png-57777739e469c10bbab14f9922ba15f6.ctex"
+path="res://.godot/imported/hud_heart_empty.png-04257218458528721cb4f44e4eafa0f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/hud_heart_empty.png"
-dest_files=["res://.godot/imported/hud_heart_empty.png-57777739e469c10bbab14f9922ba15f6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/hud_heart_empty.png"
+dest_files=["res://.godot/imported/hud_heart_empty.png-04257218458528721cb4f44e4eafa0f5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djttbsrhcnv7c"
-path="res://.godot/imported/bricks_grey.svg-7f5564cc32bd2c1f5ad7ee5e3851d6f6.ctex"
+path="res://.godot/imported/bricks_grey.svg-0803b6817e781e6eb9cfd31d7e279513.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/bricks_grey.svg"
-dest_files=["res://.godot/imported/bricks_grey.svg-7f5564cc32bd2c1f5ad7ee5e3851d6f6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/bricks_grey.svg"
+dest_files=["res://.godot/imported/bricks_grey.svg-0803b6817e781e6eb9cfd31d7e279513.ctex"]
 
 [params]
 

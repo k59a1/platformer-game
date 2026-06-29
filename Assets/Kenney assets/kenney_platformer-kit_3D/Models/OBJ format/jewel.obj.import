@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cqn1fg3p704qu"
-path="res://.godot/imported/jewel.obj-f2b43bc3dd6a2ebc28a8dfa3e516d447.mesh"
+path="res://.godot/imported/jewel.obj-fdd7bfe65a8ee4d49f25e573d40deab0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/jewel.obj-f2b43bc3dd6a2ebc28a8dfa3e516d447.mesh"]
+files=["res://.godot/imported/jewel.obj-fdd7bfe65a8ee4d49f25e573d40deab0.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/jewel.obj"
-dest_files=["res://.godot/imported/jewel.obj-f2b43bc3dd6a2ebc28a8dfa3e516d447.mesh", "res://.godot/imported/jewel.obj-f2b43bc3dd6a2ebc28a8dfa3e516d447.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/jewel.obj"
+dest_files=["res://.godot/imported/jewel.obj-fdd7bfe65a8ee4d49f25e573d40deab0.mesh", "res://.godot/imported/jewel.obj-fdd7bfe65a8ee4d49f25e573d40deab0.mesh"]
 
 [params]
 

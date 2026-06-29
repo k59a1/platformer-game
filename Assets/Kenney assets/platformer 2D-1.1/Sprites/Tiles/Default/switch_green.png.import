@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xa2a3wwgs1a0"
-path="res://.godot/imported/switch_green.png-8891f94193489ccba48383ec65cd00a7.ctex"
+path="res://.godot/imported/switch_green.png-52c757bdbd109a083dd857cba88a5521.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/switch_green.png"
-dest_files=["res://.godot/imported/switch_green.png-8891f94193489ccba48383ec65cd00a7.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/switch_green.png"
+dest_files=["res://.godot/imported/switch_green.png-52c757bdbd109a083dd857cba88a5521.ctex"]
 
 [params]
 

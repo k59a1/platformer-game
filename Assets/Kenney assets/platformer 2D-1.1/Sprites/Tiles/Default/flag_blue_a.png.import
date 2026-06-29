@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdrjx4xtj4jiu"
-path="res://.godot/imported/flag_blue_a.png-85dfa2c7e31bb0b4c6aaa1fbc1e92eec.ctex"
+path="res://.godot/imported/flag_blue_a.png-ed39bc08ebc9662f769aeb36361000e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/flag_blue_a.png"
-dest_files=["res://.godot/imported/flag_blue_a.png-85dfa2c7e31bb0b4c6aaa1fbc1e92eec.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/flag_blue_a.png"
+dest_files=["res://.godot/imported/flag_blue_a.png-ed39bc08ebc9662f769aeb36361000e4.ctex"]
 
 [params]
 

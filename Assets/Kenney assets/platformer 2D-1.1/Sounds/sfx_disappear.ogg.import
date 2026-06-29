@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ckf5gf55av7vg"
-path="res://.godot/imported/sfx_disappear.ogg-919c815ce5cc1a5cb740010a52ee102f.oggvorbisstr"
+path="res://.godot/imported/sfx_disappear.ogg-abc7b28ea3ddedf4b2a877c73ab03254.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sounds/sfx_disappear.ogg"
-dest_files=["res://.godot/imported/sfx_disappear.ogg-919c815ce5cc1a5cb740010a52ee102f.oggvorbisstr"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sounds/sfx_disappear.ogg"
+dest_files=["res://.godot/imported/sfx_disappear.ogg-abc7b28ea3ddedf4b2a877c73ab03254.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwaic5f0d8dmb"
-path="res://.godot/imported/slime_fire_flat.png-f7ce86553951a440f8040944d148aa35.ctex"
+path="res://.godot/imported/slime_fire_flat.png-399b0598f21e93bb546e2fcbe1762ad4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_fire_flat.png"
-dest_files=["res://.godot/imported/slime_fire_flat.png-f7ce86553951a440f8040944d148aa35.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_fire_flat.png"
+dest_files=["res://.godot/imported/slime_fire_flat.png-399b0598f21e93bb546e2fcbe1762ad4.ctex"]
 
 [params]
 

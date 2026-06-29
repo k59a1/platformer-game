@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://booccjp8qmq53"
-path="res://.godot/imported/barnacle_attack_b.png-36bfbc3cf7d087aabedd833cd9a865f1.ctex"
+path="res://.godot/imported/barnacle_attack_b.png-3ea8d8d4486e0f511bb3cfe41e93edf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/barnacle_attack_b.png"
-dest_files=["res://.godot/imported/barnacle_attack_b.png-36bfbc3cf7d087aabedd833cd9a865f1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/barnacle_attack_b.png"
+dest_files=["res://.godot/imported/barnacle_attack_b.png-3ea8d8d4486e0f511bb3cfe41e93edf7.ctex"]
 
 [params]
 

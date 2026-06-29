@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btmwd6fdfvk4s"
-path="res://.godot/imported/character_beige_walk_b.png-a71afcfae4f86561ef3d760635263eb6.ctex"
+path="res://.godot/imported/character_beige_walk_b.png-10c31a0bb09e4cd63fe50c6e1762c47f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Characters/Default/character_beige_walk_b.png"
-dest_files=["res://.godot/imported/character_beige_walk_b.png-a71afcfae4f86561ef3d760635263eb6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Default/character_beige_walk_b.png"
+dest_files=["res://.godot/imported/character_beige_walk_b.png-10c31a0bb09e4cd63fe50c6e1762c47f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qku32cpmdfyx"
-path="res://.godot/imported/ladybug_rest.svg-c7f90221fd8b7850e086704476ee9954.ctex"
+path="res://.godot/imported/ladybug_rest.svg-300db8859956456a130dba09df221746.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/ladybug_rest.svg"
-dest_files=["res://.godot/imported/ladybug_rest.svg-c7f90221fd8b7850e086704476ee9954.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/ladybug_rest.svg"
+dest_files=["res://.godot/imported/ladybug_rest.svg-300db8859956456a130dba09df221746.ctex"]
 
 [params]
 

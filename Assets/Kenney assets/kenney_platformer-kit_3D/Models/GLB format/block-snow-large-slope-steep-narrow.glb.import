@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bpis8wdw5jpc"
-path="res://.godot/imported/block-snow-large-slope-steep-narrow.glb-bd2f12f98e38c63aa036896044e5ab1e.scn"
+path="res://.godot/imported/block-snow-large-slope-steep-narrow.glb-6e0a649b5839c4f115d0bd80ec200756.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/block-snow-large-slope-steep-narrow.glb"
-dest_files=["res://.godot/imported/block-snow-large-slope-steep-narrow.glb-bd2f12f98e38c63aa036896044e5ab1e.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/block-snow-large-slope-steep-narrow.glb"
+dest_files=["res://.godot/imported/block-snow-large-slope-steep-narrow.glb-6e0a649b5839c4f115d0bd80ec200756.scn"]
 
 [params]
 

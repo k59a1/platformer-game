@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://71roqtw73ytg"
-path="res://.godot/imported/background_fade_hills.svg-6d4dcd94f36523ebd328e22b1d64c903.ctex"
+path="res://.godot/imported/background_fade_hills.svg-c80834a374e212ecee81ca2729464bfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Backgrounds/background_fade_hills.svg"
-dest_files=["res://.godot/imported/background_fade_hills.svg-6d4dcd94f36523ebd328e22b1d64c903.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Backgrounds/background_fade_hills.svg"
+dest_files=["res://.godot/imported/background_fade_hills.svg-c80834a374e212ecee81ca2729464bfa.ctex"]
 
 [params]
 

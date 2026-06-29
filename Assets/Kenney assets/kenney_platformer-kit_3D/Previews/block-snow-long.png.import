@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cue8st5q4nn3a"
-path="res://.godot/imported/block-snow-long.png-ccd3fe1d33817124246ed4f0d8088e70.ctex"
+path="res://.godot/imported/block-snow-long.png-ce1c52eef278ee6d5ff547c34417209f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-snow-long.png"
-dest_files=["res://.godot/imported/block-snow-long.png-ccd3fe1d33817124246ed4f0d8088e70.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-snow-long.png"
+dest_files=["res://.godot/imported/block-snow-long.png-ce1c52eef278ee6d5ff547c34417209f.ctex"]
 
 [params]
 

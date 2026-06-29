@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cns6mftau5dtq"
-path="res://.godot/imported/block-moving.glb-6c487beac0de796faa1fcc0ecbf46c26.scn"
+path="res://.godot/imported/block-moving.glb-8032150c1def1e350b0e0a8c55bc1eb4.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/block-moving.glb"
-dest_files=["res://.godot/imported/block-moving.glb-6c487beac0de796faa1fcc0ecbf46c26.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/block-moving.glb"
+dest_files=["res://.godot/imported/block-moving.glb-8032150c1def1e350b0e0a8c55bc1eb4.scn"]
 
 [params]
 

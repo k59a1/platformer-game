@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4a7atl5vra2k"
-path="res://.godot/imported/slime_spike_walk_b.png-3a350471ea1994b860e896877650a90b.ctex"
+path="res://.godot/imported/slime_spike_walk_b.png-24fc0826f4617b9a3ab0f920d80b5daf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_spike_walk_b.png"
-dest_files=["res://.godot/imported/slime_spike_walk_b.png-3a350471ea1994b860e896877650a90b.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_spike_walk_b.png"
+dest_files=["res://.godot/imported/slime_spike_walk_b.png-24fc0826f4617b9a3ab0f920d80b5daf.ctex"]
 
 [params]
 

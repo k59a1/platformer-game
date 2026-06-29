@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b52s8qe5g4fj4"
-path="res://.godot/imported/block-grass-large-slope-steep.obj-f3e7c7a4686f286960e97f7475ac5c23.mesh"
+path="res://.godot/imported/block-grass-large-slope-steep.obj-0f43c78bc1944fd5e05c00908b99dcec.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-large-slope-steep.obj-f3e7c7a4686f286960e97f7475ac5c23.mesh"]
+files=["res://.godot/imported/block-grass-large-slope-steep.obj-0f43c78bc1944fd5e05c00908b99dcec.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-slope-steep.obj"
-dest_files=["res://.godot/imported/block-grass-large-slope-steep.obj-f3e7c7a4686f286960e97f7475ac5c23.mesh", "res://.godot/imported/block-grass-large-slope-steep.obj-f3e7c7a4686f286960e97f7475ac5c23.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-slope-steep.obj"
+dest_files=["res://.godot/imported/block-grass-large-slope-steep.obj-0f43c78bc1944fd5e05c00908b99dcec.mesh", "res://.godot/imported/block-grass-large-slope-steep.obj-0f43c78bc1944fd5e05c00908b99dcec.mesh"]
 
 [params]
 

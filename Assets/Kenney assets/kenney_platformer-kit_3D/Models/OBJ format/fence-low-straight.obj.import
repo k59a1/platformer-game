@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bjetwsx3h2pxf"
-path="res://.godot/imported/fence-low-straight.obj-3b579d4974ad1e4dcd6339f61b6720df.mesh"
+path="res://.godot/imported/fence-low-straight.obj-729072a4eaa3aeeda825f3002d7e1dab.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-low-straight.obj-3b579d4974ad1e4dcd6339f61b6720df.mesh"]
+files=["res://.godot/imported/fence-low-straight.obj-729072a4eaa3aeeda825f3002d7e1dab.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/fence-low-straight.obj"
-dest_files=["res://.godot/imported/fence-low-straight.obj-3b579d4974ad1e4dcd6339f61b6720df.mesh", "res://.godot/imported/fence-low-straight.obj-3b579d4974ad1e4dcd6339f61b6720df.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/fence-low-straight.obj"
+dest_files=["res://.godot/imported/fence-low-straight.obj-729072a4eaa3aeeda825f3002d7e1dab.mesh", "res://.godot/imported/fence-low-straight.obj-729072a4eaa3aeeda825f3002d7e1dab.mesh"]
 
 [params]
 

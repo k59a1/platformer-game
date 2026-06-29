@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l6r7v8cbio6r"
-path="res://.godot/imported/frog_jump.png-84f28e07c828fdcaf5f1272b714d7c20.ctex"
+path="res://.godot/imported/frog_jump.png-52ca82ad3b19bad023e92c58f6ca1624.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/frog_jump.png"
-dest_files=["res://.godot/imported/frog_jump.png-84f28e07c828fdcaf5f1272b714d7c20.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/frog_jump.png"
+dest_files=["res://.godot/imported/frog_jump.png-52ca82ad3b19bad023e92c58f6ca1624.ctex"]
 
 [params]
 

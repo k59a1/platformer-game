@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://216kq3a3w5nh"
-path="res://.godot/imported/background_color_desert.png-68e97a0d218fd56d660466202110c0e3.ctex"
+path="res://.godot/imported/background_color_desert.png-3deb3068cde31b8a072a4021f89cb686.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_desert.png"
-dest_files=["res://.godot/imported/background_color_desert.png-68e97a0d218fd56d660466202110c0e3.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Backgrounds/Default/background_color_desert.png"
+dest_files=["res://.godot/imported/background_color_desert.png-3deb3068cde31b8a072a4021f89cb686.ctex"]
 
 [params]
 

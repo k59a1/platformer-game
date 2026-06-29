@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxisb7guoe0nu"
-path="res://.godot/imported/block-grass-low-hexagon.png-2bdd5964f549253ede79d84584ee2c17.ctex"
+path="res://.godot/imported/block-grass-low-hexagon.png-b204368c65d12da184603acae0e32ff9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-grass-low-hexagon.png"
-dest_files=["res://.godot/imported/block-grass-low-hexagon.png-2bdd5964f549253ede79d84584ee2c17.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-grass-low-hexagon.png"
+dest_files=["res://.godot/imported/block-grass-low-hexagon.png-b204368c65d12da184603acae0e32ff9.ctex"]
 
 [params]
 

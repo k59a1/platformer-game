@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bi8t24xb8p51c"
-path="res://.godot/imported/fence-broken.obj-438e63bc45f8b55968cf723900d07891.mesh"
+path="res://.godot/imported/fence-broken.obj-1aa82c4a0e39aa48bb2de6e984e746e0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-broken.obj-438e63bc45f8b55968cf723900d07891.mesh"]
+files=["res://.godot/imported/fence-broken.obj-1aa82c4a0e39aa48bb2de6e984e746e0.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/fence-broken.obj"
-dest_files=["res://.godot/imported/fence-broken.obj-438e63bc45f8b55968cf723900d07891.mesh", "res://.godot/imported/fence-broken.obj-438e63bc45f8b55968cf723900d07891.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/fence-broken.obj"
+dest_files=["res://.godot/imported/fence-broken.obj-1aa82c4a0e39aa48bb2de6e984e746e0.mesh", "res://.godot/imported/fence-broken.obj-1aa82c4a0e39aa48bb2de6e984e746e0.mesh"]
 
 [params]
 

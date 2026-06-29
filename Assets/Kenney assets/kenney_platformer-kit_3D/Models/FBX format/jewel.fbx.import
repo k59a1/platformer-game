@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d03fn0soqxsdu"
-path="res://.godot/imported/jewel.fbx-04f0dc232e07054853c8481996faafb5.scn"
+path="res://.godot/imported/jewel.fbx-6e3ec96f48f9e403396672e65cb69577.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/jewel.fbx"
-dest_files=["res://.godot/imported/jewel.fbx-04f0dc232e07054853c8481996faafb5.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/jewel.fbx"
+dest_files=["res://.godot/imported/jewel.fbx-6e3ec96f48f9e403396672e65cb69577.scn"]
 
 [params]
 

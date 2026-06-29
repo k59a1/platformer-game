@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duhh8lyookshh"
-path="res://.godot/imported/fish_blue_swim_a.svg-ab13345ef5960af1fcf533d212c77529.ctex"
+path="res://.godot/imported/fish_blue_swim_a.svg-7e861153debd2bd221c4569bb94b0b37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Enemies/fish_blue_swim_a.svg"
-dest_files=["res://.godot/imported/fish_blue_swim_a.svg-ab13345ef5960af1fcf533d212c77529.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Enemies/fish_blue_swim_a.svg"
+dest_files=["res://.godot/imported/fish_blue_swim_a.svg-7e861153debd2bd221c4569bb94b0b37.ctex"]
 
 [params]
 

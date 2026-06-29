@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byk4lm0oh8nj3"
-path="res://.godot/imported/block-snow-hexagon.png-2562b1c1f05b1b3f431eaa4889d28e76.ctex"
+path="res://.godot/imported/block-snow-hexagon.png-e587a25b9e5813bf5464857a3251fd12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-snow-hexagon.png"
-dest_files=["res://.godot/imported/block-snow-hexagon.png-2562b1c1f05b1b3f431eaa4889d28e76.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-snow-hexagon.png"
+dest_files=["res://.godot/imported/block-snow-hexagon.png-e587a25b9e5813bf5464857a3251fd12.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cenm2iykyl8c8"
-path="res://.godot/imported/fish_yellow_swim_b.png-a3fd469bb11bc9c07491d8ac16f3c518.ctex"
+path="res://.godot/imported/fish_yellow_swim_b.png-4a10c7c8bc9c89863aadd83ce273becc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/fish_yellow_swim_b.png"
-dest_files=["res://.godot/imported/fish_yellow_swim_b.png-a3fd469bb11bc9c07491d8ac16f3c518.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/fish_yellow_swim_b.png"
+dest_files=["res://.godot/imported/fish_yellow_swim_b.png-4a10c7c8bc9c89863aadd83ce273becc.ctex"]
 
 [params]
 

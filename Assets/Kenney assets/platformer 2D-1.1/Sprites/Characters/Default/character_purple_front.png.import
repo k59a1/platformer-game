@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnuv4akv6tpah"
-path="res://.godot/imported/character_purple_front.png-4ac8f73a45797da0ca962ef3ecafd660.ctex"
+path="res://.godot/imported/character_purple_front.png-a0a44655eeead659bddcc690ab8735bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Characters/Default/character_purple_front.png"
-dest_files=["res://.godot/imported/character_purple_front.png-4ac8f73a45797da0ca962ef3ecafd660.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Default/character_purple_front.png"
+dest_files=["res://.godot/imported/character_purple_front.png-a0a44655eeead659bddcc690ab8735bc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3ny0ffkb16w"
-path="res://.godot/imported/window.png-e8d4ca88c5a231d7259b42904fec661d.ctex"
+path="res://.godot/imported/window.png-ccd7a987c8c9ec8000d62fa2371cdb64.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/window.png"
-dest_files=["res://.godot/imported/window.png-e8d4ca88c5a231d7259b42904fec661d.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/window.png"
+dest_files=["res://.godot/imported/window.png-ccd7a987c8c9ec8000d62fa2371cdb64.ctex"]
 
 [params]
 

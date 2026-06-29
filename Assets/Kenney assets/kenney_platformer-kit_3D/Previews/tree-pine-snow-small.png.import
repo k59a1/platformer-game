@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://typ3yqbnm011"
-path="res://.godot/imported/tree-pine-snow-small.png-273c1b3807f5fe776d6695e91c737377.ctex"
+path="res://.godot/imported/tree-pine-snow-small.png-599a2a7adc2b5a6fb8c21068d72a599d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/tree-pine-snow-small.png"
-dest_files=["res://.godot/imported/tree-pine-snow-small.png-273c1b3807f5fe776d6695e91c737377.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/tree-pine-snow-small.png"
+dest_files=["res://.godot/imported/tree-pine-snow-small.png-599a2a7adc2b5a6fb8c21068d72a599d.ctex"]
 
 [params]
 

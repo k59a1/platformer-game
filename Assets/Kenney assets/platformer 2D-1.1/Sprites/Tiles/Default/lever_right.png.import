@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu0e3r43dhags"
-path="res://.godot/imported/lever_right.png-447ac03130d178a4b03747fb665db7ee.ctex"
+path="res://.godot/imported/lever_right.png-b33cd4871f400d61d7d98e8f9753e3b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/lever_right.png"
-dest_files=["res://.godot/imported/lever_right.png-447ac03130d178a4b03747fb665db7ee.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/lever_right.png"
+dest_files=["res://.godot/imported/lever_right.png-b33cd4871f400d61d7d98e8f9753e3b3.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qg18wbcln0h5"
-path="res://.godot/imported/lever.fbx-c5394e0e5858cbb254826e479137b4ff.scn"
+path="res://.godot/imported/lever.fbx-d0578b4272a854007056e6b29f1eb376.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/lever.fbx"
-dest_files=["res://.godot/imported/lever.fbx-c5394e0e5858cbb254826e479137b4ff.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/lever.fbx"
+dest_files=["res://.godot/imported/lever.fbx-d0578b4272a854007056e6b29f1eb376.scn"]
 
 [params]
 

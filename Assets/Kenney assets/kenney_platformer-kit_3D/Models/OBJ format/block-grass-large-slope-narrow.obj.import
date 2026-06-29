@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://vs8mubq12w1q"
-path="res://.godot/imported/block-grass-large-slope-narrow.obj-8c2712391b7f984eb2e115fe80ab30dc.mesh"
+path="res://.godot/imported/block-grass-large-slope-narrow.obj-b73dceffbdcefd7cf11b4db94ebb6f17.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-large-slope-narrow.obj-8c2712391b7f984eb2e115fe80ab30dc.mesh"]
+files=["res://.godot/imported/block-grass-large-slope-narrow.obj-b73dceffbdcefd7cf11b4db94ebb6f17.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-slope-narrow.obj"
-dest_files=["res://.godot/imported/block-grass-large-slope-narrow.obj-8c2712391b7f984eb2e115fe80ab30dc.mesh", "res://.godot/imported/block-grass-large-slope-narrow.obj-8c2712391b7f984eb2e115fe80ab30dc.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-slope-narrow.obj"
+dest_files=["res://.godot/imported/block-grass-large-slope-narrow.obj-b73dceffbdcefd7cf11b4db94ebb6f17.mesh", "res://.godot/imported/block-grass-large-slope-narrow.obj-b73dceffbdcefd7cf11b4db94ebb6f17.mesh"]
 
 [params]
 

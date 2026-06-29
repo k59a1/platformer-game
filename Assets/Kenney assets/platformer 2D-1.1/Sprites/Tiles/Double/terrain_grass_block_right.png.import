@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4gyg3san8c4y"
-path="res://.godot/imported/terrain_grass_block_right.png-a25a50f098eec371290f9f9ad88b953d.ctex"
+path="res://.godot/imported/terrain_grass_block_right.png-85742f209164aebd5f7631d6f8ae5607.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_grass_block_right.png"
-dest_files=["res://.godot/imported/terrain_grass_block_right.png-a25a50f098eec371290f9f9ad88b953d.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_grass_block_right.png"
+dest_files=["res://.godot/imported/terrain_grass_block_right.png-85742f209164aebd5f7631d6f8ae5607.ctex"]
 
 [params]
 

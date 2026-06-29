@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlafr63363uwr"
-path="res://.godot/imported/spritesheet-characters-default.png-b5af04172735c49eb6c7503e3e7a1a85.ctex"
+path="res://.godot/imported/spritesheet-characters-default.png-1cd77fb2804e6f3aa609456c1e44acf9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Spritesheets/spritesheet-characters-default.png"
-dest_files=["res://.godot/imported/spritesheet-characters-default.png-b5af04172735c49eb6c7503e3e7a1a85.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Spritesheets/spritesheet-characters-default.png"
+dest_files=["res://.godot/imported/spritesheet-characters-default.png-1cd77fb2804e6f3aa609456c1e44acf9.ctex"]
 
 [params]
 

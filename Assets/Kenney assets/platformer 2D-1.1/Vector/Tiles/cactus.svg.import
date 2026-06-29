@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coap24gke3csn"
-path="res://.godot/imported/cactus.svg-eff8ff24608872d9072e55244226b4da.ctex"
+path="res://.godot/imported/cactus.svg-3dca5ba461d9552467e4930a983b12fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/cactus.svg"
-dest_files=["res://.godot/imported/cactus.svg-eff8ff24608872d9072e55244226b4da.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/cactus.svg"
+dest_files=["res://.godot/imported/cactus.svg-3dca5ba461d9552467e4930a983b12fd.ctex"]
 
 [params]
 

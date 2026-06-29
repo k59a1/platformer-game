@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkku1uexgx58l"
-path="res://.godot/imported/character-oozi.png-145942845beede101fa2964c60091473.ctex"
+path="res://.godot/imported/character-oozi.png-5fcdd2138e4379b0ad7552e58c80e62a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/character-oozi.png"
-dest_files=["res://.godot/imported/character-oozi.png-145942845beede101fa2964c60091473.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/character-oozi.png"
+dest_files=["res://.godot/imported/character-oozi.png-5fcdd2138e4379b0ad7552e58c80e62a.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://5lab66kuvlb7"
-path="res://.godot/imported/block-moving-blue.obj-66d01cf030571a0dab7c61ff499ecf56.mesh"
+path="res://.godot/imported/block-moving-blue.obj-dde4c71d14b7d9ac49929a37783ca3a5.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-moving-blue.obj-66d01cf030571a0dab7c61ff499ecf56.mesh"]
+files=["res://.godot/imported/block-moving-blue.obj-dde4c71d14b7d9ac49929a37783ca3a5.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-moving-blue.obj"
-dest_files=["res://.godot/imported/block-moving-blue.obj-66d01cf030571a0dab7c61ff499ecf56.mesh", "res://.godot/imported/block-moving-blue.obj-66d01cf030571a0dab7c61ff499ecf56.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-moving-blue.obj"
+dest_files=["res://.godot/imported/block-moving-blue.obj-dde4c71d14b7d9ac49929a37783ca3a5.mesh", "res://.godot/imported/block-moving-blue.obj-dde4c71d14b7d9ac49929a37783ca3a5.mesh"]
 
 [params]
 

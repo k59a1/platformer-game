@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cweuk4ruixirh"
-path="res://.godot/imported/character-oozi.obj-8df5843ef04d5cb7e336f233ed9aca0b.mesh"
+path="res://.godot/imported/character-oozi.obj-b3a271d7f7de3079973ecff28a843379.mesh"
 
 [deps]
 
-files=["res://.godot/imported/character-oozi.obj-8df5843ef04d5cb7e336f233ed9aca0b.mesh"]
+files=["res://.godot/imported/character-oozi.obj-b3a271d7f7de3079973ecff28a843379.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/character-oozi.obj"
-dest_files=["res://.godot/imported/character-oozi.obj-8df5843ef04d5cb7e336f233ed9aca0b.mesh", "res://.godot/imported/character-oozi.obj-8df5843ef04d5cb7e336f233ed9aca0b.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/character-oozi.obj"
+dest_files=["res://.godot/imported/character-oozi.obj-b3a271d7f7de3079973ecff28a843379.mesh", "res://.godot/imported/character-oozi.obj-b3a271d7f7de3079973ecff28a843379.mesh"]
 
 [params]
 

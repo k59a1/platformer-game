@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjx2gsoyr7lyn"
-path="res://.godot/imported/fence.svg-0c40176bbebb73f7df37ec699c290a9b.ctex"
+path="res://.godot/imported/fence.svg-818fa869b3333d3ff84a8cc05f373fa7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/fence.svg"
-dest_files=["res://.godot/imported/fence.svg-0c40176bbebb73f7df37ec699c290a9b.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/fence.svg"
+dest_files=["res://.godot/imported/fence.svg-818fa869b3333d3ff84a8cc05f373fa7.ctex"]
 
 [params]
 

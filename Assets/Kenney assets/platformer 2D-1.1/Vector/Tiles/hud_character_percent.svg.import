@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b47pj5i15ybwt"
-path="res://.godot/imported/hud_character_percent.svg-e8bba97ac07e6819b4a56563a16877d1.ctex"
+path="res://.godot/imported/hud_character_percent.svg-57c1ddd7095658d304c3a6a83baff3a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/hud_character_percent.svg"
-dest_files=["res://.godot/imported/hud_character_percent.svg-e8bba97ac07e6819b4a56563a16877d1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/hud_character_percent.svg"
+dest_files=["res://.godot/imported/hud_character_percent.svg-57c1ddd7095658d304c3a6a83baff3a2.ctex"]
 
 [params]
 

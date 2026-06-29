@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dp7lmw2kq8gkc"
-path="res://.godot/imported/tree-pine-small.fbx-fbcae7fca1e6c855313363c29ef7dfb4.scn"
+path="res://.godot/imported/tree-pine-small.fbx-f83050821f0ac8eca80e0cd25e482b71.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/tree-pine-small.fbx"
-dest_files=["res://.godot/imported/tree-pine-small.fbx-fbcae7fca1e6c855313363c29ef7dfb4.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/tree-pine-small.fbx"
+dest_files=["res://.godot/imported/tree-pine-small.fbx-f83050821f0ac8eca80e0cd25e482b71.scn"]
 
 [params]
 

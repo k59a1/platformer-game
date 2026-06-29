@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br32w03imaqwq"
-path="res://.godot/imported/block-snow-curve.png-8db59ffce0d1ea3418afb9cec6018c65.ctex"
+path="res://.godot/imported/block-snow-curve.png-7ca490c1af5cdc0313f2918a5c84bb2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-snow-curve.png"
-dest_files=["res://.godot/imported/block-snow-curve.png-8db59ffce0d1ea3418afb9cec6018c65.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-snow-curve.png"
+dest_files=["res://.godot/imported/block-snow-curve.png-7ca490c1af5cdc0313f2918a5c84bb2a.ctex"]
 
 [params]
 

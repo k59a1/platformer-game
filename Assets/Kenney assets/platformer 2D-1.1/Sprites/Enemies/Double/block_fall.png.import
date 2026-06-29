@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccvfruhleesff"
-path="res://.godot/imported/block_fall.png-f8e859c88524342a1d91ff7f3c2ee19e.ctex"
+path="res://.godot/imported/block_fall.png-9d32990da58c75e64038e0f8b93e4ee5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/block_fall.png"
-dest_files=["res://.godot/imported/block_fall.png-f8e859c88524342a1d91ff7f3c2ee19e.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/block_fall.png"
+dest_files=["res://.godot/imported/block_fall.png-9d32990da58c75e64038e0f8b93e4ee5.ctex"]
 
 [params]
 

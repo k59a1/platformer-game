@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bkk6ye11q1b1l"
-path="res://.godot/imported/lever.obj-afd9cfc382fbc1b090fa71a16552d2f1.mesh"
+path="res://.godot/imported/lever.obj-25aa4ca65602aca5d1104dd6271ed58b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/lever.obj-afd9cfc382fbc1b090fa71a16552d2f1.mesh"]
+files=["res://.godot/imported/lever.obj-25aa4ca65602aca5d1104dd6271ed58b.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/lever.obj"
-dest_files=["res://.godot/imported/lever.obj-afd9cfc382fbc1b090fa71a16552d2f1.mesh", "res://.godot/imported/lever.obj-afd9cfc382fbc1b090fa71a16552d2f1.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/lever.obj"
+dest_files=["res://.godot/imported/lever.obj-25aa4ca65602aca5d1104dd6271ed58b.mesh", "res://.godot/imported/lever.obj-25aa4ca65602aca5d1104dd6271ed58b.mesh"]
 
 [params]
 

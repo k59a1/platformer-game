@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cek5ts1ba27x5"
-path="res://.godot/imported/block-snow-curve-half.obj-b02e9f196dd1ce2c7fc907cdb6fc10c0.mesh"
+path="res://.godot/imported/block-snow-curve-half.obj-2943cc3be294d7d4048a9ca4095b9f85.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-curve-half.obj-b02e9f196dd1ce2c7fc907cdb6fc10c0.mesh"]
+files=["res://.godot/imported/block-snow-curve-half.obj-2943cc3be294d7d4048a9ca4095b9f85.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-curve-half.obj"
-dest_files=["res://.godot/imported/block-snow-curve-half.obj-b02e9f196dd1ce2c7fc907cdb6fc10c0.mesh", "res://.godot/imported/block-snow-curve-half.obj-b02e9f196dd1ce2c7fc907cdb6fc10c0.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-curve-half.obj"
+dest_files=["res://.godot/imported/block-snow-curve-half.obj-2943cc3be294d7d4048a9ca4095b9f85.mesh", "res://.godot/imported/block-snow-curve-half.obj-2943cc3be294d7d4048a9ca4095b9f85.mesh"]
 
 [params]
 

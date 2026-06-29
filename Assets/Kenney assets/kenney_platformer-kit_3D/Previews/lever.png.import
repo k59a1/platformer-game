@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3iegqb3d4ow"
-path="res://.godot/imported/lever.png-c5ad42f806b772adb03820bb61bc8cc7.ctex"
+path="res://.godot/imported/lever.png-ed7942f4d6006300faefc49f558faba3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/lever.png"
-dest_files=["res://.godot/imported/lever.png-c5ad42f806b772adb03820bb61bc8cc7.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/lever.png"
+dest_files=["res://.godot/imported/lever.png-ed7942f4d6006300faefc49f558faba3.ctex"]
 
 [params]
 

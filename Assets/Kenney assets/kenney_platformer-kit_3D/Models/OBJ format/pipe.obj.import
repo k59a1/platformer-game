@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bc5lq4qyab88s"
-path="res://.godot/imported/pipe.obj-bf0972419b053460e7f08e2765ce75ad.mesh"
+path="res://.godot/imported/pipe.obj-de5312655cd108a67f2fe2be50401748.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pipe.obj-bf0972419b053460e7f08e2765ce75ad.mesh"]
+files=["res://.godot/imported/pipe.obj-de5312655cd108a67f2fe2be50401748.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/pipe.obj"
-dest_files=["res://.godot/imported/pipe.obj-bf0972419b053460e7f08e2765ce75ad.mesh", "res://.godot/imported/pipe.obj-bf0972419b053460e7f08e2765ce75ad.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/pipe.obj"
+dest_files=["res://.godot/imported/pipe.obj-de5312655cd108a67f2fe2be50401748.mesh", "res://.godot/imported/pipe.obj-de5312655cd108a67f2fe2be50401748.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bku8gb2brendu"
-path="res://.godot/imported/background_solid_sand.svg-8b56ba6ca85fbb8ec2abfe6608e45293.ctex"
+path="res://.godot/imported/background_solid_sand.svg-a5358100d2d86a5f1c9eca99fb2eefea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Backgrounds/background_solid_sand.svg"
-dest_files=["res://.godot/imported/background_solid_sand.svg-8b56ba6ca85fbb8ec2abfe6608e45293.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Backgrounds/background_solid_sand.svg"
+dest_files=["res://.godot/imported/background_solid_sand.svg-a5358100d2d86a5f1c9eca99fb2eefea.ctex"]
 
 [params]
 

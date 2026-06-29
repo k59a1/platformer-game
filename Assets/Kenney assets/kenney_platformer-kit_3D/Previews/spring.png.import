@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c086abx0quy0p"
-path="res://.godot/imported/spring.png-a51f45c563633b636e74f2a1b7f92405.ctex"
+path="res://.godot/imported/spring.png-868fe326828d4e4484da7344f3544b1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/spring.png"
-dest_files=["res://.godot/imported/spring.png-a51f45c563633b636e74f2a1b7f92405.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/spring.png"
+dest_files=["res://.godot/imported/spring.png-868fe326828d4e4484da7344f3544b1a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgbmc5xehtd4n"
-path="res://.godot/imported/gem_yellow.png-f75d1aa01d749823b9e7f634e62cac9c.ctex"
+path="res://.godot/imported/gem_yellow.png-80afb6f827ee62ad4271d20ca5d412af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/gem_yellow.png"
-dest_files=["res://.godot/imported/gem_yellow.png-f75d1aa01d749823b9e7f634e62cac9c.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/gem_yellow.png"
+dest_files=["res://.godot/imported/gem_yellow.png-80afb6f827ee62ad4271d20ca5d412af.ctex"]
 
 [params]
 

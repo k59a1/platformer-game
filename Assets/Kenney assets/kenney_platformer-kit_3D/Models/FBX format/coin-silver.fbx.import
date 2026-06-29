@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2ekvsrj30jvf"
-path="res://.godot/imported/coin-silver.fbx-325deeef9a22417bf8cc03e286f0c72c.scn"
+path="res://.godot/imported/coin-silver.fbx-74cccb4f81fce9589520fb4120ba60f9.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/coin-silver.fbx"
-dest_files=["res://.godot/imported/coin-silver.fbx-325deeef9a22417bf8cc03e286f0c72c.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/coin-silver.fbx"
+dest_files=["res://.godot/imported/coin-silver.fbx-74cccb4f81fce9589520fb4120ba60f9.scn"]
 
 [params]
 

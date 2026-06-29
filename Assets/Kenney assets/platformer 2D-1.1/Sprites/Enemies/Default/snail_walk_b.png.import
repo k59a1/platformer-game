@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cglcnm04bpv4k"
-path="res://.godot/imported/snail_walk_b.png-fdc882752647cb06d4166beb43ef43ac.ctex"
+path="res://.godot/imported/snail_walk_b.png-78bfd9cb749a83a7feeba17a7f5cdaaa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Default/snail_walk_b.png"
-dest_files=["res://.godot/imported/snail_walk_b.png-fdc882752647cb06d4166beb43ef43ac.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Default/snail_walk_b.png"
+dest_files=["res://.godot/imported/snail_walk_b.png-78bfd9cb749a83a7feeba17a7f5cdaaa.ctex"]
 
 [params]
 

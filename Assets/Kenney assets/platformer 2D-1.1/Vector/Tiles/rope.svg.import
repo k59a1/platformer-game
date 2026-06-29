@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy7wiqbw3uq70"
-path="res://.godot/imported/rope.svg-7ebad41eb620ccf0272d6628a8fd9893.ctex"
+path="res://.godot/imported/rope.svg-c74f8964c5de7d51162d12c29db2a2ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/rope.svg"
-dest_files=["res://.godot/imported/rope.svg-7ebad41eb620ccf0272d6628a8fd9893.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/rope.svg"
+dest_files=["res://.godot/imported/rope.svg-c74f8964c5de7d51162d12c29db2a2ef.ctex"]
 
 [params]
 

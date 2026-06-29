@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8epf4413l7hx"
-path="res://.godot/imported/block_plank.png-681b5d87aaaa2bafde608e3d9b23a6f5.ctex"
+path="res://.godot/imported/block_plank.png-f23688df7cc23a27afe1433fd8c153eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/block_plank.png"
-dest_files=["res://.godot/imported/block_plank.png-681b5d87aaaa2bafde608e3d9b23a6f5.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/block_plank.png"
+dest_files=["res://.godot/imported/block_plank.png-f23688df7cc23a27afe1433fd8c153eb.ctex"]
 
 [params]
 

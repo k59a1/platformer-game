@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b5jstv4o2flbr"
-path="res://.godot/imported/mushrooms.obj-c548e1bd80dc55cfde32741ecb751d2c.mesh"
+path="res://.godot/imported/mushrooms.obj-e578687837ced21c37b1868043ce5402.mesh"
 
 [deps]
 
-files=["res://.godot/imported/mushrooms.obj-c548e1bd80dc55cfde32741ecb751d2c.mesh"]
+files=["res://.godot/imported/mushrooms.obj-e578687837ced21c37b1868043ce5402.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/mushrooms.obj"
-dest_files=["res://.godot/imported/mushrooms.obj-c548e1bd80dc55cfde32741ecb751d2c.mesh", "res://.godot/imported/mushrooms.obj-c548e1bd80dc55cfde32741ecb751d2c.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/mushrooms.obj"
+dest_files=["res://.godot/imported/mushrooms.obj-e578687837ced21c37b1868043ce5402.mesh", "res://.godot/imported/mushrooms.obj-e578687837ced21c37b1868043ce5402.mesh"]
 
 [params]
 

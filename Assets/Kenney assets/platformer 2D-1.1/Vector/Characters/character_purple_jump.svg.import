@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cisypryby61el"
-path="res://.godot/imported/character_purple_jump.svg-235dac0bb65c996a1a200b33493b2ce1.ctex"
+path="res://.godot/imported/character_purple_jump.svg-8d918591b67885b21be2fec38240ab6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_purple_jump.svg"
-dest_files=["res://.godot/imported/character_purple_jump.svg-235dac0bb65c996a1a200b33493b2ce1.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_purple_jump.svg"
+dest_files=["res://.godot/imported/character_purple_jump.svg-8d918591b67885b21be2fec38240ab6c.ctex"]
 
 [params]
 

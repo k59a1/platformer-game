@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxs7rro7q5m34"
-path="res://.godot/imported/terrain_dirt_horizontal_overhang_right.svg-fc1ec48f86726cd51739838caa3ccf5b.ctex"
+path="res://.godot/imported/terrain_dirt_horizontal_overhang_right.svg-80ccb324506b3c8ea7049de497f69721.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_horizontal_overhang_right.svg"
-dest_files=["res://.godot/imported/terrain_dirt_horizontal_overhang_right.svg-fc1ec48f86726cd51739838caa3ccf5b.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Tiles/terrain_dirt_horizontal_overhang_right.svg"
+dest_files=["res://.godot/imported/terrain_dirt_horizontal_overhang_right.svg-80ccb324506b3c8ea7049de497f69721.ctex"]
 
 [params]
 

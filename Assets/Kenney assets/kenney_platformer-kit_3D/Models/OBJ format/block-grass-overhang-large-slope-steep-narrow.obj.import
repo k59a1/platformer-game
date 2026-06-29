@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b3jcncdq0spbc"
-path="res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-ca7ff63b33fd152eeb3368fdf0bbd294.mesh"
+path="res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-73b1dcc5a3adb827c8ea84aeb4a20071.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-ca7ff63b33fd152eeb3368fdf0bbd294.mesh"]
+files=["res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-73b1dcc5a3adb827c8ea84aeb4a20071.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-large-slope-steep-narrow.obj"
-dest_files=["res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-ca7ff63b33fd152eeb3368fdf0bbd294.mesh", "res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-ca7ff63b33fd152eeb3368fdf0bbd294.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-large-slope-steep-narrow.obj"
+dest_files=["res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-73b1dcc5a3adb827c8ea84aeb4a20071.mesh", "res://.godot/imported/block-grass-overhang-large-slope-steep-narrow.obj-73b1dcc5a3adb827c8ea84aeb4a20071.mesh"]
 
 [params]
 

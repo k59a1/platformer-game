@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr0t8g56b6swx"
-path="res://.godot/imported/terrain_sand_block_right.png-3b926a6302a70e2729b5690e4eba9904.ctex"
+path="res://.godot/imported/terrain_sand_block_right.png-389b1bec1d48d4dac6ae47e569ed4a36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_sand_block_right.png"
-dest_files=["res://.godot/imported/terrain_sand_block_right.png-3b926a6302a70e2729b5690e4eba9904.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/terrain_sand_block_right.png"
+dest_files=["res://.godot/imported/terrain_sand_block_right.png-389b1bec1d48d4dac6ae47e569ed4a36.ctex"]
 
 [params]
 

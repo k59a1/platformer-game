@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b7o4jgjx6b57j"
-path="res://.godot/imported/block-snow-low-narrow.fbx-d93328f6ad0abb2407595b8c0bbf3c79.scn"
+path="res://.godot/imported/block-snow-low-narrow.fbx-7276ad54c6fd7e064d65d85315490ede.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/FBX format/block-snow-low-narrow.fbx"
-dest_files=["res://.godot/imported/block-snow-low-narrow.fbx-d93328f6ad0abb2407595b8c0bbf3c79.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/FBX format/block-snow-low-narrow.fbx"
+dest_files=["res://.godot/imported/block-snow-low-narrow.fbx-7276ad54c6fd7e064d65d85315490ede.scn"]
 
 [params]
 

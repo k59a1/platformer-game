@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://essi3c1uvc01"
-path="res://.godot/imported/block-grass-curve-low.png-df6d7edd52ba6f1fde843853ce79fae9.ctex"
+path="res://.godot/imported/block-grass-curve-low.png-6c398aa9cc4e15372f899a246f0aa630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/block-grass-curve-low.png"
-dest_files=["res://.godot/imported/block-grass-curve-low.png-df6d7edd52ba6f1fde843853ce79fae9.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/block-grass-curve-low.png"
+dest_files=["res://.godot/imported/block-grass-curve-low.png-6c398aa9cc4e15372f899a246f0aa630.ctex"]
 
 [params]
 

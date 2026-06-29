@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://i4fkm0p8ad3w"
+path="res://.godot/imported/ground_pathEndClosed.obj-c484dcd02fa0fc14dc1f7cc531c5305b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_pathEndClosed.obj-c484dcd02fa0fc14dc1f7cc531c5305b.mesh"]
+
+source_file="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_pathEndClosed.obj"
+dest_files=["res://.godot/imported/ground_pathEndClosed.obj-c484dcd02fa0fc14dc1f7cc531c5305b.mesh", "res://.godot/imported/ground_pathEndClosed.obj-c484dcd02fa0fc14dc1f7cc531c5305b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

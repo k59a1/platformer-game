@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bttrfnwcd1yjf"
-path="res://.godot/imported/character_purple_duck.svg-f3ec8da568f0d7bbb9c77bf6f0257f1f.ctex"
+path="res://.godot/imported/character_purple_duck.svg-dfdc0b351da2caeef058f4c6e555528c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_purple_duck.svg"
-dest_files=["res://.godot/imported/character_purple_duck.svg-f3ec8da568f0d7bbb9c77bf6f0257f1f.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_purple_duck.svg"
+dest_files=["res://.godot/imported/character_purple_duck.svg-dfdc0b351da2caeef058f4c6e555528c.ctex"]
 
 [params]
 

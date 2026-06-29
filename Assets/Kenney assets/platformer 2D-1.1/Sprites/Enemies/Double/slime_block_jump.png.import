@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdj1cveu1mokw"
-path="res://.godot/imported/slime_block_jump.png-bac4fd7f432610b4adddcfab330aa2ec.ctex"
+path="res://.godot/imported/slime_block_jump.png-eea2c9631b876f98b780d091182d42ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_block_jump.png"
-dest_files=["res://.godot/imported/slime_block_jump.png-bac4fd7f432610b4adddcfab330aa2ec.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Double/slime_block_jump.png"
+dest_files=["res://.godot/imported/slime_block_jump.png-eea2c9631b876f98b780d091182d42ad.ctex"]
 
 [params]
 

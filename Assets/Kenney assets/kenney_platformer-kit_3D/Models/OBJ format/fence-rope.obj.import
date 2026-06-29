@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://5j4d1iquxin2"
-path="res://.godot/imported/fence-rope.obj-e39b1ee6e80766434ebcebdc69a7c4f4.mesh"
+path="res://.godot/imported/fence-rope.obj-e6c00cc27d816ec5e146ae3a1979c1c7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-rope.obj-e39b1ee6e80766434ebcebdc69a7c4f4.mesh"]
+files=["res://.godot/imported/fence-rope.obj-e6c00cc27d816ec5e146ae3a1979c1c7.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/fence-rope.obj"
-dest_files=["res://.godot/imported/fence-rope.obj-e39b1ee6e80766434ebcebdc69a7c4f4.mesh", "res://.godot/imported/fence-rope.obj-e39b1ee6e80766434ebcebdc69a7c4f4.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/fence-rope.obj"
+dest_files=["res://.godot/imported/fence-rope.obj-e6c00cc27d816ec5e146ae3a1979c1c7.mesh", "res://.godot/imported/fence-rope.obj-e6c00cc27d816ec5e146ae3a1979c1c7.mesh"]
 
 [params]
 

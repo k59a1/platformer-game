@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7rk3iaew5vus"
-path="res://.godot/imported/character_beige_idle.png-91bf48c8d5438e9b2e2bdf44af300be8.ctex"
+path="res://.godot/imported/character_beige_idle.png-b0a79ed66b66976a9e5ec67538d2309d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Characters/Double/character_beige_idle.png"
-dest_files=["res://.godot/imported/character_beige_idle.png-91bf48c8d5438e9b2e2bdf44af300be8.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Double/character_beige_idle.png"
+dest_files=["res://.godot/imported/character_beige_idle.png-b0a79ed66b66976a9e5ec67538d2309d.ctex"]
 
 [params]
 

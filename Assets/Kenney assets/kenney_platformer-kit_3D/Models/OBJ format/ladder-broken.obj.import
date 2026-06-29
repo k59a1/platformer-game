@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://04ay4lid3dmi"
-path="res://.godot/imported/ladder-broken.obj-5c0796f1ea489a1a5264ff313ed66773.mesh"
+path="res://.godot/imported/ladder-broken.obj-08713979417d0cf478936dde64f4ecd7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ladder-broken.obj-5c0796f1ea489a1a5264ff313ed66773.mesh"]
+files=["res://.godot/imported/ladder-broken.obj-08713979417d0cf478936dde64f4ecd7.mesh"]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/ladder-broken.obj"
-dest_files=["res://.godot/imported/ladder-broken.obj-5c0796f1ea489a1a5264ff313ed66773.mesh", "res://.godot/imported/ladder-broken.obj-5c0796f1ea489a1a5264ff313ed66773.mesh"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/ladder-broken.obj"
+dest_files=["res://.godot/imported/ladder-broken.obj-08713979417d0cf478936dde64f4ecd7.mesh", "res://.godot/imported/ladder-broken.obj-08713979417d0cf478936dde64f4ecd7.mesh"]
 
 [params]
 

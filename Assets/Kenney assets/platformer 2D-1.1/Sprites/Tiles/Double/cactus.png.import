@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2eyibstmdtuh"
-path="res://.godot/imported/cactus.png-c9f6ba2288a5f24596d54b842ccb6e72.ctex"
+path="res://.godot/imported/cactus.png-27eeca863fff1d7c43d5fbc0ffc50f25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/cactus.png"
-dest_files=["res://.godot/imported/cactus.png-c9f6ba2288a5f24596d54b842ccb6e72.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/cactus.png"
+dest_files=["res://.godot/imported/cactus.png-27eeca863fff1d7c43d5fbc0ffc50f25.ctex"]
 
 [params]
 

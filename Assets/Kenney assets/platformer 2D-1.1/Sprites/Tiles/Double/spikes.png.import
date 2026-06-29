@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxiaywwsnil6f"
-path="res://.godot/imported/spikes.png-a2b03c047adecc1321e7b17659178783.ctex"
+path="res://.godot/imported/spikes.png-fe3e21646c20a649240b309bb7630907.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/spikes.png"
-dest_files=["res://.godot/imported/spikes.png-a2b03c047adecc1321e7b17659178783.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/spikes.png"
+dest_files=["res://.godot/imported/spikes.png-fe3e21646c20a649240b309bb7630907.ctex"]
 
 [params]
 

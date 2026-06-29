@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddxamveb2hg0p"
-path="res://.godot/imported/block_strong_danger_active.png-8e6a53ee23a8b87cff5ea84bb61488cf.ctex"
+path="res://.godot/imported/block_strong_danger_active.png-11fa2bbb42bdbf6d110a0b8073bf6748.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Double/block_strong_danger_active.png"
-dest_files=["res://.godot/imported/block_strong_danger_active.png-8e6a53ee23a8b87cff5ea84bb61488cf.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Double/block_strong_danger_active.png"
+dest_files=["res://.godot/imported/block_strong_danger_active.png-11fa2bbb42bdbf6d110a0b8073bf6748.ctex"]
 
 [params]
 

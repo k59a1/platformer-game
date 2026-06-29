@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfvyyvcqd2woq"
-path="res://.godot/imported/snail_rest.png-957f358a3b9a35a3ca88f7a0ea5cda70.ctex"
+path="res://.godot/imported/snail_rest.png-33dbca54bd86ca912196c2c573787da3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Enemies/Default/snail_rest.png"
-dest_files=["res://.godot/imported/snail_rest.png-957f358a3b9a35a3ca88f7a0ea5cda70.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Enemies/Default/snail_rest.png"
+dest_files=["res://.godot/imported/snail_rest.png-33dbca54bd86ca912196c2c573787da3.ctex"]
 
 [params]
 

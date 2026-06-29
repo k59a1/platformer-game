@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cimydhl88th0h"
-path.s3tc="res://.godot/imported/colormap.png-8ef0398592290f26aafadd7016835e33.s3tc.ctex"
+path.s3tc="res://.godot/imported/colormap.png-716047ffa70a297cb9843a0f2ded2f21.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/Textures/colormap.png"
-dest_files=["res://.godot/imported/colormap.png-8ef0398592290f26aafadd7016835e33.s3tc.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/Textures/colormap.png"
+dest_files=["res://.godot/imported/colormap.png-716047ffa70a297cb9843a0f2ded2f21.s3tc.ctex"]
 
 [params]
 

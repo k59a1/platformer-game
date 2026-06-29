@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://begu1jpj8v2sj"
-path="res://.godot/imported/ladder-broken.png-450446dbea31b66c21b76167b9e8c158.ctex"
+path="res://.godot/imported/ladder-broken.png-d189822e060ad280176c2ce852aa747b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Previews/ladder-broken.png"
-dest_files=["res://.godot/imported/ladder-broken.png-450446dbea31b66c21b76167b9e8c158.ctex"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Previews/ladder-broken.png"
+dest_files=["res://.godot/imported/ladder-broken.png-d189822e060ad280176c2ce852aa747b.ctex"]
 
 [params]
 

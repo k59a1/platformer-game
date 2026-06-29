@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb8lh81bul45p"
-path="res://.godot/imported/button-square.glb-c2dde397a6e3749f00afa76417dbac33.scn"
+path="res://.godot/imported/button-square.glb-73313fef984e27db4311fd31f99e320a.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/button-square.glb"
-dest_files=["res://.godot/imported/button-square.glb-c2dde397a6e3749f00afa76417dbac33.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/button-square.glb"
+dest_files=["res://.godot/imported/button-square.glb-73313fef984e27db4311fd31f99e320a.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bhimlfwd3qtcl"
-path="res://.godot/imported/tree-pine.glb-3545b5915d190968d3775434b02d7a31.scn"
+path="res://.godot/imported/tree-pine.glb-4741920110007387011ade08182f4a06.scn"
 
 [deps]
 
-source_file="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/GLB format/tree-pine.glb"
-dest_files=["res://.godot/imported/tree-pine.glb-3545b5915d190968d3775434b02d7a31.scn"]
+source_file="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/GLB format/tree-pine.glb"
+dest_files=["res://.godot/imported/tree-pine.glb-4741920110007387011ade08182f4a06.scn"]
 
 [params]
 

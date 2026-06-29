@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dequh1ca0ipp"
-path="res://.godot/imported/fireball.png-ff1cf2405e7e95fa44805a5f8e3ec0c6.ctex"
+path="res://.godot/imported/fireball.png-7e6a4c5a275a1e206f61d9e797f42630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Sprites/Tiles/Default/fireball.png"
-dest_files=["res://.godot/imported/fireball.png-ff1cf2405e7e95fa44805a5f8e3ec0c6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/fireball.png"
+dest_files=["res://.godot/imported/fireball.png-7e6a4c5a275a1e206f61d9e797f42630.ctex"]
 
 [params]
 

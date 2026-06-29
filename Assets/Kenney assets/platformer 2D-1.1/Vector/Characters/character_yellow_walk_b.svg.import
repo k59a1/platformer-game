@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1wimvnna78dh"
-path="res://.godot/imported/character_yellow_walk_b.svg-7da2efa43c9eeddb3c56aaaafc3cfdc6.ctex"
+path="res://.godot/imported/character_yellow_walk_b.svg-ff2e499f39b8701318fb7a60792a353e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kenny assets/platformer 2D-1.1/Vector/Characters/character_yellow_walk_b.svg"
-dest_files=["res://.godot/imported/character_yellow_walk_b.svg-7da2efa43c9eeddb3c56aaaafc3cfdc6.ctex"]
+source_file="res://Assets/Kenney assets/platformer 2D-1.1/Vector/Characters/character_yellow_walk_b.svg"
+dest_files=["res://.godot/imported/character_yellow_walk_b.svg-ff2e499f39b8701318fb7a60792a353e.ctex"]
 
 [params]
 

@@ -28,9 +28,9 @@ theme_override_font_sizes/font_size = 40
 text = "Quit"
 
 [node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=847476418]
-offset_top = 108.0
+offset_top = 129.0
 offset_right = 1154.0
-offset_bottom = 279.0
+offset_bottom = 300.0
 theme_override_constants/outline_size = 22
 theme_override_font_sizes/normal_font_size = 85
 bbcode_enabled = true

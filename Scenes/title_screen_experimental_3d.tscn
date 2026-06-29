@@ -1,0 +1,116 @@
+[gd_scene format=3 uid="uid://bueqbdy5sw3a"]
+
+[ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
+[ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
+[ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
+[ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]
+[ext_resource type="ArrayMesh" uid="uid://d18nxxomcgnyi" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/flowers.obj" id="5_1p4im"]
+[ext_resource type="ArrayMesh" uid="uid://by487tybcs2g3" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/grass.obj" id="6_2yil5"]
+[ext_resource type="ArrayMesh" uid="uid://fnbo8djvbfv5" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/tree.obj" id="7_5oysr"]
+[ext_resource type="ArrayMesh" uid="uid://dhup3itn8ycw3" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/stones.obj" id="8_yktca"]
+[ext_resource type="ArrayMesh" uid="uid://d00lu01ua7wm2" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/rocks.obj" id="9_1b0er"]
+[ext_resource type="ArrayMesh" uid="uid://c6xhxhcjy8cec" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/platform-overhang.obj" id="10_mw5b5"]
+[ext_resource type="ArrayMesh" uid="uid://bi6cwti2tfgs6" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-narrow.obj" id="11_retqj"]
+[ext_resource type="ArrayMesh" uid="uid://sv2uoj2i0oet" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-low.obj" id="12_m2hh3"]
+[ext_resource type="ArrayMesh" uid="uid://djhp333sku65h" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj" id="13_e5hio"]
+[ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenny assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
+[ext_resource type="PackedScene" uid="uid://wkbomnvimjv5" path="res://Scenes/title_screen_overlay.tscn" id="15_yfvjg"]
+
+[node name="Title_screen_experimental_3D" type="Node3D" unique_id=2139015582]
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
+transform = Transform3D(0.7009093, -0.3539266, 0.6192432, 0, 0.8681988, 0.4962165, -0.7132504, -0.34780276, 0.6085287, 7.1840105, 6.0519023, 7.950076)
+fov = 41.7
+
+[node name="BlockGrassLarge" type="MeshInstance3D" parent="." unique_id=158995879]
+transform = Transform3D(5.677476, 0, 0, 0, 3.7413905, 0, 0, 0, 5.6703353, -0.5549364, -3.7401133, 0.47063446)
+mesh = ExtResource("1_2obyt")
+
+[node name="BlockGrassLargeTall" type="MeshInstance3D" parent="." unique_id=1287852056]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.99325085, -0.39877748, 0.68798923)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLowLarge" type="MeshInstance3D" parent="." unique_id=1542857445]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.11547768, 0, 1.6979675)
+mesh = ExtResource("3_a3osx")
+
+[node name="FlowersTall" type="MeshInstance3D" parent="." unique_id=1142109240]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.2586393, 0, -1.4329157)
+mesh = ExtResource("4_2fksa")
+
+[node name="Flowers" type="MeshInstance3D" parent="." unique_id=491142727]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.14487362, 0, -3.0746708)
+mesh = ExtResource("5_1p4im")
+
+[node name="Grass" type="MeshInstance3D" parent="." unique_id=250135833]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5200424, 0, -1.8255205)
+mesh = ExtResource("6_2yil5")
+
+[node name="Flowers2" type="MeshInstance3D" parent="." unique_id=1800205370]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.9753075, 0, 3.3079476)
+mesh = ExtResource("5_1p4im")
+
+[node name="FlowersTall2" type="MeshInstance3D" parent="." unique_id=1230202169]
+transform = Transform3D(1.6695951, 0, 0, 0, 1.6695951, 0, 0, 0, 1.6695951, -3.8838868, 0, 4.3364387)
+mesh = ExtResource("4_2fksa")
+
+[node name="Grass2" type="MeshInstance3D" parent="." unique_id=699947893]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.510872, 0, 1.0531387)
+mesh = ExtResource("6_2yil5")
+
+[node name="Grass3" type="MeshInstance3D" parent="." unique_id=1891542646]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.0468197, 0, 1.6890368)
+mesh = ExtResource("6_2yil5")
+
+[node name="Tree" type="MeshInstance3D" parent="." unique_id=1607262302]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.8037758, 0, -2.1185398)
+mesh = ExtResource("7_5oysr")
+
+[node name="Tree2" type="MeshInstance3D" parent="." unique_id=1514311576]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.9704022, 0, -1.7025814)
+mesh = ExtResource("7_5oysr")
+
+[node name="Tree3" type="MeshInstance3D" parent="." unique_id=1728150341]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9431477, 0, -2.3821611)
+mesh = ExtResource("7_5oysr")
+
+[node name="Stones" type="MeshInstance3D" parent="." unique_id=590468256]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.6804142, 0, -1.1140356)
+mesh = ExtResource("8_yktca")
+
+[node name="Rocks" type="MeshInstance3D" parent="." unique_id=972655649]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.3198266, 0, 1.8695464)
+mesh = ExtResource("9_1b0er")
+
+[node name="PlatformOverhang" type="MeshInstance3D" parent="." unique_id=1864222865]
+transform = Transform3D(-0.0039091017, 0, 0.9999923, 0, 1, 0, -0.9999923, 0, -0.0039091017, 0.5061388, 0.9177289, 0.77677846)
+mesh = ExtResource("10_mw5b5")
+
+[node name="BlockGrassOverhangNarrow" type="MeshInstance3D" parent="." unique_id=2066843616]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.16522789, 0, 0.065013885)
+mesh = ExtResource("11_retqj")
+
+[node name="BlockGrassOverhangLow" type="MeshInstance3D" parent="." unique_id=14883173]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.2448835, 0.9595213, 1.4629726)
+mesh = ExtResource("12_m2hh3")
+
+[node name="BlockGrassNarrow" type="MeshInstance3D" parent="." unique_id=1211348702]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.9750943, -0.34676743, 2.5798628)
+mesh = ExtResource("13_e5hio")
+
+[node name="BlockGrassLong" type="MeshInstance3D" parent="." unique_id=1616355177]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.7886095, 0, 1.9650288)
+mesh = ExtResource("14_qncco")
+
+[node name="BlockGrassLargeTall2" type="MeshInstance3D" parent="." unique_id=1618357422]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.643434, 0.07417321, -0.32393265)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLong2" type="MeshInstance3D" parent="." unique_id=947968779]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.1009178, -0.54991865, -1.3150187)
+mesh = ExtResource("14_qncco")
+
+[node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=755046422]
+transform = Transform3D(1, 0, 0, 0, -0.92998725, 0.36759186, 0, -0.36759186, -0.92998725, 0, 4.419504, -7.053302)

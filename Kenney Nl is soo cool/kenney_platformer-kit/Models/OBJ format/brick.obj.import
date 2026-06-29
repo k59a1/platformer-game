@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crnh8y5k8dn3f"
+path="res://.godot/imported/brick.obj-a92a80f5996fa09a974d3323b6f22b6a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/brick.obj-a92a80f5996fa09a974d3323b6f22b6a.mesh"]
+
+source_file="res://Kenney Nl is soo cool/kenney_platformer-kit/Models/OBJ format/brick.obj"
+dest_files=["res://.godot/imported/brick.obj-a92a80f5996fa09a974d3323b6f22b6a.mesh", "res://.godot/imported/brick.obj-a92a80f5996fa09a974d3323b6f22b6a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

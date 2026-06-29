@@ -113,4 +113,4 @@ mesh = ExtResource("14_qncco")
 [node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=755046422]
-transform = Transform3D(1, 0, 0, 0, -0.92998725, 0.36759186, 0, -0.36759186, -0.92998725, 0, 4.419504, -7.053302)
+transform = Transform3D(1, 0, 0, 0, -0.3468449, 0.9379225, 0, -0.9379225, -0.3468449, -1.142201, 11.715757, -3.6841884)

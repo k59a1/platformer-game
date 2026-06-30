@@ -6,6 +6,8 @@
 [node name="level_scene" type="Node2D" unique_id=62885972]
 
 [node name="Player" parent="." unique_id=551604470 instance=ExtResource("2_cn3xy")]
+collision_layer = 17
+collision_mask = 17
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=865864531]
 
@@ -17,4 +19,4 @@
 tile_set = ExtResource("1_rol8n")
 rendering_quadrant_size = 64
 format = 2
-layer_0/tile_data = PackedInt32Array(524287, 196612, 16, 458756, 196612, 16, 458745, 196612, 16)
+layer_0/tile_data = PackedInt32Array(458751, 131076, 8, 458752, 4, 0)

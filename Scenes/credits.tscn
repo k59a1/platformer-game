@@ -117,6 +117,12 @@ _data = {
 [node name="Credits" type="Node2D" unique_id=1641201441]
 script = ExtResource("1_r18jl")
 
+[node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=2123336107]
+offset_right = 1150.0
+offset_bottom = 166.0
+bbcode_enabled = true
+text = "[center]TEST[/center]"
+
 [node name="Button" type="Button" parent="." unique_id=10477576]
 offset_left = 17.0
 offset_top = 663.0
@@ -130,6 +136,7 @@ libraries/ = SubResource("AnimationLibrary_ccovl")
 autoplay = &"slide_in"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1064370611]
+visible = false
 offset_left = -50.0
 offset_top = -68.0
 offset_right = 1233.0
@@ -141,6 +148,7 @@ libraries/ = SubResource("AnimationLibrary_r18jl")
 autoplay = &"fade in"
 
 [node name="ColorRect2" type="ColorRect" parent="." unique_id=1845420220]
+visible = false
 offset_left = -50.0
 offset_top = -68.0
 offset_right = 1233.0

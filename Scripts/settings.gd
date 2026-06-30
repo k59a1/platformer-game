@@ -17,4 +17,5 @@ func _process(_delta: float) -> void:
 func _on_button_pressed() -> void:
 	get_node("ColorRect2").show()
 	animation_player.play("fade out")
+	await get_tree().create_timer(0.2).timeout
 	get_tree().change_scene_to_file("res://Scenes/title_screen_3d.tscn")

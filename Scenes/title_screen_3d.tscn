@@ -117,14 +117,15 @@ shadow_enabled = true
 
 [node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
 
-[node name="ColorRect" type="ColorRect" parent="." unique_id=1757214038]
+[node name="ColorRect" type="ColorRect" parent="TitleScreen" unique_id=1757214038]
+visible = false
 offset_left = -44.0
 offset_top = -60.0
 offset_right = 1245.0
 offset_bottom = 752.0
 color = Color(0, 0, 0, 1)
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=520990631]
+[node name="AnimationPlayer" type="AnimationPlayer" parent="TitleScreen/ColorRect" unique_id=520990631]
 libraries/ = SubResource("AnimationLibrary_bba2v")
 autoplay = &"fade out"
 

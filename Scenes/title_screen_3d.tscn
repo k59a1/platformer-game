@@ -1,0 +1,992 @@
+[gd_scene format=3 uid="uid://bueqbdy5sw3a"]
+
+[ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
+[ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
+[ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
+[ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]
+[ext_resource type="ArrayMesh" uid="uid://d18nxxomcgnyi" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers.obj" id="5_1p4im"]
+[ext_resource type="ArrayMesh" uid="uid://by487tybcs2g3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/grass.obj" id="6_2yil5"]
+[ext_resource type="ArrayMesh" uid="uid://fnbo8djvbfv5" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree.obj" id="7_5oysr"]
+[ext_resource type="ArrayMesh" uid="uid://dhup3itn8ycw3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/stones.obj" id="8_yktca"]
+[ext_resource type="ArrayMesh" uid="uid://d00lu01ua7wm2" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/rocks.obj" id="9_1b0er"]
+[ext_resource type="ArrayMesh" uid="uid://c6xhxhcjy8cec" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/platform-overhang.obj" id="10_mw5b5"]
+[ext_resource type="ArrayMesh" uid="uid://bi6cwti2tfgs6" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-narrow.obj" id="11_retqj"]
+[ext_resource type="ArrayMesh" uid="uid://sv2uoj2i0oet" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-overhang-low.obj" id="12_m2hh3"]
+[ext_resource type="ArrayMesh" uid="uid://djhp333sku65h" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-narrow.obj" id="13_e5hio"]
+[ext_resource type="ArrayMesh" uid="uid://d2hax2ipmodxk" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-long.obj" id="14_qncco"]
+[ext_resource type="PackedScene" uid="uid://wkbomnvimjv5" path="res://Scenes/title_screen_overlay.tscn" id="15_yfvjg"]
+[ext_resource type="Environment" uid="uid://dbprro1tvfr1v" path="res://Resources/TitleScreenEvironment.tres" id="16_a3osx"]
+[ext_resource type="ArrayMesh" uid="uid://cuck6kcorbf3v" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large.obj" id="17_2fksa"]
+[ext_resource type="ArrayMesh" uid="uid://dck8ohr63iof7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-long.obj" id="18_e5hio"]
+[ext_resource type="ArrayMesh" uid="uid://ds0ni0tthtgd2" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-large-tall.obj" id="19_qncco"]
+[ext_resource type="ArrayMesh" uid="uid://b7n2jf66mqvsv" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-edge.obj" id="20_3yrt6"]
+[ext_resource type="ArrayMesh" uid="uid://dy7bwtryp6mol" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-corner-overhang-low.obj" id="21_g2bic"]
+[ext_resource type="ArrayMesh" uid="uid://bdufjdr464ueu" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow-low-narrow.obj" id="22_g1cfl"]
+[ext_resource type="ArrayMesh" uid="uid://bv5hk7xyce6p3" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-snow.obj" id="23_lihk3"]
+[ext_resource type="ArrayMesh" uid="uid://bf6aqjirtr8ui" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow.obj" id="24_cpk1o"]
+[ext_resource type="ArrayMesh" uid="uid://bdi88pjk478f4" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/tree-pine-snow-small.obj" id="25_fpwa2"]
+[ext_resource type="ArrayMesh" uid="uid://siog51mrhp48" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/ladder.obj" id="26_3wpcu"]
+[ext_resource type="ArrayMesh" uid="uid://buuykiy7f7y2m" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_cave_stone.obj" id="27_qncco"]
+[ext_resource type="ArrayMesh" uid="uid://cpruyar6o1v8y" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_cornerInnerLarge_stone.obj" id="28_g2bic"]
+[ext_resource type="ArrayMesh" uid="uid://eq0ksmar3bii" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_cornerLarge_stone.obj" id="29_pt3p6"]
+[ext_resource type="ArrayMesh" uid="uid://cvcr3i262tf8q" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_halfCornerInner_stone.obj" id="31_6vqr1"]
+[ext_resource type="ArrayMesh" uid="uid://bhg6x00dace3d" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_halfCorner_stone.obj" id="32_r4rw3"]
+[ext_resource type="ArrayMesh" uid="uid://ccq7fta177wuw" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_half_stone.obj" id="33_lhisb"]
+[ext_resource type="ArrayMesh" uid="uid://dpb22e6khakpf" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_large_stone.obj" id="34_upnta"]
+[ext_resource type="ArrayMesh" uid="uid://b8avw1qqlliwp" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_waterfallTop_rock.obj" id="36_6vqr1"]
+[ext_resource type="ArrayMesh" uid="uid://py23k4w6ap6d" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/statue_head.obj" id="36_r4rw3"]
+[ext_resource type="ArrayMesh" uid="uid://bba4c7e5ed1qd" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/tent_detailedClosed.obj" id="37_lhisb"]
+[ext_resource type="ArrayMesh" uid="uid://c2xjhxcmsllfe" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/cliff_waterfall_rock.obj" id="37_r4rw3"]
+[ext_resource type="ArrayMesh" uid="uid://g3crdg7taeh2" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_grass.obj" id="38_r4rw3"]
+[ext_resource type="ArrayMesh" uid="uid://djnmmndhdp20i" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverSide.obj" id="39_lhisb"]
+[ext_resource type="ArrayMesh" uid="uid://b2a4mejxbxrg8" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverOpen.obj" id="40_d1ie4"]
+[ext_resource type="ArrayMesh" uid="uid://dyhi0qyiphecm" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverSideOpen.obj" id="41_ol1ki"]
+[ext_resource type="ArrayMesh" uid="uid://m2cp2poao833" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverCorner.obj" id="42_4km1n"]
+[ext_resource type="ArrayMesh" uid="uid://cy6g14fp5y288" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverCornerSmall.obj" id="44_45ve1"]
+[ext_resource type="ArrayMesh" uid="uid://b705lglxhv3hk" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverBendBank.obj" id="45_56dx6"]
+[ext_resource type="ArrayMesh" uid="uid://d3dhbv4rkq0r5" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverStraight.obj" id="46_qhe8d"]
+[ext_resource type="ArrayMesh" uid="uid://ccmj5sogbpwn" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverRocks.obj" id="47_56dx6"]
+
+[node name="Title_screen_experimental_3D" type="Node3D" unique_id=2139015582]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1569207826]
+transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, -3.011138, -3.1295981, -0.24205208)
+light_energy = 0.634
+shadow_enabled = true
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
+transform = Transform3D(0.7193397, -0.34995088, 0.60007054, 0, 0.86383545, 0.50377405, -0.6946584, -0.36238468, 0.6213912, 7.183975, 6.051895, 7.9500732)
+fov = 40.0
+
+[node name="BlockGrassLarge" type="MeshInstance3D" parent="." unique_id=158995879]
+transform = Transform3D(4.945558, 0, 0, 0, 3.7413905, 0, 0, 0, 4.9895144, -2.5248451, -6.8697114, 0.22858238)
+mesh = ExtResource("1_2obyt")
+
+[node name="BlockGrassLargeTall" type="MeshInstance3D" parent="." unique_id=1287852056]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.004389, -3.5283756, 0.44593716)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLowLarge" type="MeshInstance3D" parent="." unique_id=1542857445]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.8956604, -3.1295981, 1.4559155)
+mesh = ExtResource("3_a3osx")
+
+[node name="FlowersTall" type="MeshInstance3D" parent="." unique_id=1142109240]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.2475014, -3.1295981, -1.6749678)
+mesh = ExtResource("4_2fksa")
+
+[node name="Flowers" type="MeshInstance3D" parent="." unique_id=491142727]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.1560116, -3.1295981, -3.3167229)
+mesh = ExtResource("5_1p4im")
+
+[node name="Grass" type="MeshInstance3D" parent="." unique_id=250135833]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.5311804, -3.1295981, -2.0675726)
+mesh = ExtResource("6_2yil5")
+
+[node name="Flowers2" type="MeshInstance3D" parent="." unique_id=1800205370]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9864454, -3.1295981, 3.0658956)
+mesh = ExtResource("5_1p4im")
+
+[node name="FlowersTall2" type="MeshInstance3D" parent="." unique_id=1230202169]
+transform = Transform3D(1.6695951, 0, 0, 0, 1.6695951, 0, 0, 0, 1.6695951, -6.1887894, -3.1295981, 4.0943866)
+mesh = ExtResource("4_2fksa")
+
+[node name="Grass2" type="MeshInstance3D" parent="." unique_id=699947893]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5002661, -3.1295981, 0.81108665)
+mesh = ExtResource("6_2yil5")
+
+[node name="Grass3" type="MeshInstance3D" parent="." unique_id=1891542646]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.0579576, -3.1295981, 1.4469848)
+mesh = ExtResource("6_2yil5")
+
+[node name="Tree" type="MeshInstance3D" parent="." unique_id=1607262302]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.20736217, -3.1295981, -2.360592)
+mesh = ExtResource("7_5oysr")
+
+[node name="Tree2" type="MeshInstance3D" parent="." unique_id=1514311576]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.9592643, -3.1295981, -1.9446335)
+mesh = ExtResource("7_5oysr")
+
+[node name="Tree3" type="MeshInstance3D" parent="." unique_id=1728150341]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.9320097, -3.1295981, -2.6242132)
+mesh = ExtResource("7_5oysr")
+
+[node name="Stones" type="MeshInstance3D" parent="." unique_id=590468256]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.66927624, -3.1295981, -1.3560877)
+mesh = ExtResource("8_yktca")
+
+[node name="Rocks" type="MeshInstance3D" parent="." unique_id=972655649]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.6913114, -3.1295981, 1.6274943)
+mesh = ExtResource("9_1b0er")
+
+[node name="PlatformOverhang" type="MeshInstance3D" parent="." unique_id=1864222865]
+transform = Transform3D(-0.0039091017, 0, 0.9999923, 0, 1, 0, -0.9999923, 0, -0.0039091017, -2.5049992, -2.2118692, 0.5347264)
+mesh = ExtResource("10_mw5b5")
+
+[node name="BlockGrassOverhangNarrow" type="MeshInstance3D" parent="." unique_id=2066843616]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.84591, -3.1295981, -0.1770382)
+mesh = ExtResource("11_retqj")
+
+[node name="BlockGrassOverhangLow" type="MeshInstance3D" parent="." unique_id=14883173]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.2560215, -2.1700768, 1.2209206)
+mesh = ExtResource("12_m2hh3")
+
+[node name="BlockGrassNarrow" type="MeshInstance3D" parent="." unique_id=1211348702]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9862323, -3.4763656, 2.3378108)
+mesh = ExtResource("13_e5hio")
+
+[node name="BlockGrassLong" type="MeshInstance3D" parent="." unique_id=1616355177]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.7997475, -3.1295981, 1.7229767)
+mesh = ExtResource("14_qncco")
+
+[node name="BlockGrassLargeTall2" type="MeshInstance3D" parent="." unique_id=1618357422]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.654572, -3.055425, -0.5659847)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLong2" type="MeshInstance3D" parent="." unique_id=947968779]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.112056, -3.6795168, -1.5570707)
+mesh = ExtResource("14_qncco")
+
+[node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
+environment = ExtResource("16_a3osx")
+
+[node name="BlockSnowLarge" type="MeshInstance3D" parent="." unique_id=1792619848]
+transform = Transform3D(5.020667, 0, 0, 0, 3.2350218, 0, 0, 0, 5.337479, -17.523386, -8.220776, -2.8450913)
+mesh = ExtResource("17_2fksa")
+
+[node name="BlockSnowLarge4" type="MeshInstance3D" parent="." unique_id=259791995]
+transform = Transform3D(5.0206666, 0, 0, 0, -22.63989, -0.046334375, 0, 0.191622, -5.474346, -17.523386, -7.879299, -2.9843462)
+mesh = ExtResource("17_2fksa")
+
+[node name="BlockSnowLarge2" type="MeshInstance3D" parent="." unique_id=1043467472]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -19.64335, -5.019219, -0.9602442)
+mesh = ExtResource("17_2fksa")
+
+[node name="BlockSnowLong" type="MeshInstance3D" parent="." unique_id=436066682]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -18.169325, -5.4496593, -1.5878344)
+mesh = ExtResource("18_e5hio")
+
+[node name="BlockSnowLargeTall" type="MeshInstance3D" parent="." unique_id=1403673717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -19.139933, -5.353769, -2.540935)
+mesh = ExtResource("19_qncco")
+
+[node name="BlockSnowEdge" type="MeshInstance3D" parent="." unique_id=8482523]
+transform = Transform3D(0.06352431, 0, 0.9979803, 0, 1, 0, -0.9979803, 0, 0.06352431, -17.879984, -4.6042213, -2.8773217)
+mesh = ExtResource("20_3yrt6")
+
+[node name="BlockSnowCornerOverhangLow" type="MeshInstance3D" parent="." unique_id=176918715]
+transform = Transform3D(0.012079142, 0, -0.99992704, 0, 1, 0, 0.99992704, 0, 0.012079142, -14.940986, -4.244868, -4.0293155)
+mesh = ExtResource("21_g2bic")
+
+[node name="BlockSnowLowNarrow" type="MeshInstance3D" parent="." unique_id=181473211]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.652854, -5.0470896, -3.456306)
+mesh = ExtResource("22_g1cfl")
+
+[node name="BlockSnow" type="MeshInstance3D" parent="." unique_id=1601572409]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -16.018738, -5.174535, -3.9335752)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnowLarge3" type="MeshInstance3D" parent="." unique_id=1160849337]
+transform = Transform3D(1.1110059, 0, 0, 0, 1.2427948, 0, 0, 0, 1.1372485, -15.382657, -4.9558506, -5.3977637)
+mesh = ExtResource("17_2fksa")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="." unique_id=1300591262]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -20.810987, -5.0351334, 1.5043426)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow" unique_id=1551993609]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.07566452, -0.12810838, -1.0944891)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow" unique_id=10600209]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7791004, -0.12810838, -1.0944891)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow" unique_id=801163762]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4516697, 0.3811642, 1.1159151)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow2" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow" unique_id=14335339]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.21674538, -0.12810838, -2.242652)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnow" type="MeshInstance3D" parent="TreePineSnow/TreePineSnow/TreePineSnow/TreePineSnow2" unique_id=1454383740]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4516697, 0.3811642, 1.1159151)
+mesh = ExtResource("24_cpk1o")
+
+[node name="TreePineSnowSmall" type="MeshInstance3D" parent="." unique_id=1545173558]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -20.357698, -4.969385, 0.96009445)
+mesh = ExtResource("25_fpwa2")
+
+[node name="TreePineSnowSmall" type="MeshInstance3D" parent="TreePineSnowSmall" unique_id=1133430535]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0737152, -0.027386546, 1.0494815)
+mesh = ExtResource("25_fpwa2")
+
+[node name="Rocks2" type="MeshInstance3D" parent="." unique_id=227078319]
+transform = Transform3D(0.8833333, 0, 0.46874535, 0, 1, 0, -0.46874535, 0, 0.8833333, -18.658464, -4.9928617, -0.1280284)
+mesh = ExtResource("9_1b0er")
+
+[node name="Ladder" type="MeshInstance3D" parent="." unique_id=604382792]
+transform = Transform3D(-0.046815727, 0, 0.9989036, 0, 1, 0, -0.9989036, 0, -0.046815727, -14.238172, -4.938923, -4.8805346)
+mesh = ExtResource("26_3wpcu")
+
+[node name="TreePineSnow2" type="MeshInstance3D" parent="." unique_id=833365767]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -21.11608, -4.955438, -1.3471437)
+mesh = ExtResource("24_cpk1o")
+
+[node name="BlockSnow2" type="MeshInstance3D" parent="." unique_id=849649331]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.04503, -5.337826, -0.31983137)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnow3" type="MeshInstance3D" parent="." unique_id=774279454]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.385833, -4.9885216, -1.0662532)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockSnow4" type="MeshInstance3D" parent="." unique_id=471329164]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.217501, -5.6243258, 0.20479918)
+mesh = ExtResource("23_lihk3")
+
+[node name="BlockGrassLargeTall3" type="MeshInstance3D" parent="." unique_id=1377377114]
+transform = Transform3D(4.3407474, 0, 0, 0, 4.283929, 0, 0, 0, 4.29025, -7.924921, -12.642645, -14.789313)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLargeTall4" type="MeshInstance3D" parent="." unique_id=938419683]
+transform = Transform3D(4.340747, 0, 0, 0, -4.2837267, 0.041634083, 0, -0.041572742, -4.2900476, -7.924921, -11.92813, -14.789313)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLargeTall7" type="MeshInstance3D" parent="." unique_id=1750919265]
+transform = Transform3D(4.3407474, 0, 0, 0, 4.283929, 0, 0, 0, 4.29025, -7.924921, -5.642645, -23.789314)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLargeTall8" type="MeshInstance3D" parent="." unique_id=1663914196]
+transform = Transform3D(4.340747, 0, 0, 0, -9.423957, 0.041149247, 0, -0.09145769, -4.2400894, -7.924921, -4.92813, -23.789314)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLargeTall6" type="MeshInstance3D" parent="." unique_id=373702351]
+transform = Transform3D(4.3407474, 0, 0, 0, 4.283929, 0, 0, 0, 4.29025, 0.7311802, -16.619179, -12.263695)
+mesh = ExtResource("2_yfvjg")
+
+[node name="BlockGrassLargeTall5" type="MeshInstance3D" parent="." unique_id=81743144]
+transform = Transform3D(4.87292, 0, 0, 0, -4.2905445, 0.048461996, 0, -0.041638907, -4.9936075, -2.4662533, -6.639892, 0.2271192)
+mesh = ExtResource("2_yfvjg")
+
+[node name="CliffCornerInnerLargeStone" type="MeshInstance3D" parent="." unique_id=967041957]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -4.112548, -13.736263)
+mesh = ExtResource("28_g2bic")
+
+[node name="CliffCornerLargeStone" type="MeshInstance3D" parent="." unique_id=1158450233]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -4.112548, -13.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerInnerLargeStone2" type="MeshInstance3D" parent="." unique_id=2088420179]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -3.112548, -13.736263)
+mesh = ExtResource("28_g2bic")
+
+[node name="CliffCornerLargeStone2" type="MeshInstance3D" parent="." unique_id=119215255]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -3.112548, -13.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffHalfCornerInnerStone" type="MeshInstance3D" parent="." unique_id=1996645995]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -2.112548, -13.736263)
+mesh = ExtResource("31_6vqr1")
+
+[node name="CliffCornerInnerLargeStone7" type="MeshInstance3D" parent="." unique_id=593405254]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -4.112548, -14.736263)
+mesh = ExtResource("28_g2bic")
+
+[node name="CliffCornerInnerLargeStone8" type="MeshInstance3D" parent="." unique_id=1358612771]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -3.112548, -14.736263)
+mesh = ExtResource("28_g2bic")
+
+[node name="CliffHalfCornerInnerStone4" type="MeshInstance3D" parent="." unique_id=1767530545]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -2.112548, -14.736263)
+mesh = ExtResource("31_6vqr1")
+
+[node name="CliffHalfCornerInnerStone2" type="MeshInstance3D" parent="." unique_id=2030743806]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.651202, -2.112548, -13.736263)
+mesh = ExtResource("31_6vqr1")
+
+[node name="CliffHalfCornerInnerStone3" type="MeshInstance3D" parent="." unique_id=900399335]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.651202, -2.112548, -14.736263)
+mesh = ExtResource("31_6vqr1")
+
+[node name="CliffHalfCornerStone" type="MeshInstance3D" parent="." unique_id=656606486]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.651202, -2.112548, -13.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffCornerLargeStone11" type="MeshInstance3D" parent="." unique_id=1212504673]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -4.112548, -14.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone12" type="MeshInstance3D" parent="." unique_id=1784326576]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -3.112548, -14.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffHalfCornerStone6" type="MeshInstance3D" parent="." unique_id=1182241120]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -2.112548, -14.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffCornerLargeStone3" type="MeshInstance3D" parent="." unique_id=2031123328]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -4.112548, -11.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone4" type="MeshInstance3D" parent="." unique_id=1891292164]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -3.112548, -11.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffHalfCornerStone2" type="MeshInstance3D" parent="." unique_id=1468559662]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -2.112548, -11.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffCornerLargeStone5" type="MeshInstance3D" parent="." unique_id=1860825220]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.651202, -4.112548, -11.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone6" type="MeshInstance3D" parent="." unique_id=63187864]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.651202, -3.112548, -11.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone7" type="MeshInstance3D" parent="." unique_id=1948525534]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.651202, -4.112548, -13.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone8" type="MeshInstance3D" parent="." unique_id=206945188]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.651202, -3.112548, -13.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone9" type="MeshInstance3D" parent="." unique_id=724257697]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.651202, -4.112548, -14.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone10" type="MeshInstance3D" parent="." unique_id=1473942844]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.651202, -3.112548, -14.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffHalfCornerStone3" type="MeshInstance3D" parent="." unique_id=548392856]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.651202, -2.112548, -11.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffHalfCornerStone4" type="MeshInstance3D" parent="." unique_id=667887913]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.651202, -2.112548, -13.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffHalfCornerStone5" type="MeshInstance3D" parent="." unique_id=832046802]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.651202, -2.112548, -14.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffHalfCornerStone8" type="MeshInstance3D" parent="." unique_id=894228704]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -13.651202, -2.112548, -18.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffCornerLargeStone13" type="MeshInstance3D" parent="." unique_id=2088265190]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -7.651202, -4.112548, -18.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffCornerLargeStone14" type="MeshInstance3D" parent="." unique_id=1430363063]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -7.651202, -3.112548, -18.736263)
+mesh = ExtResource("29_pt3p6")
+
+[node name="CliffHalfCornerStone7" type="MeshInstance3D" parent="." unique_id=317381509]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -7.651202, -2.112548, -18.736263)
+mesh = ExtResource("32_r4rw3")
+
+[node name="CliffHalfStone" type="MeshInstance3D" parent="." unique_id=1804653438]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -2.112548, -12.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone" type="MeshInstance3D" parent="." unique_id=1127565667]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -3.112548, -12.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffLargeStone3" type="MeshInstance3D" parent="." unique_id=1206214990]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -9.651202, -4.112548, -12.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffHalfStone5" type="MeshInstance3D" parent="." unique_id=811150861]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -2.112548, -15.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone8" type="MeshInstance3D" parent="." unique_id=1681411221]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -3.112548, -15.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffLargeStone9" type="MeshInstance3D" parent="." unique_id=1173184688]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -4.112548, -15.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffHalfStone6" type="MeshInstance3D" parent="." unique_id=1154237706]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -2.112548, -16.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone10" type="MeshInstance3D" parent="." unique_id=1589514374]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -3.112548, -16.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffLargeStone11" type="MeshInstance3D" parent="." unique_id=1152319319]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -4.112548, -16.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffHalfStone7" type="MeshInstance3D" parent="." unique_id=1469627386]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -2.112548, -17.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone12" type="MeshInstance3D" parent="." unique_id=1589993671]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -3.112548, -17.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffLargeStone13" type="MeshInstance3D" parent="." unique_id=903862103]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.651202, -4.112548, -17.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffHalfStone8" type="MeshInstance3D" parent="." unique_id=1386798672]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -8.651202, -2.112548, -18.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone9" type="MeshInstance3D" parent="." unique_id=806615312]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -9.651202, -2.112548, -18.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone10" type="MeshInstance3D" parent="." unique_id=1501164823]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -10.651202, -2.112548, -18.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone11" type="MeshInstance3D" parent="." unique_id=157763084]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -11.651202, -2.112548, -18.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone12" type="MeshInstance3D" parent="." unique_id=2024907615]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -12.651202, -2.112548, -18.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone3" type="MeshInstance3D" parent="." unique_id=717813418]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -11.651202, -2.112548, -12.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone28" type="MeshInstance3D" parent="." unique_id=124692985]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -10.651202, -4.112548, -13.063659)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffHalfStone4" type="MeshInstance3D" parent="." unique_id=1405691984]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -13.651202, -2.112548, -15.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone13" type="MeshInstance3D" parent="." unique_id=420191938]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -13.651202, -2.112548, -16.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone14" type="MeshInstance3D" parent="." unique_id=1707009418]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -13.651202, -2.112548, -17.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffHalfStone2" type="MeshInstance3D" parent="." unique_id=1446939993]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.651202, -2.112548, -11.736263)
+mesh = ExtResource("33_lhisb")
+
+[node name="CliffLargeStone2" type="MeshInstance3D" parent="." unique_id=1563116297]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.651202, -3.112548, -11.736263)
+mesh = ExtResource("34_upnta")
+
+[node name="CliffCaveStone" type="MeshInstance3D" parent="." unique_id=965693676]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.6499405, -4.112548, -11.495932)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone2" type="MeshInstance3D" parent="." unique_id=1192174431]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.6499405, -4.112548, -11.596784)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone3" type="MeshInstance3D" parent="." unique_id=1487465014]
+transform = Transform3D(0.8514572, 0, 0, 0, 0.87083447, 0, 0, 0, 1, -10.6499405, -4.112548, -11.667126)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone4" type="MeshInstance3D" parent="." unique_id=1734001973]
+transform = Transform3D(0.77929807, 0, 0, 0, 0.71397763, 0, 0, 0, 1, -10.6499405, -4.112548, -11.738665)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone5" type="MeshInstance3D" parent="." unique_id=1281825338]
+transform = Transform3D(0.59744596, 0, 0, 0, 0.6335257, 0, 0, 0, 1, -10.6499405, -4.112548, -11.811763)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone6" type="MeshInstance3D" parent="." unique_id=864347207]
+transform = Transform3D(0.4895013, 0, 0, 0, 0.51766574, 0, 0, 0, 1, -10.6499405, -4.112548, -11.926524)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffCaveStone7" type="MeshInstance3D" parent="." unique_id=455578110]
+transform = Transform3D(0.37684128, 0, 0, 0, 0.44541934, 0, 0, 0, 1, -10.6499405, -4.112548, -12.061953)
+mesh = ExtResource("27_qncco")
+
+[node name="CliffWaterfallTopRock" type="MeshInstance3D" parent="." unique_id=1966230]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.0046105, -5.0033207, -14.000957)
+mesh = ExtResource("36_6vqr1")
+
+[node name="CliffWaterfallRock" type="MeshInstance3D" parent="." unique_id=1426556210]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.0046105, -5.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock2" type="MeshInstance3D" parent="." unique_id=1555963193]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.0046105, -6.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock3" type="MeshInstance3D" parent="." unique_id=1770465369]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.0046105, -7.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock4" type="MeshInstance3D" parent="." unique_id=449066539]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.0046105, -8.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock25" type="MeshInstance3D" parent="." unique_id=1712128059]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, -2.2430782, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock26" type="MeshInstance3D" parent="." unique_id=1108168942]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, -3.2430782, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock27" type="MeshInstance3D" parent="." unique_id=2089841978]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, -4.243078, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock28" type="MeshInstance3D" parent="." unique_id=126654687]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, 0.75692177, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock29" type="MeshInstance3D" parent="." unique_id=1317659646]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, -0.24307823, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock30" type="MeshInstance3D" parent="." unique_id=687518772]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, -1.2430782, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock31" type="MeshInstance3D" parent="." unique_id=867707642]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, 3.7569218, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock32" type="MeshInstance3D" parent="." unique_id=602604068]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, 2.7569218, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock33" type="MeshInstance3D" parent="." unique_id=1305761891]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0046105, 1.7569218, -19.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock5" type="MeshInstance3D" parent="." unique_id=1025870455]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.1717725, -5.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock6" type="MeshInstance3D" parent="." unique_id=202326123]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.1717725, -6.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock7" type="MeshInstance3D" parent="." unique_id=2064133451]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.1717725, -7.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock8" type="MeshInstance3D" parent="." unique_id=1360764615]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3.1717725, -8.243078, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallTopRock2" type="MeshInstance3D" parent="." unique_id=972764473]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -9.009386, -14.000957)
+mesh = ExtResource("36_6vqr1")
+
+[node name="CliffWaterfallRock9" type="MeshInstance3D" parent="." unique_id=1053983828]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -9.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock10" type="MeshInstance3D" parent="." unique_id=625390031]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -10.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock11" type="MeshInstance3D" parent="." unique_id=1284472604]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -11.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock12" type="MeshInstance3D" parent="." unique_id=1746724248]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -12.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock13" type="MeshInstance3D" parent="." unique_id=898056909]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -9.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock14" type="MeshInstance3D" parent="." unique_id=446974425]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -10.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock15" type="MeshInstance3D" parent="." unique_id=484591069]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -11.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock16" type="MeshInstance3D" parent="." unique_id=1893634728]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -12.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock17" type="MeshInstance3D" parent="." unique_id=2023471333]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -13.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock18" type="MeshInstance3D" parent="." unique_id=1765774482]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -13.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock19" type="MeshInstance3D" parent="." unique_id=1048069224]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -14.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock20" type="MeshInstance3D" parent="." unique_id=212884429]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -14.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock21" type="MeshInstance3D" parent="." unique_id=1403958062]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -15.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock22" type="MeshInstance3D" parent="." unique_id=2117739856]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -15.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock23" type="MeshInstance3D" parent="." unique_id=26280680]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.706323, -16.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="CliffWaterfallRock24" type="MeshInstance3D" parent="." unique_id=849241213]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.539161, -16.249144, -14.000957)
+mesh = ExtResource("37_r4rw3")
+
+[node name="StatueHead" type="MeshInstance3D" parent="." unique_id=1885196171]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.160158, -3.1999896, -14.693909)
+mesh = ExtResource("36_r4rw3")
+
+[node name="TentDetailedClosed" type="MeshInstance3D" parent="." unique_id=1085036113]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7, -4.112548, -17)
+mesh = ExtResource("37_lhisb")
+
+[node name="GroundGrass" type="MeshInstance3D" parent="." unique_id=1613820223]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -12.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass2" type="MeshInstance3D" parent="." unique_id=792558628]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -13.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass3" type="MeshInstance3D" parent="." unique_id=654792628]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -14.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass4" type="MeshInstance3D" parent="." unique_id=987468208]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.642243, -1.6109607, -14.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass6" type="MeshInstance3D" parent="." unique_id=1983847884]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.642243, -1.6109607, -15.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass7" type="MeshInstance3D" parent="." unique_id=425426899]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.642243, -1.6109607, -15.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass8" type="MeshInstance3D" parent="." unique_id=583831926]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.642243, -1.6109607, -16.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass9" type="MeshInstance3D" parent="." unique_id=1447180127]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.642243, -1.6109607, -17.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass10" type="MeshInstance3D" parent="." unique_id=1902157203]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.642243, -1.6109607, -17.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass11" type="MeshInstance3D" parent="." unique_id=1962539928]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -17.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass12" type="MeshInstance3D" parent="." unique_id=2114479492]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.642243, -1.6109607, -17.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass13" type="MeshInstance3D" parent="." unique_id=248425452]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.642243, -1.6109607, -17.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass14" type="MeshInstance3D" parent="." unique_id=552698716]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.642243, -1.6109607, -16.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass15" type="MeshInstance3D" parent="." unique_id=1203375510]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.642243, -1.6109607, -15.732508)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass16" type="MeshInstance3D" parent="." unique_id=1502951691]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.642243, -1.6109607, -15.732508)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass17" type="MeshInstance3D" parent="." unique_id=547495249]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -15.732508)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass18" type="MeshInstance3D" parent="." unique_id=4109895]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.642243, -1.6109607, -16.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass19" type="MeshInstance3D" parent="." unique_id=624093892]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.642243, -1.6109607, -16.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass20" type="MeshInstance3D" parent="." unique_id=1366718982]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.642243, -1.6109607, -16.73251)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundGrass5" type="MeshInstance3D" parent="." unique_id=1323803204]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.642243, -1.6109607, -14.732509)
+mesh = ExtResource("38_r4rw3")
+
+[node name="GroundRiverSide" type="MeshInstance3D" parent="." unique_id=2002196542]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -4, -13)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverOpen" type="MeshInstance3D" parent="." unique_id=700407578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -4, -14)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverSide2" type="MeshInstance3D" parent="." unique_id=1076392636]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -13)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide3" type="MeshInstance3D" parent="." unique_id=1085804575]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -4, -4, -15)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide6" type="MeshInstance3D" parent="." unique_id=872414186]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -4, -4, -16)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide7" type="MeshInstance3D" parent="." unique_id=176134716]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, -8, -13)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide8" type="MeshInstance3D" parent="." unique_id=883485664]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -1, -8, -14)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide9" type="MeshInstance3D" parent="." unique_id=2134259700]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 2, -8, -12)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide10" type="MeshInstance3D" parent="." unique_id=1012663252]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 1, -8, -13)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide11" type="MeshInstance3D" parent="." unique_id=657852226]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, -8, -10)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide12" type="MeshInstance3D" parent="." unique_id=880014574]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, -8, -10)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide14" type="MeshInstance3D" parent="." unique_id=1480016115]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -3, -8, -13)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide15" type="MeshInstance3D" parent="." unique_id=1020749809]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -3, -8, -12)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide16" type="MeshInstance3D" parent="." unique_id=1156794151]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -8, -11)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide17" type="MeshInstance3D" parent="." unique_id=1444107341]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, -8, -11)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide4" type="MeshInstance3D" parent="." unique_id=798267959]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -7, -4, -15)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverSide5" type="MeshInstance3D" parent="." unique_id=2082118771]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -7, -4, -14)
+mesh = ExtResource("39_lhisb")
+
+[node name="GroundRiverOpen2" type="MeshInstance3D" parent="." unique_id=1691394849]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -14)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen5" type="MeshInstance3D" parent="." unique_id=1512295689]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -8, -14)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen6" type="MeshInstance3D" parent="." unique_id=1707710395]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -8, -13)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen7" type="MeshInstance3D" parent="." unique_id=1926711256]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -8, -12)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen8" type="MeshInstance3D" parent="." unique_id=545047977]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, -8, -12)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen9" type="MeshInstance3D" parent="." unique_id=1353112816]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -8, -12)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen10" type="MeshInstance3D" parent="." unique_id=1063398217]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, -8, -12)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen11" type="MeshInstance3D" parent="." unique_id=637776015]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, -8, -11)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen3" type="MeshInstance3D" parent="." unique_id=267216917]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -15)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen4" type="MeshInstance3D" parent="." unique_id=764621878]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -4, -15)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverOpen12" type="MeshInstance3D" parent="." unique_id=1160830391]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -16)
+mesh = ExtResource("40_d1ie4")
+
+[node name="GroundRiverSideOpen" type="MeshInstance3D" parent="." unique_id=374470666]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -4, -4, -14)
+mesh = ExtResource("41_ol1ki")
+
+[node name="GroundRiverSideOpen2" type="MeshInstance3D" parent="." unique_id=451776528]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -17)
+mesh = ExtResource("41_ol1ki")
+
+[node name="GroundRiverSideOpen5" type="MeshInstance3D" parent="." unique_id=1604192987]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -4, -4, -14)
+mesh = ExtResource("41_ol1ki")
+
+[node name="GroundRiverCorner" type="MeshInstance3D" parent="." unique_id=2133169221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, -4, -13)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner3" type="MeshInstance3D" parent="." unique_id=447944651]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -7, -4, -13)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner4" type="MeshInstance3D" parent="." unique_id=151710796]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -7, -4, -16)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner12" type="MeshInstance3D" parent="." unique_id=1683083124]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, -6, -4, -17)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner13" type="MeshInstance3D" parent="." unique_id=1148060941]
+transform = Transform3D(1.3113416e-07, 0, 1, 0, 1, 0, -1, 0, 1.3113416e-07, -4, -4, -17)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner5" type="MeshInstance3D" parent="." unique_id=1792437902]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -3, -8, -15)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner6" type="MeshInstance3D" parent="." unique_id=1617987044]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -1, -8, -15)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner7" type="MeshInstance3D" parent="." unique_id=130477769]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 2, -8, -13)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner8" type="MeshInstance3D" parent="." unique_id=134630870]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, -8, -10)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner11" type="MeshInstance3D" parent="." unique_id=1534862603]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -3, -8, -11)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner10" type="MeshInstance3D" parent="." unique_id=96756433]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, 0, -8, -10)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverCorner9" type="MeshInstance3D" parent="." unique_id=1870000346]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 3, -8, -11)
+mesh = ExtResource("42_4km1n")
+
+[node name="GroundRiverSideOpen3" type="MeshInstance3D" parent="." unique_id=1271585755]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -3, -8, -14)
+mesh = ExtResource("41_ol1ki")
+
+[node name="GroundRiverSideOpen4" type="MeshInstance3D" parent="." unique_id=1857720764]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -8, -15)
+mesh = ExtResource("41_ol1ki")
+
+[node name="GroundRiverCornerSmall" type="MeshInstance3D" parent="." unique_id=1891922228]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, -8, -13)
+mesh = ExtResource("44_45ve1")
+
+[node name="GroundRiverCornerSmall3" type="MeshInstance3D" parent="." unique_id=1456460415]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, 0, -8, -11)
+mesh = ExtResource("44_45ve1")
+
+[node name="GroundRiverCornerSmall2" type="MeshInstance3D" parent="." unique_id=1736224495]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, -8, -11)
+mesh = ExtResource("44_45ve1")
+
+[node name="GroundRiverBendBank" type="MeshInstance3D" parent="." unique_id=2106796540]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -2, -8, -16)
+mesh = ExtResource("45_56dx6")
+
+[node name="GroundRiverBendBank2" type="MeshInstance3D" parent="." unique_id=41241757]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 2, -8, -16)
+mesh = ExtResource("45_56dx6")
+
+[node name="GroundRiverBendBank3" type="MeshInstance3D" parent="." unique_id=692217376]
+transform = Transform3D(1.3113416e-07, 0, -1, 0, 1, 0, 1, 0, 1.3113416e-07, 2, -8, -14)
+mesh = ExtResource("45_56dx6")
+
+[node name="GroundRiverStraight" type="MeshInstance3D" parent="." unique_id=727236477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, -8, -15)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight2" type="MeshInstance3D" parent="." unique_id=2142804454]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 1, -8, -16)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight8" type="MeshInstance3D" parent="." unique_id=1863925993]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -19)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight3" type="MeshInstance3D" parent="." unique_id=872380894]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, -8, -16)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight4" type="MeshInstance3D" parent="." unique_id=493419260]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -1, -8, -16)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight5" type="MeshInstance3D" parent="." unique_id=1730175332]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 2.9781065, -8, -14)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight6" type="MeshInstance3D" parent="." unique_id=669876968]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 3.8894906, -8, -14)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverStraight7" type="MeshInstance3D" parent="." unique_id=174808220]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 4.734294, -8, -14)
+mesh = ExtResource("46_qhe8d")
+
+[node name="GroundRiverRocks" type="MeshInstance3D" parent="." unique_id=1375428572]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, -4, -18)
+mesh = ExtResource("47_56dx6")
+
+[node name="GroundRiverCornerSmall5" type="MeshInstance3D" parent="." unique_id=1125624955]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -6, -4, -16)
+mesh = ExtResource("44_45ve1")
+
+[node name="GroundRiverOpen13" type="MeshInstance3D" parent="." unique_id=20329279]
+transform = Transform3D(954.34784, 0, 0, 0, 3.3583455, 0, 0, 0, 891.0511, 1.6115975, -32.792755, 1.0389953)
+mesh = ExtResource("40_d1ie4")

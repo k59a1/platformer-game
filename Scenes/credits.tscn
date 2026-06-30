@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://c7hc0rl6fqdca"]
+
+[ext_resource type="Script" uid="uid://cvxj2dh34sdle" path="res://Scripts/credits.gd" id="1_r18jl"]
+
+[node name="Credits" type="Node2D" unique_id=1641201441]
+script = ExtResource("1_r18jl")
+
+[node name="Button" type="Button" parent="." unique_id=10477576]
+offset_left = 17.0
+offset_top = 583.0
+offset_right = 146.0
+offset_bottom = 627.0
+theme_override_font_sizes/font_size = 40
+text = "Back"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

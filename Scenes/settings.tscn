@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://cbk3d6aj65rbn"]
+
+[ext_resource type="Script" uid="uid://l6bjmt47al8p" path="res://Scripts/settings.gd" id="1_4geyq"]
+
+[node name="Settings" type="Node2D" unique_id=1641201441]
+script = ExtResource("1_4geyq")
+
+[node name="Button" type="Button" parent="." unique_id=862898961]
+offset_left = 17.0
+offset_top = 583.0
+offset_right = 146.0
+offset_bottom = 627.0
+theme_override_font_sizes/font_size = 40
+text = "Back"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

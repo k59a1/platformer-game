@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="plaformer game"
-run/main_scene="uid://wkbomnvimjv5"
+run/main_scene="uid://bueqbdy5sw3a"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 boot_splash/stretch_mode=0
 boot_splash/use_filter=false

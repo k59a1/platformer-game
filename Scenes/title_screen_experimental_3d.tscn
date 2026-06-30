@@ -55,8 +55,8 @@ light_energy = 0.634
 shadow_enabled = true
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
-transform = Transform3D(0.7009093, -0.3539266, 0.6192432, 0, 0.8681988, 0.4962165, -0.7132504, -0.34780276, 0.6085287, 7.1840105, 6.0519023, 7.950076)
-fov = 41.7
+transform = Transform3D(0.7193397, -0.3499509, 0.6000706, 0, 0.86383545, 0.50377405, -0.69465846, -0.36238468, 0.6213912, 7.1840096, 6.051901, 7.9500732)
+fov = 40.0
 
 [node name="BlockGrassLarge" type="MeshInstance3D" parent="." unique_id=158995879]
 transform = Transform3D(4.945558, 0, 0, 0, 3.7413905, 0, 0, 0, 4.9895144, -2.5248451, -6.8697114, 0.22858238)

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://bueqbdy5sw3a"]
 
 [ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
-[ext_resource type="Script" uid="uid://dhvdbkma25icj" path="res://Scenes/title_screen_3d.gd" id="1_g6lby"]
+[ext_resource type="Script" uid="uid://dhvdbkma25icj" path="res://Scripts/title_screen_3d.gd" id="1_g6lby"]
 [ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
 [ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
 [ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]

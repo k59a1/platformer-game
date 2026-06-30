@@ -988,5 +988,5 @@ transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -6, 
 mesh = ExtResource("44_45ve1")
 
 [node name="GroundRiverOpen13" type="MeshInstance3D" parent="." unique_id=20329279]
-transform = Transform3D(954.34784, 0, 0, 0, 3.3583455, 0, 0, 0, 891.0511, 1.6115975, -32.792755, 1.0389953)
+transform = Transform3D(954.34784, 0, 0, 0, 3.3583455, 0, 0, 0, 891.0511, -0.38840246, -28.792755, -1.9610043)
 mesh = ExtResource("40_d1ie4")

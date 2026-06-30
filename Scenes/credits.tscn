@@ -2,15 +2,86 @@
 
 [ext_resource type="Script" uid="uid://cvxj2dh34sdle" path="res://Scripts/credits.gd" id="1_r18jl"]
 
+[sub_resource type="Animation" id="Animation_r18jl"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(17, 663)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_gryuy"]
+resource_name = "slide_in"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0.1, 0.13333334),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(17, 663), Vector2(17, 583)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0.1, 0.13333334),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0.0, 0.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_ccovl"]
+_data = {
+&"RESET": SubResource("Animation_r18jl"),
+&"slide_in": SubResource("Animation_gryuy")
+}
+
 [node name="Credits" type="Node2D" unique_id=1641201441]
 script = ExtResource("1_r18jl")
 
+[node name="ColorRect" type="ColorRect" parent="." unique_id=178150304]
+offset_left = -21.0
+offset_top = -22.0
+offset_right = 1199.0
+offset_bottom = 683.0
+color = Color(0, 0, 0, 1)
+
 [node name="Button" type="Button" parent="." unique_id=10477576]
 offset_left = 17.0
-offset_top = 583.0
+offset_top = 663.0
 offset_right = 146.0
-offset_bottom = 627.0
+offset_bottom = 707.0
 theme_override_font_sizes/font_size = 40
 text = "Back"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Button" unique_id=1053327165]
+libraries/ = SubResource("AnimationLibrary_ccovl")
+autoplay = &"slide_in"
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

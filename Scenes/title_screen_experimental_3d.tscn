@@ -156,7 +156,7 @@ transform = Transform3D(5.020667, 0, 0, 0, 3.2350218, 0, 0, 0, 5.337479, -17.523
 mesh = ExtResource("17_2fksa")
 
 [node name="BlockSnowLarge4" type="MeshInstance3D" parent="." unique_id=259791995]
-transform = Transform3D(5.0206666, 0, 0, 0, -18.866688, -0.046256073, 0, 0.15968595, -5.465095, -17.523386, -7.879299, -2.9843462)
+transform = Transform3D(5.0206666, 0, 0, 0, -22.63989, -0.046334375, 0, 0.191622, -5.474346, -17.523386, -7.879299, -2.9843462)
 mesh = ExtResource("17_2fksa")
 
 [node name="BlockSnowLarge2" type="MeshInstance3D" parent="." unique_id=1043467472]

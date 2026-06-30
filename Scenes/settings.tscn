@@ -62,6 +62,58 @@ _data = {
 &"slide_in": SubResource("Animation_i44u3")
 }
 
+[sub_resource type="Animation" id="Animation_lhmql"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_aaqfp"]
+resource_name = "fade in"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.19858639),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_j2dne"]
+resource_name = "fade out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.20037545),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_6kysc"]
+_data = {
+&"RESET": SubResource("Animation_lhmql"),
+&"fade in": SubResource("Animation_aaqfp"),
+&"fade out": SubResource("Animation_j2dne")
+}
+
 [node name="Settings" type="Node2D" unique_id=1641201441]
 script = ExtResource("1_4geyq")
 
@@ -76,5 +128,26 @@ text = "Back"
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Button" unique_id=948672031]
 libraries/ = SubResource("AnimationLibrary_lhmql")
 autoplay = &"slide_in"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1938781622]
+offset_left = -50.0
+offset_top = -68.0
+offset_right = 1233.0
+offset_bottom = 745.0
+color = Color(0, 0, 0, 0)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=1462264785]
+libraries/ = SubResource("AnimationLibrary_6kysc")
+autoplay = &"fade in"
+
+[node name="ColorRect2" type="ColorRect" parent="." unique_id=1126587205]
+offset_left = -50.0
+offset_top = -68.0
+offset_right = 1233.0
+offset_bottom = 745.0
+color = Color(0, 0, 0, 0)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=1760898082]
+libraries/ = SubResource("AnimationLibrary_6kysc")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://bueqbdy5sw3a"]
 
 [ext_resource type="ArrayMesh" uid="uid://djsyr785h5pi7" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large.obj" id="1_2obyt"]
+[ext_resource type="Script" uid="uid://dhvdbkma25icj" path="res://Scenes/title_screen_3d.gd" id="1_g6lby"]
 [ext_resource type="ArrayMesh" uid="uid://bwl8ciyykns4q" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-large-tall.obj" id="2_yfvjg"]
 [ext_resource type="ArrayMesh" uid="uid://dql6w0fwwq2up" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/block-grass-low-large.obj" id="3_a3osx"]
 [ext_resource type="ArrayMesh" uid="uid://1gih1dgbu8bf" path="res://Assets/Kenney assets/kenney_platformer-kit_3D/Models/OBJ format/flowers-tall.obj" id="4_2fksa"]
@@ -47,16 +48,85 @@
 [ext_resource type="ArrayMesh" uid="uid://d3dhbv4rkq0r5" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverStraight.obj" id="46_qhe8d"]
 [ext_resource type="ArrayMesh" uid="uid://ccmj5sogbpwn" path="res://Assets/Kenney assets/kenney_nature-kit-3D/Models/OBJ format/ground_riverRocks.obj" id="47_56dx6"]
 
-[node name="Title_screen_experimental_3D" type="Node3D" unique_id=2139015582]
+[sub_resource type="Animation" id="Animation_p1wfo"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_g6lby"]
+resource_name = "fade out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.19999999),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_bba2v"]
+resource_name = "fade out 2"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_bba2v"]
+_data = {
+&"RESET": SubResource("Animation_p1wfo"),
+&"fade out": SubResource("Animation_g6lby"),
+&"fade out 2": SubResource("Animation_bba2v")
+}
+
+[node name="Title_screen_3D" type="Node3D" unique_id=2139015582]
+script = ExtResource("1_g6lby")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
+transform = Transform3D(0.7193398, -0.34995085, 0.6000706, 0, 0.86383545, 0.50377405, -0.69465846, -0.3623847, 0.62139124, 7.183975, 6.051895, 7.9500732)
+fov = 40.0
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
+environment = ExtResource("16_a3osx")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1569207826]
 transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, -3.011138, -3.1295981, -0.24205208)
 light_energy = 0.634
 shadow_enabled = true
 
-[node name="Camera3D" type="Camera3D" parent="." unique_id=1597557143]
-transform = Transform3D(0.7193397, -0.34995088, 0.60007054, 0, 0.86383545, 0.50377405, -0.6946584, -0.36238468, 0.6213912, 7.183975, 6.051895, 7.9500732)
-fov = 40.0
+[node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1757214038]
+offset_left = -44.0
+offset_top = -60.0
+offset_right = 1245.0
+offset_bottom = 752.0
+color = Color(0, 0, 0, 1)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=520990631]
+libraries/ = SubResource("AnimationLibrary_bba2v")
+autoplay = &"fade out"
 
 [node name="BlockGrassLarge" type="MeshInstance3D" parent="." unique_id=158995879]
 transform = Transform3D(4.945558, 0, 0, 0, 3.7413905, 0, 0, 0, 4.9895144, -2.5248451, -6.8697114, 0.22858238)
@@ -145,11 +215,6 @@ mesh = ExtResource("2_yfvjg")
 [node name="BlockGrassLong2" type="MeshInstance3D" parent="." unique_id=947968779]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.112056, -3.6795168, -1.5570707)
 mesh = ExtResource("14_qncco")
-
-[node name="TitleScreen" parent="." unique_id=889717808 instance=ExtResource("15_yfvjg")]
-
-[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1072980678]
-environment = ExtResource("16_a3osx")
 
 [node name="BlockSnowLarge" type="MeshInstance3D" parent="." unique_id=1792619848]
 transform = Transform3D(5.020667, 0, 0, 0, 3.2350218, 0, 0, 0, 5.337479, -17.523386, -8.220776, -2.8450913)

@@ -1,6 +1,9 @@
 [gd_scene format=3 uid="uid://baxp6hgpkv348"]
 
+[ext_resource type="TileSet" uid="uid://c0tcm6tqckfx2" path="res://Resources/default_tile.tres" id="1_rol8n"]
+
 [node name="level_scene" type="Node2D" unique_id=62885972]
 
 [node name="TileMap" type="TileMap" parent="." unique_id=1883474433]
+tile_set = ExtResource("1_rol8n")
 format = 2

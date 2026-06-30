@@ -1,0 +1,11 @@
+[gd_resource type="TileSet" format=3 uid="uid://c0tcm6tqckfx2"]
+
+[ext_resource type="Texture2D" uid="uid://bd44g4gmkpms1" path="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Tiles/Default/block_blue.png" id="1_2ba3e"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_f2wg4"]
+texture = ExtResource("1_2ba3e")
+0:0/size_in_atlas = Vector2i(4, 4)
+0:0/0 = 0
+
+[resource]
+sources/3 = SubResource("TileSetAtlasSource_f2wg4")

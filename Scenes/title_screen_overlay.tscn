@@ -281,6 +281,7 @@ script = ExtResource("1_34b2e")
 [node name="TextureRect" type="TextureRect" parent="." unique_id=54542636]
 offset_right = 40.0
 offset_bottom = 40.0
+metadata/_edit_use_anchors_ = true
 
 [node name="Button" type="Button" parent="." unique_id=1783831343]
 offset_left = 451.0
@@ -289,6 +290,7 @@ offset_right = 699.0
 offset_bottom = 697.0
 theme_override_font_sizes/font_size = 40
 text = "Play"
+metadata/_edit_use_anchors_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Button" unique_id=171784470]
 root_node = NodePath("../../RichTextLabel")
@@ -302,6 +304,7 @@ offset_right = 699.0
 offset_bottom = 745.0001
 theme_override_font_sizes/font_size = 40
 text = "Settings"
+metadata/_edit_use_anchors_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Button2" unique_id=1185912636]
 root_node = NodePath("../../RichTextLabel")
@@ -315,6 +318,7 @@ offset_right = 699.0
 offset_bottom = 793.00037
 theme_override_font_sizes/font_size = 40
 text = "Credits"
+metadata/_edit_use_anchors_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Button4" unique_id=524505569]
 root_node = NodePath("../../RichTextLabel")
@@ -328,6 +332,7 @@ offset_right = 699.0
 offset_bottom = 793.0
 theme_override_font_sizes/font_size = 40
 text = "Quit"
+metadata/_edit_use_anchors_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Button3" unique_id=2110986815]
 root_node = NodePath("../../RichTextLabel")
@@ -342,6 +347,7 @@ theme_override_constants/outline_size = 22
 theme_override_font_sizes/normal_font_size = 85
 bbcode_enabled = true
 text = "[center]PenguinoRunner[/center]"
+metadata/_edit_use_anchors_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel" unique_id=1396443067]
 libraries/ = SubResource("AnimationLibrary_p1r5t")

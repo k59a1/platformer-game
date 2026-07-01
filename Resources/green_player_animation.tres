@@ -1,0 +1,87 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://d4do1lvttoit"]
+
+[ext_resource type="Texture2D" uid="uid://dlafr63363uwr" path="res://Assets/Kenney assets/platformer 2D-1.1/Spritesheets/spritesheet-characters-default.png" id="1_746n8"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_amyv4"]
+atlas = ExtResource("1_746n8")
+region = Rect2(256, 128, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_hiddo"]
+atlas = ExtResource("1_746n8")
+region = Rect2(384, 128, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_44sxn"]
+atlas = ExtResource("1_746n8")
+region = Rect2(512, 128, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ylobx"]
+atlas = ExtResource("1_746n8")
+region = Rect2(640, 128, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_k7rjd"]
+atlas = ExtResource("1_746n8")
+region = Rect2(128, 256, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_x47uk"]
+atlas = ExtResource("1_746n8")
+region = Rect2(0, 256, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3oio2"]
+atlas = ExtResource("1_746n8")
+region = Rect2(256, 256, 128, 128)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_67tyj"]
+atlas = ExtResource("1_746n8")
+region = Rect2(384, 256, 128, 128)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_amyv4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_hiddo")
+}],
+"loop": 1,
+"name": &"climbing",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_44sxn")
+}],
+"loop": 1,
+"name": &"crouching",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ylobx")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_k7rjd")
+}],
+"loop": 1,
+"name": &"jumping",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_x47uk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3oio2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_67tyj")
+}],
+"loop": 1,
+"name": &"running",
+"speed": 10.0
+}]

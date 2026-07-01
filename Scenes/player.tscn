@@ -1,13 +1,14 @@
 [gd_scene format=3 uid="uid://o6ud5jkuus02"]
 
 [ext_resource type="Script" uid="uid://bw3uk54tar803" path="res://Scripts/Player/player.gd" id="1_cvnsp"]
-[ext_resource type="Texture2D" uid="uid://c0mymqiequ0p1" path="res://Assets/Kenney assets/platformer 2D-1.1/Sprites/Characters/Default/character_green_front.png" id="2_6t5aa"]
+[ext_resource type="SpriteFrames" uid="uid://d4do1lvttoit" path="res://Resources/green_player_animation.tres" id="2_cvnsp"]
 
 [node name="Player" type="CharacterBody2D" unique_id=551604470]
 script = ExtResource("1_cvnsp")
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1177527592]
-texture = ExtResource("2_6t5aa")
-
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." unique_id=180182356]
 polygon = PackedVector2Array(-36, 42, -28, 28, -38, -1, -22, -27, 4, -32, 25, -22, 39, 2, 30, 25, 32, 38, 32, 46, 20, 46, 17, 59, 8, 60, 4, 52, -5, 51, -8, 61, -17, 60, -18, 43, -25, 47)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1001028902]
+sprite_frames = ExtResource("2_cvnsp")
+animation = &"crouching"

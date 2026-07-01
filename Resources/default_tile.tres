@@ -4959,5 +4959,6 @@ use_texture_padding = false
 0:17/0 = 0
 
 [resource]
+tile_size = Vector2i(63, 63)
 physics_layer_0/collision_layer = 1
 sources/4 = SubResource("TileSetAtlasSource_f2wg4")

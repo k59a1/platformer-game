@@ -233,11 +233,11 @@ libraries/ = SubResource("AnimationLibrary_xelri")
 autoplay = &"body type out"
 
 [node name="RichTextLabel3" type="RichTextLabel" parent="." unique_id=1196534945]
-offset_top = 401.0
+offset_top = 395.0
 offset_right = 1150.0
-offset_bottom = 967.0
+offset_bottom = 961.0
 theme_override_constants/outline_size = 15
-theme_override_font_sizes/normal_font_size = 30
+theme_override_font_sizes/normal_font_size = 27
 bbcode_enabled = true
 text = "[center]meaningful quotes from our friends:
 
@@ -247,6 +247,8 @@ gaby: \"umm to be or to not... uhh i dunno\"
 artin: \"hmm?\"
 jojo: \"a quote, of any type?\"
 Andy: \"what?\"
+Joel: \"how many penguins could a leopard seal chug if a
+leopard seal could chug penguins?\"
 [/center]"
 visible_characters = 0
 visible_ratio = 0.0

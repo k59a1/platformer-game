@@ -130,10 +130,11 @@ libraries/ = SubResource("AnimationLibrary_lhmql")
 autoplay = &"slide_in"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1938781622]
-offset_left = -50.0
-offset_top = -68.0
-offset_right = 1233.0
-offset_bottom = 745.0
+visible = false
+offset_left = -3379.0
+offset_top = -1576.0
+offset_right = 4587.0
+offset_bottom = 2884.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=1462264785]
@@ -141,10 +142,11 @@ libraries/ = SubResource("AnimationLibrary_6kysc")
 autoplay = &"fade in"
 
 [node name="ColorRect2" type="ColorRect" parent="." unique_id=1126587205]
-offset_left = -50.0
-offset_top = -68.0
-offset_right = 1233.0
-offset_bottom = 745.0
+visible = false
+offset_left = -2385.0
+offset_top = -1467.0
+offset_right = 4579.0
+offset_bottom = 2533.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=1760898082]

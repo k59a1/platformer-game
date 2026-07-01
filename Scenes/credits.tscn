@@ -19,6 +19,22 @@ tracks/0/keys = {
 
 [sub_resource type="Animation" id="Animation_xelri"]
 resource_name = "body type out"
+length = 20.033333
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:visible_ratio")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0.5, 0.9724772, 1.3942746, 1.9332378, 2.4019015, 2.9333334),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [0.0, 0.332, 0.332, 0.814, 0.814, 1.0]
+}
+
+[sub_resource type="Animation" id="Animation_uah1q"]
+resource_name = "quote typeout"
 length = 10.033334
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -27,10 +43,10 @@ tracks/0/path = NodePath(".:visible_ratio")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0.5, 0.99, 1.4834931, 1.8666667, 2.2952158, 2.8316991, 3.4334936, 8.033334),
-"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1),
+"times": PackedFloat32Array(3.5, 5.526971),
+"transitions": PackedFloat32Array(1, 1),
 "update": 0,
-"values": [0.0, 0.13, 0.129, 0.291, 0.291, 0.364, 0.363, 1.0]
+"values": [0.0, 1.0]
 }
 
 [sub_resource type="Animation" id="Animation_1bamb"]
@@ -52,6 +68,7 @@ tracks/0/keys = {
 _data = {
 &"RESET": SubResource("Animation_ccovl"),
 &"body type out": SubResource("Animation_xelri"),
+&"quote typeout": SubResource("Animation_uah1q"),
 &"type out": SubResource("Animation_1bamb")
 }
 
@@ -193,11 +210,11 @@ libraries/ = SubResource("AnimationLibrary_xelri")
 autoplay = &"type out"
 
 [node name="RichTextLabel2" type="RichTextLabel" parent="." unique_id=396812897]
-offset_top = 92.0
+offset_top = 89.0
 offset_right = 1150.0
-offset_bottom = 658.0
+offset_bottom = 655.0
 theme_override_constants/outline_size = 15
-theme_override_font_sizes/normal_font_size = 32
+theme_override_font_sizes/normal_font_size = 36
 bbcode_enabled = true
 text = "[center]Assets mostly from kenney.nl (the GOAT)
 
@@ -207,16 +224,6 @@ Developed by pixelburger studios
 (thomas and julius)
 
 with help from charlie
-
-
-
-meaningful quotes from our friends:
-
-Aston: \"i don't know and i dont care\"
-lily: \"let me think let me think let me think\"
-gaby: \"umm to be or to not... uhh i dunno\"
-artin: \"hmm?\"
-jojo: \"a quote, of any type?\"
 [/center]"
 visible_characters = 0
 visible_ratio = 0.0
@@ -224,6 +231,29 @@ visible_ratio = 0.0
 [node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel2" unique_id=1242963300]
 libraries/ = SubResource("AnimationLibrary_xelri")
 autoplay = &"body type out"
+
+[node name="RichTextLabel3" type="RichTextLabel" parent="." unique_id=1196534945]
+offset_top = 401.0
+offset_right = 1150.0
+offset_bottom = 967.0
+theme_override_constants/outline_size = 15
+theme_override_font_sizes/normal_font_size = 30
+bbcode_enabled = true
+text = "[center]meaningful quotes from our friends:
+
+Aston: \"i don't know and i dont care\"
+lily: \"let me think let me think let me think\"
+gaby: \"umm to be or to not... uhh i dunno\"
+artin: \"hmm?\"
+jojo: \"a quote, of any type?\"
+Andy: \"what?\"
+[/center]"
+visible_characters = 0
+visible_ratio = 0.0
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel3" unique_id=114848145]
+libraries/ = SubResource("AnimationLibrary_xelri")
+autoplay = &"quote typeout"
 
 [node name="Button" type="Button" parent="." unique_id=10477576]
 offset_left = 17.0

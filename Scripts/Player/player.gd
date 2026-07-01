@@ -9,7 +9,7 @@ const ACCELERATION = 1800.0
 const FRICTION = 600.0
 const DASH_SPEED = 700.0
 const DASH_TIME = 0.2
-const DASH_GROUND_COOLDOWN = 0 # min time between dashes, even when grounded
+const DASH_GROUND_COOLDOWN = 0.0  # set to 0 cuz i want it to be more like celeste
 var coyote_timer := 0.0
 var facing_dir := 1.0  # 1 = right, -1 = left
 var dash_timer := 0.0
@@ -25,7 +25,6 @@ func _physics_process(delta: float) -> void:
 	if on_floor:
 		coyote_timer = COYOTE_TIME
 		# being grounded keeps your dash continuously charged, celeste-style.
-		# the cooldown below (not this) is what stops you from spamming it every frame.
 		can_dash = true
 	else:
 		coyote_timer -= delta

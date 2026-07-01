@@ -9,7 +9,7 @@ const ACCELERATION = 1800.0
 const FRICTION = 600.0
 const DASH_SPEED = 700.0
 const DASH_TIME = 0.2
-const DASH_GROUND_COOLDOWN = 0.4  # min time between dashes, even when grounded
+const DASH_GROUND_COOLDOWN = 0 # min time between dashes, even when grounded
 var coyote_timer := 0.0
 var facing_dir := 1.0  # 1 = right, -1 = left
 var dash_timer := 0.0
@@ -18,20 +18,25 @@ var can_dash := true
 var dash_velocity := Vector2.ZERO
 @onready var sprite := $AnimatedSprite2D
 func _physics_process(delta: float) -> void:
+	var on_floor := is_on_floor()
 	# Add the gravity (skip while actively dashing, for a flat dash line).
-	if not is_on_floor() and dash_timer <= 0.0:
+	if not on_floor and dash_timer <= 0.0:
 		velocity += get_gravity() * delta
-	if is_on_floor():
+	if on_floor:
 		coyote_timer = COYOTE_TIME
+		# being grounded keeps your dash continuously charged, celeste-style.
+		# the cooldown below (not this) is what stops you from spamming it every frame.
 		can_dash = true
 	else:
 		coyote_timer -= delta
 	if dash_cooldown_timer > 0.0:
 		dash_cooldown_timer -= delta
-	# Handle jump.
-	if Input.is_action_just_pressed("ui_up") and coyote_timer > 0.0 and dash_timer <= 0.0:
+	# Handle jump. Jumping ALWAYS resets and cancels dash, no matter what state dash is in.
+	if Input.is_action_just_pressed("ui_up") and coyote_timer > 0.0:
 		velocity.y = JUMP_VELOCITY
 		coyote_timer = 0.0
+		dash_timer = 0.0
+		dash_cooldown_timer = 0.0
 		can_dash = true
 	var crouching := Input.is_action_pressed("ui_down")
 	var direction := Input.get_axis("ui_left", "ui_right")

@@ -205,10 +205,10 @@ _data = {
 script = ExtResource("1_axxo6")
 
 [node name="ColorRect3" type="ColorRect" parent="." unique_id=145025154]
-offset_left = -4594.0
-offset_top = -3470.0
-offset_right = 6208.0
-offset_bottom = 3597.0
+offset_left = -100850.0
+offset_top = -76814.0
+offset_right = 130880.0
+offset_bottom = 71693.0
 color = Color(0.6784314, 0.94509804, 0.9843137, 1)
 
 [node name="RichTextLabel4" type="RichTextLabel" parent="." unique_id=1922389769]
@@ -257,10 +257,10 @@ autoplay = &"slide_in"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1302147406]
 visible = false
-offset_left = -5976.0
-offset_top = -5194.0
-offset_right = 10122.0
-offset_bottom = 4848.0
+offset_left = -113240.0
+offset_top = -64970.0
+offset_right = 131210.0
+offset_bottom = 71920.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=51035037]
@@ -269,10 +269,10 @@ autoplay = &"fade in"
 
 [node name="ColorRect2" type="ColorRect" parent="." unique_id=1591805413]
 visible = false
-offset_left = -6395.0
-offset_top = -4657.0
-offset_right = 14173.0
-offset_bottom = 6697.0
+offset_left = -113147.0
+offset_top = -65329.0
+offset_right = 131165.0
+offset_bottom = 72233.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=899503654]

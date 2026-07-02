@@ -249,10 +249,10 @@ _data = {
 script = ExtResource("1_l3sru")
 
 [node name="ColorRect3" type="ColorRect" parent="." unique_id=145025154]
-offset_left = -4594.0
-offset_top = -3470.0
-offset_right = 6208.0
-offset_bottom = 3597.0
+offset_left = -93554.0
+offset_top = -61454.0
+offset_right = 128832.0
+offset_bottom = 75277.0
 color = Color(0.6784314, 0.94509804, 0.9843137, 1)
 
 [node name="RichTextLabel3" type="RichTextLabel" parent="." unique_id=1867838211]
@@ -327,11 +327,10 @@ libraries/ = SubResource("AnimationLibrary_8jm26")
 autoplay = &"showbutton"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1302147406]
-visible = false
-offset_left = -5976.0
-offset_top = -5194.0
-offset_right = 10122.0
-offset_bottom = 4848.0
+offset_left = -103768.0
+offset_top = -61130.0
+offset_right = 140682.0
+offset_bottom = 75632.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=51035037]
@@ -339,11 +338,10 @@ libraries/ = SubResource("AnimationLibrary_2extw")
 autoplay = &"fade in"
 
 [node name="ColorRect2" type="ColorRect" parent="." unique_id=1591805413]
-visible = false
-offset_left = -6395.0
-offset_top = -4657.0
-offset_right = 14173.0
-offset_bottom = 6697.0
+offset_left = -103675.0
+offset_top = -61233.0
+offset_right = 140509.0
+offset_bottom = 75049.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=899503654]

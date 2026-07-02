@@ -6,7 +6,7 @@ extends CharacterBody2D
 @onready var ceiling_check_right: RayCast2D = get_node_or_null("CeilingCheckRight")
 const SPEED = 300.0
 const CROUCH_SPEED_MULTIPLIER = 0.5
-const SPRINT_MULTIPLIER = 1.0
+const SPRINT_MULTIPLIER = 1.0 # sprint is diabled since we have dash now
 const JUMP_VELOCITY = -500.0
 const COYOTE_TIME = 0.15
 const ACCELERATION = 1800.0

@@ -131,10 +131,10 @@ autoplay = &"slide_in"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1938781622]
 visible = false
-offset_left = -3379.0
-offset_top = -1576.0
-offset_right = 4587.0
-offset_bottom = 2884.0
+offset_left = -106035.0
+offset_top = -62120.0
+offset_right = 97259.0
+offset_bottom = 46404.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=1462264785]
@@ -143,10 +143,10 @@ autoplay = &"fade in"
 
 [node name="ColorRect2" type="ColorRect" parent="." unique_id=1126587205]
 visible = false
-offset_left = -2385.0
-offset_top = -1467.0
-offset_right = 4579.0
-offset_bottom = 2533.0
+offset_left = -114385.0
+offset_top = -65083.0
+offset_right = 129507.0
+offset_bottom = 71909.0
 color = Color(0, 0, 0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=1760898082]

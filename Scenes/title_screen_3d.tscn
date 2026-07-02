@@ -119,10 +119,10 @@ shadow_enabled = true
 
 [node name="ColorRect" type="ColorRect" parent="TitleScreen" unique_id=1757214038]
 visible = false
-offset_left = -2492.0
-offset_top = -1814.0
-offset_right = 3747.0
-offset_bottom = 1880.0
+offset_left = -104124.0
+offset_top = -67350.0
+offset_right = 103843.0
+offset_bottom = 48728.0
 color = Color(0, 0, 0, 1)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="TitleScreen/ColorRect" unique_id=520990631]

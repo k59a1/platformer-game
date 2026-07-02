@@ -204,13 +204,6 @@ _data = {
 [node name="AlexQuote" type="Node2D" unique_id=1972767468]
 script = ExtResource("1_axxo6")
 
-[node name="ColorRect3" type="ColorRect" parent="." unique_id=145025154]
-offset_left = -100850.0
-offset_top = -76814.0
-offset_right = 130880.0
-offset_bottom = 71693.0
-color = Color(0.6784314, 0.94509804, 0.9843137, 1)
-
 [node name="RichTextLabel4" type="RichTextLabel" parent="." unique_id=1922389769]
 offset_left = 44.0
 offset_top = 125.0

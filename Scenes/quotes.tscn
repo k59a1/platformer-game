@@ -248,13 +248,6 @@ _data = {
 [node name="Quotes" type="Node2D" unique_id=1972767468]
 script = ExtResource("1_l3sru")
 
-[node name="ColorRect3" type="ColorRect" parent="." unique_id=145025154]
-offset_left = -93554.0
-offset_top = -61454.0
-offset_right = 128832.0
-offset_bottom = 75277.0
-color = Color(0.6784314, 0.94509804, 0.9843137, 1)
-
 [node name="RichTextLabel3" type="RichTextLabel" parent="." unique_id=1867838211]
 offset_left = 1.0
 offset_top = 26.0

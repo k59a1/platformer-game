@@ -24,7 +24,7 @@ func run_forever_loop() -> void:
 	while true:
 		get_node("Layer1").show()
 		get_node("Layer2").hide()
-		await get_tree().create_timer(2.0).timeout
+		await get_tree().create_timer(1.0).timeout
 		get_node("Layer2").show()
 		get_node("Layer1").hide()
-		await get_tree().create_timer(2.0).timeout
+		await get_tree().create_timer(1.0).timeout

@@ -7,7 +7,7 @@ extends CharacterBody2D
 const SPEED = 300.0
 const CROUCH_SPEED_MULTIPLIER = 0.5
 const SPRINT_MULTIPLIER = 1.6
-const JUMP_VELOCITY = -400.0
+const JUMP_VELOCITY = -500.0
 const COYOTE_TIME = 0.15
 const ACCELERATION = 1800.0
 const FRICTION = 600.0

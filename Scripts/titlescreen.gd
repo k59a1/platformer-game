@@ -13,7 +13,7 @@ func _on_start_button_pressed() -> void:
 	get_node("ColorRect").show()
 	get_node("ColorRect/AnimationPlayer").play("fade out 2")
 	await get_tree().create_timer(0.2).timeout
-	get_tree().change_scene_to_file("res://Scenes/level_scene.tscn")
+	get_tree().change_scene_to_file("res://Scenes/level_scene.scn")
 
 func _on_button_settings_pressed() -> void:
 	get_node("ColorRect").show()

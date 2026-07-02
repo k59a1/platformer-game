@@ -4,7 +4,9 @@
 tonemap_mode = 3
 glow_enabled = true
 glow_intensity = 0.85
-glow_bloom = 0.42
+glow_bloom = 0.13
+glow_blend_mode = 0
 fog_enabled = true
-fog_light_energy = 0.34
+fog_light_energy = 0.0
 adjustment_enabled = true
+adjustment_brightness = 0.9

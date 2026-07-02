@@ -89,3 +89,4 @@ renderer/rendering_method="mobile"
 textures/default_filters/anisotropic_filtering_level=1
 anti_aliasing/quality/msaa_2d=1
 anti_aliasing/quality/msaa_3d=1
+environment/defaults/default_clear_color=Color(0.6784314, 0.94509804, 0.9843137, 1)

@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://c7hc0rl6fqdca"]
+[gd_scene format=3 uid="uid://mptlses0f5c"]
 
-[ext_resource type="Script" uid="uid://cvxj2dh34sdle" path="res://Scripts/credits.gd" id="1_r18jl"]
+[ext_resource type="Script" uid="uid://c5kyfjkxcjfda" path="res://Scripts/quotes.gd" id="1_l3sru"]
 
 [sub_resource type="Animation" id="Animation_ccovl"]
 length = 0.001
@@ -43,7 +43,7 @@ tracks/0/path = NodePath(".:visible_ratio")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(3.5, 5.526971),
+"times": PackedFloat32Array(0.0333333, 2),
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [0.0, 1.0]
@@ -64,7 +64,7 @@ tracks/0/keys = {
 "values": [0.0, 1.0]
 }
 
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_xelri"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_tj7w8"]
 _data = {
 &"RESET": SubResource("Animation_ccovl"),
 &"body type out": SubResource("Animation_xelri"),
@@ -126,10 +126,71 @@ tracks/1/keys = {
 "values": [0.0, 0.0]
 }
 
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_ccovl"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_043eq"]
 _data = {
 &"RESET": SubResource("Animation_r18jl"),
 &"slide_in": SubResource("Animation_gryuy")
+}
+
+[sub_resource type="Animation" id="Animation_l3sru"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(132, 486)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_tj7w8"]
+resource_name = "showbutton"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(2.0333333, 2.3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(-224, 343), Vector2(95, 343)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(2.0333333, 2.3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0.0, 0.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_8jm26"]
+_data = {
+&"RESET": SubResource("Animation_l3sru"),
+&"showbutton": SubResource("Animation_tj7w8")
 }
 
 [sub_resource type="Animation" id="Animation_lhmql"]
@@ -177,62 +238,71 @@ tracks/0/keys = {
 "values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
 }
 
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_r18jl"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_2extw"]
 _data = {
 &"RESET": SubResource("Animation_lhmql"),
 &"fade in": SubResource("Animation_aaqfp"),
 &"fade out": SubResource("Animation_j2dne")
 }
 
-[node name="Credits" type="Node2D" unique_id=1641201441]
-script = ExtResource("1_r18jl")
+[node name="Quotes" type="Node2D" unique_id=1972767468]
+script = ExtResource("1_l3sru")
 
-[node name="ColorRect3" type="ColorRect" parent="." unique_id=1948661036]
+[node name="ColorRect3" type="ColorRect" parent="." unique_id=145025154]
 offset_left = -4594.0
 offset_top = -3470.0
 offset_right = 6208.0
 offset_bottom = 3597.0
 color = Color(0.6784314, 0.94509804, 0.9843137, 1)
 
-[node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=2123336107]
-offset_top = 35.0
+[node name="RichTextLabel3" type="RichTextLabel" parent="." unique_id=1867838211]
+offset_left = 1.0
+offset_top = 26.0
 offset_right = 1150.0
-offset_bottom = 201.0
-theme_override_constants/outline_size = 15
-theme_override_font_sizes/normal_font_size = 53
+offset_bottom = 681.0
+theme_override_constants/outline_size = 7
+theme_override_font_sizes/normal_font_size = 19
 bbcode_enabled = true
-text = "[center]Credits[/center]"
+text = "[center]meaningful quotes from our friends:[/center]
+
+	Aston: \"i don't know and i dont care\"
+
+	lily: \"let me think let me think let me think\"
+
+	gaby: \"umm to be or to not... uhh i dunno\"
+
+	artin: \"hmm?\"
+
+	jojo: \"a quote, of any type?\"
+
+	Andy: \"what?\"
+
+	Joel: \"how many penguins could a leopard seal chug if a leopard seal
+	could chug penguins?\"
+
+	Aiden: \"uhmm\" *clicks fingers*
+
+	Alex: 
+
+	Sam: \"war is peas\"
+
+	Lawrence: \"uhhhh lets see...\"
+
+	Nils: \"You're stupid.\"
+
+	Jackson: \"You want me to give you a quote?\"
+
+	sam: *thumbs up*
+
+	lewis: \"no.\""
 visible_characters = 0
 visible_ratio = 0.0
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel" unique_id=1425160589]
-libraries/ = SubResource("AnimationLibrary_xelri")
-autoplay = &"type out"
+[node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel3" unique_id=2090980888]
+libraries/ = SubResource("AnimationLibrary_tj7w8")
+autoplay = &"quote typeout"
 
-[node name="RichTextLabel2" type="RichTextLabel" parent="." unique_id=396812897]
-offset_top = 158.0
-offset_right = 1150.0
-offset_bottom = 724.0
-theme_override_constants/outline_size = 15
-theme_override_font_sizes/normal_font_size = 36
-bbcode_enabled = true
-text = "[center]Assets mostly from kenney.nl (the GOAT)
-
-
-
-Developed by pixelburger studios
-(thomas and julius)
-
-with help from charlie
-[/center]"
-visible_characters = 0
-visible_ratio = 0.0
-
-[node name="AnimationPlayer" type="AnimationPlayer" parent="RichTextLabel2" unique_id=1242963300]
-libraries/ = SubResource("AnimationLibrary_xelri")
-autoplay = &"body type out"
-
-[node name="Button" type="Button" parent="." unique_id=10477576]
+[node name="Button" type="Button" parent="." unique_id=715858448]
 offset_left = 17.0
 offset_top = 663.0
 offset_right = 146.0
@@ -240,11 +310,23 @@ offset_bottom = 707.0
 theme_override_font_sizes/font_size = 40
 text = "Back"
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="Button" unique_id=1053327165]
-libraries/ = SubResource("AnimationLibrary_ccovl")
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Button" unique_id=1131724061]
+libraries/ = SubResource("AnimationLibrary_043eq")
 autoplay = &"slide_in"
 
-[node name="ColorRect" type="ColorRect" parent="." unique_id=1064370611]
+[node name="Button2" type="Button" parent="." unique_id=528436584]
+offset_left = 132.0
+offset_top = 486.0
+offset_right = 339.0
+offset_bottom = 514.0
+theme_override_font_sizes/font_size = 21
+text = "Click to see quote"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Button2" unique_id=166473895]
+libraries/ = SubResource("AnimationLibrary_8jm26")
+autoplay = &"showbutton"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1302147406]
 visible = false
 offset_left = -5976.0
 offset_top = -5194.0
@@ -252,11 +334,11 @@ offset_right = 10122.0
 offset_bottom = 4848.0
 color = Color(0, 0, 0, 0)
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=186510440]
-libraries/ = SubResource("AnimationLibrary_r18jl")
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect" unique_id=51035037]
+libraries/ = SubResource("AnimationLibrary_2extw")
 autoplay = &"fade in"
 
-[node name="ColorRect2" type="ColorRect" parent="." unique_id=1845420220]
+[node name="ColorRect2" type="ColorRect" parent="." unique_id=1591805413]
 visible = false
 offset_left = -6395.0
 offset_top = -4657.0
@@ -264,7 +346,8 @@ offset_right = 14173.0
 offset_bottom = 6697.0
 color = Color(0, 0, 0, 0)
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=1740197611]
-libraries/ = SubResource("AnimationLibrary_r18jl")
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect2" unique_id=899503654]
+libraries/ = SubResource("AnimationLibrary_2extw")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_2_pressed"]

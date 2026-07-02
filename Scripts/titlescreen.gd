@@ -32,3 +32,10 @@ func _on_button_credits_pressed() -> void:
 	get_node("ColorRect/AnimationPlayer").play("fade out 2")
 	await get_tree().create_timer(0.2).timeout
 	get_tree().change_scene_to_file("res://Scenes/credits.tscn")
+
+
+func _on_button_quotes_pressed() -> void:
+	get_node("ColorRect").show()
+	get_node("ColorRect/AnimationPlayer").play("fade out 2")
+	await get_tree().create_timer(0.2).timeout
+	get_tree().change_scene_to_file("res://Scenes/quotes.tscn")

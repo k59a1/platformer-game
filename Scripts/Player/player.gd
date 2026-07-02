@@ -40,8 +40,9 @@ func _ready() -> void:
 	else:
 		push_warning("CeilingCheckRight RayCast2D node not found.")
 func _physics_process(delta: float) -> void:
+	var on_floor := is_on_floor()
 	var wants_to_crouch := Input.is_action_pressed("ui_down")
-	var blocked_by_ceiling := (ceiling_check_left != null and ceiling_check_left.is_colliding()) or (ceiling_check_right != null and ceiling_check_right.is_colliding())
+	var blocked_by_ceiling := on_floor and ((ceiling_check_left != null and ceiling_check_left.is_colliding()) or (ceiling_check_right != null and ceiling_check_right.is_colliding()))
 	var crouching := wants_to_crouch or blocked_by_ceiling
 	if crouching:
 		target_height = HEIGHT_CROUCHING
@@ -58,7 +59,6 @@ func _physics_process(delta: float) -> void:
 			ceiling_check_left.position.y -= height_diff * 0.5  # keep raycast anchored to head as it shrinks
 		if ceiling_check_right:
 			ceiling_check_right.position.y -= height_diff * 0.5
-	var on_floor := is_on_floor()
 	# Add the gravity (skip while actively dashing, for a flat dash line).
 	if not on_floor and dash_timer <= 0.0:
 		velocity += get_gravity() * delta
